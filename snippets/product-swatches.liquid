@@ -1,0 +1,69 @@
+
+{% comment %}
+    Renders product swatches
+
+    Accepts:
+    - title: {String} Title optional
+    - type: {Dropdown} Swatches type
+    - sizeWidth: {Number} Swatch size
+    - highlightCurrent: {Boolean} highlight current swatch
+    - hideCurrent: {Boolean} Hide current swatch
+    - hideUnavailables: {Boolean} Hide unavailable swatches
+
+    Usage:
+    {% render 'product-swatches', 
+        title: block.settings.swatches_title, 
+        type: block.settings.swatches_type, 
+        sizeWidth: block.settings.swatches_size, 
+        highlightCurrent: block.settings.swatches_highlightCurrent, 
+        hideCurrent: block.settings.swatches_hideCurrent, 
+        hideUnavailables: block.settings.swatches_hideUnavailables
+    %}
+
+{% endcomment %}
+{%- if product.metafields.my_fields.swatches -%}
+    {%- if title -%}
+        <div class="product__swatches--title label">{{ title }}</div>
+    {%- endif -%}
+
+    <div class="product__swatches {{ type }}">
+        {%- unless hideCurrent -%}
+            {% assign highlightBool = '' %}
+            {%- if highlightCurrent -%}
+                {% assign highlightBool = 'highlight' %}
+            {%- endif -%}
+            {{ product.metafields.my_fields.swatch_image | image_url: width: sizeWidth | image_tag: alt: product.title, class: highlightBool }}
+        {%- endunless -%}
+
+        {% for product in product.metafields.my_fields.swatches.value %}
+            {%- unless hideUnavailables and product.available == false -%}
+                <a href="{{ product.url }}">
+                    {{ product.metafields.my_fields.swatch_image |  image_url: width: sizeWidth | image_tag: alt: product.title }}
+                </a>
+            {%- endunless -%}
+        {% endfor %}
+    </div>
+{%- endif -%}
+
+{% style %}
+.product__swatches--title {
+  margin-top: 0.5rem;
+}
+.product__swatches--title,
+.product__swatches {
+  margin-bottom: 0.5rem;
+}
+.product__swatches > * {
+  margin-right: 0.25rem;
+}
+.product__swatches.squareSwatches img {
+  border-radius: 0%;
+}
+.product__swatches.circleSwatches img {
+  border-radius: 50%;
+}
+.product__swatches .highlight {
+  border: 1.5px solid #fff; 
+  outline: 1.5px solid #000;
+}
+{% endstyle %}
