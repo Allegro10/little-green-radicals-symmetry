@@ -73,6 +73,7 @@
             "enlarge_image": false,
             "subheading": "",
             "title": "Baby & Toddler",
+            "description": "",
             "button_label": "Shop Baby",
             "link": "shopify:\/\/collections\/baby-toddler-all",
             "text_alignment": "bottom left"
@@ -85,6 +86,7 @@
             "enlarge_image": false,
             "subheading": "",
             "title": "Kids",
+            "description": "",
             "button_label": "Shop Kids",
             "link": "shopify:\/\/collections\/jackets-sweatshirts-for-baby-toddler-0-4y",
             "text_alignment": "bottom left"
@@ -97,6 +99,7 @@
             "enlarge_image": false,
             "subheading": "New In",
             "title": "Bottoms",
+            "description": "",
             "button_label": "Shop Knitwear",
             "link": "",
             "text_alignment": "bottom left"
@@ -137,6 +140,7 @@
             "enlarge_image": false,
             "subheading": "",
             "title": "",
+            "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -149,6 +153,7 @@
             "enlarge_image": false,
             "subheading": "Fairtrade Pioneers",
             "title": "A way of being",
+            "description": "Lorem ipsum doalr sit amet",
             "button_label": "More This Way",
             "link": "shopify:\/\/pages\/christmas",
             "text_alignment": "center left"
