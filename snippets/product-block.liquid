@@ -109,7 +109,7 @@
               <div class="product-block__title">{{ product.title | escape }}</div>
 
               {%-  if product.metafields.custom.collection_excerpt != blank -%}
-              <p>{{ product.metafields.custom.collection_excerpt }}</p>
+              <p class="product-block__excert">{{ product.metafields.custom.collection_excerpt }}</p>
               {%- endif -%}
 
               {%- if settings.prod_thumb_show_subtitle and product.metafields.descriptors.subtitle != blank -%}
