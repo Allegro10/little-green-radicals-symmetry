@@ -13,9 +13,11 @@
 {%- form 'localization', id: form_id, class: 'selectors-form' -%}
   {%- if country_selector -%}
     <div class="selectors-form__item">
-     <div class="">Shipping Country:</div> <div class="visually-hidden" id="country-heading-{{ input_prefix }}">
-        test {{ 'general.country.dropdown_label' | t }}
-      </div>
+       <div class="selector-label">Shipping Country:</div> 
+      
+        <div class="visually-hidden" id="country-heading-{{ input_prefix }}">
+          {{ 'general.country.dropdown_label' | t }}
+        </div>
 
       <div class="disclosure" data-disclosure-country>
         <button type="button" class="disclosure__toggle" aria-expanded="false" aria-controls="country-list-{{ input_prefix }}" aria-describedby="country-heading-{{ input_prefix }}" data-disclosure-toggle>
