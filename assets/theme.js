@@ -7513,3 +7513,29 @@
 
 })(theme.jQuery);  
 /* Built with Barry v1.0.8 */
+
+
+// READ MORE SCRIPT
+
+const readMore = document.querySelector(".readmore");
+const readLess = document.querySelector(".readless");
+ 
+if (readMore) {  
+  readMore.addEventListener("click", function(event) {
+    const descriptionFull = document.querySelector('.product-description-full');
+    const descriptionShort = document.querySelector('.product-description-short');
+
+    event.preventDefault();
+    descriptionFull.style.display = 'block';
+    descriptionShort.style.display = 'none';
+  });
+
+  readLess.addEventListener("click", function(event) {
+    const descriptionFull = document.querySelector('.product-description-full');
+    const descriptionShort = document.querySelector('.product-description-short');
+
+    event.preventDefault();
+    descriptionFull.style.display = 'none';
+    descriptionShort.style.display = 'block';
+  }); 
+}
