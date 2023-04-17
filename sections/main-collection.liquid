@@ -213,12 +213,11 @@
         {% if collection.description != blank and section.settings.coll_desc_pos == 'above' %}
           <div class="rte cf align-center reading-width ">
 
-            {%  comment %}
+            {% if section.setting.use_readmore %}
+            {% render 'collection-description' %}
+            {% else %}
             {{ collection.description }}
-            {%  endcomment %}
-
-          
-            {%  render 'collection-description' %}
+            {% endif %}
   
           </div>
         {% endif %}
