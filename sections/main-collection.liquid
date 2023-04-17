@@ -213,7 +213,7 @@
         {% if collection.description != blank and section.settings.coll_desc_pos == 'above' %}
           <div class="rte cf align-center reading-width ">
 
-            {% if section.setting.use_readmore %}
+            {% if section.settings.use_readmore %}
             {% render 'collection-description' %}
             {% else %}
             {{ collection.description }}
