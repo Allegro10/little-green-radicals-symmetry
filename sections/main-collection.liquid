@@ -180,7 +180,7 @@
               {%- endif -%}
 
               {% if collection.description != blank and section.settings.coll_desc_pos == 'above' %}
-                <div class="overlay-text__rte rte cf align-center reading-width large-text">TEST{{ collection.description }}</div>
+                <div class="overlay-text__rte rte cf align-center reading-width large-text">{{ collection.description }}</div>
               {% endif %}
 
               {%- if current_link_parent and section.settings.subcoll_style == 'buttons' -%}
@@ -341,7 +341,7 @@
 
   {% if collection.description != blank and section.settings.coll_desc_pos == 'below' %}
     <div class="container container--reading-width fully-spaced-row" data-cc-animate>
-      <div class="rte cf">{{ collection.description }}</div>
+      <div class="rte cf">TESTSTTT{{ collection.description }}</div>
     </div>
   {% endif %}
 </div>
