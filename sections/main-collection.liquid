@@ -216,6 +216,8 @@
             {%  comment %}
             {{ collection.description }}
             {%  endcomment %}
+
+          
             {%  render 'collection-description' %}
   
           </div>
@@ -442,6 +444,13 @@
           }
         ]
       },
+      {
+        "type": "checkbox",
+        "id": "use_readmore",
+        "label": "Use readmore functionality",
+        "default": true
+      },
+
       {
         "type": "header",
         "content": "Layout"
