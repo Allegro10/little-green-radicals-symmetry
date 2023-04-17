@@ -1,0 +1,24 @@
+{% if collection.description.size > 190 %}
+<div class="product-description-short">
+  {{ collection.description | truncatewords: 30, ". . . " }} 
+  <a class="readmore" href="#">Show More</a>
+  <br/>  
+</div>
+<div class="product-description-full">
+  {{ collection.description }} <a class="readless" href="#">Show Less</a>
+  <br/>
+</div>
+{% else %}
+{{ collection.description }}
+{% endif %}
+
+{% style %}
+.readmore,
+.readless {
+  font-weight: bold;
+}
+
+.product-description-full {
+  display: none;
+}
+{% endstyle %}
