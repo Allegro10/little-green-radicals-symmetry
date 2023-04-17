@@ -81,7 +81,7 @@
         "b295ecd4-99be-4fd6-87cc-c3bc7e558a36": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"klaviyo-form-YmTLM3\"><\/div><div class=\"klaviyo-form-U9Fd62\"><\/div><div class=\"klaviyo-form-X3Bhzj\"><\/div>",
+            "custom_liquid": "<div class=\"klaviyo-form-YmTLM3\"><\/div><div class=\"klaviyo-form-U9Fd62\"><\/div><div class=\"klaviyo-form-X3Bhzj\"><\/div>\n<br\/>",
             "show_in_quickbuy": false
           }
         },
@@ -102,6 +102,33 @@
             "image_width": 60,
             "url": "",
             "open_in_new_tab": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "2e5d92d3-b18a-47b9-a6ff-a511cad8aa90": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
+            "image_width": 60,
+            "url": "",
+            "open_in_new_tab": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "0097f67d-fdf2-46ea-88c0-f07dd57a085e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
+            "image_width": 60,
+            "url": "",
+            "open_in_new_tab": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "2122cc1f-016e-41a5-af4a-d254b319f919": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<br\/>",
             "show_in_quickbuy": false
           }
         },
@@ -189,6 +216,9 @@
         "b295ecd4-99be-4fd6-87cc-c3bc7e558a36",
         "54dd2147-f3bf-4a47-af98-5068ae0ae1f8",
         "ae0d4c81-efef-480e-8a03-f7d1e6509f7b",
+        "2e5d92d3-b18a-47b9-a6ff-a511cad8aa90",
+        "0097f67d-fdf2-46ea-88c0-f07dd57a085e",
+        "2122cc1f-016e-41a5-af4a-d254b319f919",
         "description",
         "8b3e4353-eb63-4895-95e8-9448bc0fa9a9",
         "326a4110-7d39-4491-b9e3-5becf3e3b809",
