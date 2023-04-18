@@ -41,6 +41,11 @@
             "show_in_quickbuy": false
           }
         },
+        "1f27810d-e48d-45e2-ab8f-ad5e47491107": {
+          "type": "swatches_picker_by_type",
+          "settings": {
+          }
+        },
         "d8b54a24-bb37-4607-bfd3-2d2ae87d8c64": {
           "type": "swatches_picker",
           "settings": {
@@ -229,6 +234,7 @@
         "price",
         "loox-rating",
         "5075a4af-6d30-4700-ad52-66c772ce36b4",
+        "1f27810d-e48d-45e2-ab8f-ad5e47491107",
         "d8b54a24-bb37-4607-bfd3-2d2ae87d8c64",
         "variant_picker",
         "1446c521-6cf4-4449-afa4-b0eedfaf7cd7",
