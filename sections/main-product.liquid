@@ -148,7 +148,7 @@
             {%- when 'swatches_picker_by_type' -%}
             
                 {% if product.type != blank %}
-                <label>OTHER COLOURS</label>
+                <label class="variant-colors__label">OTHER COLOURS</label>
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
                 {% for types in collections.all.products %}
