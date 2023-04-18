@@ -82,7 +82,7 @@
               {%- if product.metafields.custom.badge != blank -%}
               <div class="pdp-badges">
               {%- for image in product.metafields.custom.badge.value -%}
-                {{ image | image_url: width: 300 | image_tag: class: 'pdp-badge', loading: 'lazy' }}
+                {{ image | image_url: width: 150 | image_tag: class: 'pdp-badge', loading: 'lazy' }}
               {%- endfor -%}
               </div>
               {%- endif -%}
@@ -91,6 +91,8 @@
                   position: absolute;
                   top: 0;
                   right: 0;
+                  max-width: 50px;
+                  height: auto;
                 }
               {% endstyle %}
         
