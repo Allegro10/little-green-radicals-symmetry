@@ -85,24 +85,7 @@
                 {{ image | image_url: width: 150 | image_tag: class: 'pdp-badge', loading: 'lazy' }}
               {%- endfor -%}
               </div>
-              {%- endif -%}
-              {% style %}
-                .pdp-badges {
-                  position: absolute;
-                  top: 0;
-                  right: 0;
-                  width: 100%;
-                  display: flex;
-                  align-items: center;
-                  justify-content: flex-end;
-                  flex-wrap: wrap;
-                }
-                .pdp-badges img {
-                  max-width: 50px !important;
-                  height: auto;
-                }
-              {% endstyle %}
-        
+              {%- endif -%}        
             </div>
           </a>
           {%- if show_hover_image -%}
