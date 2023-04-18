@@ -78,6 +78,15 @@
                   </div>
                 {%- endunless -%}
               {%- endif -%}
+        
+              {%- if product.metafields.custom.badge != blank -%}
+              <div class="pdp-badges">
+              {%- for image in product.metafields.custom.badge.value -%}
+                {{ image | image_url: width: 300 | image_tag: class: 'pdp-badge', loading: 'lazy' }}
+              {%- endfor -%}
+              </div>
+              {%- endif -%}
+        
             </div>
           </a>
           {%- if show_hover_image -%}
