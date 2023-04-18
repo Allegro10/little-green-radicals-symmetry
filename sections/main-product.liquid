@@ -145,6 +145,23 @@
         {% for block in section.blocks %}
           {% case block.type %}
 
+            {%- when 'swatches_picker_by_type' -%}
+            
+                {% if product.type != blank %}
+                <label class="variant__label">OTHER COLOURS</label>
+                <ul class="variant-colors">
+                {% paginate collections.all.products by 1000 %}
+                {% for types in collections.all.products %}
+                    {% if types.type == product.type and types.title != product.title %}
+                    {% assign color = types.variants.first.options.first %}
+                    {% assign img = color | handleize | append: '.png' %}
+                    <li><a href="{{ types.url }}"><img src="{{ img | asset_img_url: '60x' }}" style="width:40px" /><!-- {{ types.title }} --></a></li>
+                    {% endif %}
+                {% endfor %}
+                {% endpaginate %}
+                </ul>
+                {%- endif -%}
+
              {%- when 'swatches_picker' -%}
                 {% render 'product-swatches', title: block.settings.swatches_title, type: block.settings.swatches_type, sizeWidth: block.settings.swatches_size, highlightCurrent: block.settings.swatches_highlightCurrent, hideCurrent: block.settings.swatches_hideCurrent, hideUnavailables: block.settings.swatches_hideUnavailables %}
         
