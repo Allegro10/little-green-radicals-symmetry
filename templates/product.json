@@ -90,6 +90,13 @@
             "show_in_quickbuy": false
           }
         },
+        "55360c31-9553-4fe4-a4a0-5d50fdd6852b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"trust-badges\">\n{%- for image in product.metafields.custom.badge.value -%}\n{{ image | image_url: width: 150 | image_tag: class: 'pdp-badge', loading: 'lazy' }}\n{%- endfor -%}\n<\/div>",
+            "show_in_quickbuy": false
+          }
+        },
         "54dd2147-f3bf-4a47-af98-5068ae0ae1f8": {
           "type": "image",
           "settings": {
@@ -240,6 +247,7 @@
         "1446c521-6cf4-4449-afa4-b0eedfaf7cd7",
         "buy_buttons",
         "b295ecd4-99be-4fd6-87cc-c3bc7e558a36",
+        "55360c31-9553-4fe4-a4a0-5d50fdd6852b",
         "54dd2147-f3bf-4a47-af98-5068ae0ae1f8",
         "ae0d4c81-efef-480e-8a03-f7d1e6509f7b",
         "2e5d92d3-b18a-47b9-a6ff-a511cad8aa90",
