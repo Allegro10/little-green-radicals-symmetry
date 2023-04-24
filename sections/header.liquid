@@ -18,7 +18,7 @@
     position: sticky;
   }
   {%- endif -%}
-  {%- if section.settings.enable_transparent and template.name == 'index' -%}
+  {%- if section.settings.enable_transparent and template.name == 'index' or template.name contains 'transparent' -%}
     .section-header {
       margin-bottom: calc(var(--theme-header-height) * -1);
       --transparent-header-text-color: {{ section.settings.transparent_color }};
