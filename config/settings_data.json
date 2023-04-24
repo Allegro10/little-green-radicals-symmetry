@@ -1077,6 +1077,9 @@
           "1478526632860",
           "1478526632861"
         ],
+        "custom_css": [
+          ".selectors-form__label {font-weight: 700;}"
+        ],
         "settings": {
           "announcement_bar_col": "#000000",
           "announcement_text_col": "#ffffff",
