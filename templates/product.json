@@ -99,6 +99,7 @@
         },
         "54dd2147-f3bf-4a47-af98-5068ae0ae1f8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
@@ -109,6 +110,7 @@
         },
         "ae0d4c81-efef-480e-8a03-f7d1e6509f7b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
@@ -119,6 +121,7 @@
         },
         "2e5d92d3-b18a-47b9-a6ff-a511cad8aa90": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
@@ -129,6 +132,7 @@
         },
         "0097f67d-fdf2-46ea-88c0-f07dd57a085e": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
@@ -139,6 +143,7 @@
         },
         "b2c2237f-a277-43ed-8b67-69c4583da2cd": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
@@ -149,6 +154,7 @@
         },
         "44771e9f-1090-4b3c-b008-d8089c91f412": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Pop-Up_._Outerwear_11_ddfc5de4-8be3-4354-97b8-032a40b98c88.png",
             "image_width": 60,
