@@ -16,6 +16,10 @@
         {% if section.settings.enable_carousel %}<a class="next ltr-icon" href="#">{% render 'svg-chevron-right' %}</a>{% endif %}
       </h2>
 
+      {% if section.settings.subtitle != blank %}
+      <p>{{ section.settings.subtitle | escape }}</p>
+      {% endif %}
+        
       {%- if section.settings.show_view_all -%}
         <div class="view-all align-center" data-cc-animate data-cc-animate-delay="0.3s">
           <a class="small-feature-link" href="{{ collection.url }}">{{ 'collections.general.view_all' | t }}</a>
