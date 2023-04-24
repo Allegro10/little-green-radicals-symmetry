@@ -18,7 +18,7 @@
     position: sticky;
   }
   {%- endif -%}
-  {%- if section.settings.enable_transparent and template.name == 'index' or template.name contains 'transparent' -%}
+  {%- if section.settings.enable_transparent and template.name == 'index' or template.suffix contains 'transparent' -%}
     .section-header {
       margin-bottom: calc(var(--theme-header-height) * -1);
       --transparent-header-text-color: {{ section.settings.transparent_color }};
@@ -52,7 +52,7 @@
 
 {%- assign featured_links = section.settings.nav_featured_link | split: ', ' -%}
 <div data-section-type="header" data-cc-animate>
-  <div id="pageheader" class="pageheader pageheader--layout-{{ section.settings.menu_layout }}{% if section.settings.enable_transparent and template.name == 'index' or template.name contains 'transparent' %} pageheader--transparent-permitted pageheader--transparent{% endif %}{% if section.settings.enable_sticky %} pageheader--sticky{% endif %}">
+  <div id="pageheader" class="pageheader pageheader--layout-{{ section.settings.menu_layout }}{% if section.settings.enable_transparent and template.name == 'index' or template.suffix contains 'transparent' %} pageheader--transparent-permitted pageheader--transparent{% endif %}{% if section.settings.enable_sticky %} pageheader--sticky{% endif %}">
     <div class="logo-area container container--no-max">
       <div class="logo-area__left">
         <div class="logo-area__left__inner">
