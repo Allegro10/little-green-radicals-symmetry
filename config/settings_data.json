@@ -1063,7 +1063,7 @@
           "1478526632860": {
             "type": "announcement",
             "settings": {
-              "text": "<p>Welcome to our store<\/p>"
+              "text": "<p>Welcome to <strong>our store<\/strong><\/p>"
             }
           },
           "1478526632861": {
