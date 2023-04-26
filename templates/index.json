@@ -432,16 +432,6 @@
         "full_width": false
       }
     },
-    "1650dcf7-2670-45ef-959c-8449a40364f6": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".fully-spaced-row--medium {margin-top: 80px; margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "code": "<center><h3>Fress From Instagram<\/h3><\/center>\n\n<center><div class=\"snpt-wdgt--liveig\">\n        <script src=\"https:\/\/snapppt.com\/widgets\/liveig\/a7e5097c-c749-45f0-bac1-063e586a3848\" class=\"snapppt-widget\"><\/script>\n      <\/div><\/center>"
-      }
-    },
     "25970f93-544a-47ed-bda9-9b5c9a664c73": {
       "type": "collection-list",
       "disabled": true,
@@ -535,7 +525,6 @@
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
     "167088407055c4622b",
-    "1650dcf7-2670-45ef-959c-8449a40364f6",
     "25970f93-544a-47ed-bda9-9b5c9a664c73",
     "621f0644-4515-4a21-803b-a2b20d423c1d",
     "16825053370681838e"
