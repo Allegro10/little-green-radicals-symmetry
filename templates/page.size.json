@@ -73,9 +73,9 @@
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
-            "subheading": "Subheading",
-            "title": "Tell your story",
-            "text": "<p>Pair text with an image to tell a story<\/p>",
+            "subheading": "",
+            "title": "",
+            "text": "",
             "enlarge_text": false,
             "button_label": "",
             "image_link": "",
@@ -97,7 +97,59 @@
         "48e7a887-4e6d-4ddb-ad90-2bdae832a53a"
       ],
       "settings": {
-        "alignment": "middle"
+        "alignment": "top"
+      }
+    },
+    "fbf9e44b-c8ce-41d9-bac3-8c8431fd37be": {
+      "type": "custom-row",
+      "blocks": {
+        "0a7cf5aa-5591-4fca-892b-f3af0607e7e5": {
+          "type": "text",
+          "settings": {
+            "width": "three-quarters",
+            "subheading": "",
+            "title": "Tape measures at the ready",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        },
+        "template--14362388168779__fbf9e44b-c8ce-41d9-bac3-8c8431fd37be-168304145520ced1c1-1": {
+          "type": "text",
+          "settings": {
+            "width": "third",
+            "subheading": "",
+            "title": "",
+            "text": "<p><strong>Height:<br\/><\/strong>Measure from the top of the head to the bottom of their feet when your child is standing up or lying down.<\/p><p><strong>Chest:<br\/><\/strong>Measure around the chest just beneath your child's underarms.<\/p><p><strong>Waist:<\/strong><br\/>Measure the natural waist (the bit where it is curved in) with the child’s abdomen relaxed.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
+        },
+        "400434b7-fc61-445f-b1ba-f1dadd83dbbc": {
+          "type": "text",
+          "settings": {
+            "width": "third",
+            "subheading": "",
+            "title": "",
+            "text": "<p><strong>Leg Length:<br\/><\/strong>Measure from the waist to bottom of the feet.<\/p><p><strong>Arm Length:<br\/><\/strong>Measure from the edge of the shoulder to the wrist when arm is straight.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "0a7cf5aa-5591-4fca-892b-f3af0607e7e5",
+        "template--14362388168779__fbf9e44b-c8ce-41d9-bac3-8c8431fd37be-168304145520ced1c1-1",
+        "400434b7-fc61-445f-b1ba-f1dadd83dbbc"
+      ],
+      "settings": {
+        "alignment": "top"
       }
     }
   },
@@ -105,6 +157,7 @@
     "main",
     "44cf7c0b-bc49-4f3e-87c2-6feb833a4a0d",
     "a5a6c5d6-4f1d-4174-bdec-f3a946ae8011",
-    "2e68a7d9-9227-495d-a714-945c122e940b"
+    "2e68a7d9-9227-495d-a714-945c122e940b",
+    "fbf9e44b-c8ce-41d9-bac3-8c8431fd37be"
   ]
 }
