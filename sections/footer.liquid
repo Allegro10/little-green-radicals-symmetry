@@ -46,6 +46,12 @@
                 </div>
               {% endif %}
 
+              {% if section.settings.button_label != blank %}
+            <div class="lightish-spaced-row-above">
+              <a class="{% if section.settings.button_style != 'link' %}btn btn--{{ section.settings.button_style }}{% else %}small-feature-link{% endif %}" href="{{ section.settings.button_link }}">{{ section.settings.button_label | escape }}</a>
+            </div>
+          {% endif %}
+
               {% if block.settings.image != blank %}
                 <span class="section-footer__text-block__image">
                   {%- capture double_image_width -%}{{ block.settings.image_width | times: 2 }}x{%- endcapture -%}
@@ -266,6 +272,37 @@
             "label": "Text",
             "default": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
           },
+          {
+        "type": "text",
+        "id": "button_label",
+        "label": "Button",
+        "default": "Read more"
+      },
+      {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button link"
+      },
+      {
+        "type": "select",
+        "id": "button_style",
+        "label": "Button style",
+        "default": "primary",
+        "options": [
+          {
+            "label": "Button - primary",
+            "value": "primary"
+          },
+          {
+            "label": "Button - secondary",
+            "value": "secondary"
+          },
+          {
+            "label": "Link",
+            "value": "link"
+          }
+        ]
+      },
           {
             "type": "image_picker",
             "id": "image",
