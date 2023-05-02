@@ -5,9 +5,47 @@
       "settings": {
         "full_width": false
       }
+    },
+    "2e68a7d9-9227-495d-a714-945c122e940b": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14362388168779__2e68a7d9-9227-495d-a714-945c122e940b-168304145520ced1c1-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "Subheading",
+            "title": "Tell your story",
+            "text": "<p>Pair text with an image to tell a story<\/p>",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "48e7a887-4e6d-4ddb-ad90-2bdae832a53a": {
+          "type": "html",
+          "settings": {
+            "width": "half",
+            "code": "<div class=\"size-guide__table5\">\n<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr class=\"bg-black\">\n<td>\n<div><strong>Sizes<\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Chest<\/span><\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Front Length<\/span><\/strong><\/div>\n<\/td>\n<td><strong>Sleeve Length<\/strong><\/td>\n<\/tr>\n<tr>\n<td>XS<\/td>\n<td><span data-type=\"inches\">35-36\" 89-91.5cm <\/span><\/td>\n<td><span data-type=\"inches\">27\" 68.6cm<\/span><\/td>\n<td>31.6\" 80.4cm<\/td>\n<\/tr>\n<tr>\n<td>S<\/td>\n<td>37-38\" 94-97cm<\/td>\n<td>27-28\" 69.8cm <\/td>\n<td>32\" 81.2cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>M<\/td>\n<td>39-40\" 99-102cm<\/td>\n<td>28\" 71cm<\/td>\n<td>32.3\" 82cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>L<\/td>\n<td>41-42\" 104-107cm <\/td>\n<td>28-29\" 72.2cm<\/td>\n<td>32.6\" 82.8cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>XL<\/td>\n<td>43-44\" 109-112cm<\/td>\n<td>29\" 73.4cm<\/td>\n<td>33\" 83.6cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>2XL<\/td>\n<td>45-46\" 114-117cm <\/td>\n<td>29-30\" 74.6cm<\/td>\n<td>33.2\" 84.4cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>3XL<\/td>\n<td>47-48<span>\"<\/span> 119-122cm<span data-type=\"inches\"><\/span><\/td>\n<td>30\" 75.8cm<span data-type=\"inches\"><\/span><\/td>\n<td>33.5\" 85.2cm<\/td>\n<\/tr>\n<tr>\n<td>4XL<\/td>\n<td>49-50” 124-127cm<span> <\/span><\/td>\n<td>30-31” 77cm<\/td>\n<td>33.9” 86cm<\/td>\n<\/tr>\n<tr>\n<td>5XL<\/td>\n<td>51-52” 129-132cm <\/td>\n<td>40” 78.2cm<span> <\/span><\/td>\n<td>34.2” 86.8cm<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14362388168779__2e68a7d9-9227-495d-a714-945c122e940b-168304145520ced1c1-0",
+        "48e7a887-4e6d-4ddb-ad90-2bdae832a53a"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "2e68a7d9-9227-495d-a714-945c122e940b"
   ]
 }
