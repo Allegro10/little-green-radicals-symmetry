@@ -151,6 +151,35 @@
       "settings": {
         "alignment": "top"
       }
+    },
+    "286e436e-85b5-4b9f-be7e-2ce1d5809b4e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14362388168779__286e436e-85b5-4b9f-be7e-2ce1d5809b4e-16830415769285ae47-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Don't forget",
+            "use_h1": false
+          }
+        },
+        "template--14362388168779__286e436e-85b5-4b9f-be7e-2ce1d5809b4e-16830415769285ae47-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We give 6 month free post returns to the UK and EU so can replace your LGR style with another size if it’s not exactly what you’re looking for. <\/p><p>If you have any questions, please contact our Customer Service Team: <br\/><strong>+44 (0) 207 7335027<\/strong> or <strong>customer service@littlegreenradicals.co.uk<\/strong><\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14362388168779__286e436e-85b5-4b9f-be7e-2ce1d5809b4e-16830415769285ae47-0",
+        "template--14362388168779__286e436e-85b5-4b9f-be7e-2ce1d5809b4e-16830415769285ae47-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
     }
   },
   "order": [
@@ -158,6 +187,7 @@
     "44cf7c0b-bc49-4f3e-87c2-6feb833a4a0d",
     "a5a6c5d6-4f1d-4174-bdec-f3a946ae8011",
     "2e68a7d9-9227-495d-a714-945c122e940b",
-    "fbf9e44b-c8ce-41d9-bac3-8c8431fd37be"
+    "fbf9e44b-c8ce-41d9-bac3-8c8431fd37be",
+    "286e436e-85b5-4b9f-be7e-2ce1d5809b4e"
   ]
 }
