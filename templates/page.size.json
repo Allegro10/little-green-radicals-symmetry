@@ -2,17 +2,74 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "full_width": false
+      }
+    },
+    "44cf7c0b-bc49-4f3e-87c2-6feb833a4a0d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_2.jpg",
+        "height": "fixed",
+        "height_desktop": 420,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Our guide to measuring your child",
+        "title": "Size Guide",
+        "heading_max_width": 800,
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "a5a6c5d6-4f1d-4174-bdec-f3a946ae8011": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14362388168779__a5a6c5d6-4f1d-4174-bdec-f3a946ae8011-16830415769285ae47-0": {
+          "type": "heading",
+          "settings": {
+            "title": "How to measure",
+            "use_h1": false
+          }
+        },
+        "template--14362388168779__a5a6c5d6-4f1d-4174-bdec-f3a946ae8011-16830415769285ae47-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We want your little one to be comfy and carefree in whatever they wear so we hope our handy size chart and how to measure guide will help you to find the perfect fit. Our sizing is based on 75% percentile babies and children, so will fit true to size for them.<\/p><p>If your child is bigger or smaller for their age you can size up or down accordingly! All our Baby and Toddler Trousers, Dungarees, Babygrows and Playsuits are sized to fit cloth nappies. Cloth nappies are bigger than conventional ones, so we’ve left a bit more room in the body of the garment so your little one can wriggle around comfortably. These styles also fit well over disposable nappies.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14362388168779__a5a6c5d6-4f1d-4174-bdec-f3a946ae8011-16830415769285ae47-0",
+        "template--14362388168779__a5a6c5d6-4f1d-4174-bdec-f3a946ae8011-16830415769285ae47-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
       }
     },
     "2e68a7d9-9227-495d-a714-945c122e940b": {
       "type": "custom-row",
       "blocks": {
-        "template--14362388168779__2e68a7d9-9227-495d-a714-945c122e940b-168304145520ced1c1-0": {
+        "94d672ea-de36-4b85-aefd-f6f690e0faf8": {
           "type": "image",
           "settings": {
-            "width": "half",
+            "width": "quarter",
+            "image": "shopify:\/\/shop_images\/sizechartex.webp",
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
@@ -30,13 +87,13 @@
         "48e7a887-4e6d-4ddb-ad90-2bdae832a53a": {
           "type": "html",
           "settings": {
-            "width": "half",
+            "width": "two-thirds",
             "code": "<div class=\"size-guide__table5\">\n<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr class=\"bg-black\">\n<td>\n<div><strong>Sizes<\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Chest<\/span><\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Front Length<\/span><\/strong><\/div>\n<\/td>\n<td><strong>Sleeve Length<\/strong><\/td>\n<\/tr>\n<tr>\n<td>XS<\/td>\n<td><span data-type=\"inches\">35-36\" 89-91.5cm <\/span><\/td>\n<td><span data-type=\"inches\">27\" 68.6cm<\/span><\/td>\n<td>31.6\" 80.4cm<\/td>\n<\/tr>\n<tr>\n<td>S<\/td>\n<td>37-38\" 94-97cm<\/td>\n<td>27-28\" 69.8cm <\/td>\n<td>32\" 81.2cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>M<\/td>\n<td>39-40\" 99-102cm<\/td>\n<td>28\" 71cm<\/td>\n<td>32.3\" 82cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>L<\/td>\n<td>41-42\" 104-107cm <\/td>\n<td>28-29\" 72.2cm<\/td>\n<td>32.6\" 82.8cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>XL<\/td>\n<td>43-44\" 109-112cm<\/td>\n<td>29\" 73.4cm<\/td>\n<td>33\" 83.6cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>2XL<\/td>\n<td>45-46\" 114-117cm <\/td>\n<td>29-30\" 74.6cm<\/td>\n<td>33.2\" 84.4cm<span data-type=\"inches\"><\/span><\/td>\n<\/tr>\n<tr>\n<td>3XL<\/td>\n<td>47-48<span>\"<\/span> 119-122cm<span data-type=\"inches\"><\/span><\/td>\n<td>30\" 75.8cm<span data-type=\"inches\"><\/span><\/td>\n<td>33.5\" 85.2cm<\/td>\n<\/tr>\n<tr>\n<td>4XL<\/td>\n<td>49-50” 124-127cm<span> <\/span><\/td>\n<td>30-31” 77cm<\/td>\n<td>33.9” 86cm<\/td>\n<\/tr>\n<tr>\n<td>5XL<\/td>\n<td>51-52” 129-132cm <\/td>\n<td>40” 78.2cm<span> <\/span><\/td>\n<td>34.2” 86.8cm<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
           }
         }
       },
       "block_order": [
-        "template--14362388168779__2e68a7d9-9227-495d-a714-945c122e940b-168304145520ced1c1-0",
+        "94d672ea-de36-4b85-aefd-f6f690e0faf8",
         "48e7a887-4e6d-4ddb-ad90-2bdae832a53a"
       ],
       "settings": {
@@ -46,6 +103,8 @@
   },
   "order": [
     "main",
+    "44cf7c0b-bc49-4f3e-87c2-6feb833a4a0d",
+    "a5a6c5d6-4f1d-4174-bdec-f3a946ae8011",
     "2e68a7d9-9227-495d-a714-945c122e940b"
   ]
 }
