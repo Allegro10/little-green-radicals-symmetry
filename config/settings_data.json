@@ -1240,7 +1240,7 @@
               "text": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>",
               "button_label": "Read more",
               "button_link": "shopify:\/\/pages\/newsletter-sign-up",
-              "button_style": "primary",
+              "button_style": "secondary",
               "image_width": 100,
               "show_social_icons": true,
               "soc_icons_large": false
