@@ -46,11 +46,11 @@
                 </div>
               {% endif %}
 
-              {% if section.settings.button_label != blank %}
-            <div class="lightish-spaced-row-above">
-              <a class="{% if section.settings.button_style != 'link' %}btn btn--{{ section.settings.button_style }}{% else %}small-feature-link{% endif %}" href="{{ section.settings.button_link }}">{{ section.settings.button_label | escape }}</a>
-            </div>
-          {% endif %}
+              {% if block.settings.button_label != blank %}
+              <div class="lightish-spaced-row-above">TEST
+                <a class="{% if block.settings.button_style != 'link' %}btn btn--{{ block.settings.button_style }}{% else %}small-feature-link{% endif %}" href="{{ block.settings.button_link }}">{{ block.settings.button_label | escape }}</a>
+              </div>
+              {% endif %}
 
               {% if block.settings.image != blank %}
                 <span class="section-footer__text-block__image">
