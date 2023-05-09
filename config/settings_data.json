@@ -1236,9 +1236,9 @@
           "5b315489-0aaa-4ee3-a4c5-6a34a1c60580": {
             "type": "text",
             "settings": {
-              "title": "Sign Up for 10% Off",
-              "text": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>",
-              "button_label": "Read more",
+              "title": "Fancy 10% off your order?",
+              "text": "<p>Sign up to get your code, exclusive discounts, new styles & feel-good news.Discount applies to all products!<\/p>",
+              "button_label": "Sign Up",
               "button_link": "shopify:\/\/pages\/newsletter-sign-up",
               "button_style": "secondary",
               "image_width": 100,
