@@ -51,13 +51,20 @@
         "code": "<div class=\"klaviyo-form-USGuKi\"><\/div><div class=\"klaviyo-form-WKKCBb\"><\/div>"
       }
     },
+    "f5dfd21a-b135-4e9b-90ec-4e65074eaaec": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": ""
+      }
+    },
     "5fc9c6d3-3da0-4543-a0a9-e2025aa8abdb": {
       "type": "rich-text",
       "blocks": {
         "9c9d0011-1b5b-4c95-a494-2ec570d56ca5": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><a href=\"\/collections\/natural-skincare\" title=\"Babies Natural  Plastic Free Skincare\">Link 1<\/a> <a href=\"\/collections\/reversible-styles\" title=\"Baby & Kids  Reversible Clothes and Accessories\">Link 2<\/a> <a href=\"\/collections\/baby-kids-organic-animal-clothes\" title=\"Baby & Kids Animal Adventures Collection\">Link 3<\/a><\/p>",
+            "text": "<p><\/p><p><a href=\"\/collections\/baby-t-shirts\" title=\"Organic Cotton Baby T Shirts\">Baby T-Shirts<\/a><\/p>",
             "enlarge_text": false
           }
         },
@@ -97,6 +104,7 @@
         "heading_image_height": "small",
         "overlay_style": "shadow",
         "coll_desc_pos": "above",
+        "use_readmore": true,
         "coll_num_per_page_int": 24,
         "grid": 4,
         "show_vendor": false,
@@ -134,6 +142,7 @@
             "enlarge_image": true,
             "subheading": "Gallery",
             "title": "Tell your story",
+            "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -145,6 +154,7 @@
             "enlarge_image": false,
             "subheading": "Gallery",
             "title": "Tell your story",
+            "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -156,6 +166,7 @@
             "enlarge_image": false,
             "subheading": "Gallery",
             "title": "Tell your story",
+            "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -167,6 +178,7 @@
             "enlarge_image": true,
             "subheading": "Gallery",
             "title": "Tell your story",
+            "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -274,6 +286,7 @@
   "order": [
     "7bde5178-e867-4e73-8c6a-daa8052b3b4d",
     "cb1d0412-fe28-4710-80db-fb5a314475b2",
+    "f5dfd21a-b135-4e9b-90ec-4e65074eaaec",
     "5fc9c6d3-3da0-4543-a0a9-e2025aa8abdb",
     "main",
     "457462c9-a6a3-40c3-92d9-cf8826aab024",
