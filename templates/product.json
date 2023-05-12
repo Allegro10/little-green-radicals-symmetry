@@ -93,7 +93,7 @@
         "55360c31-9553-4fe4-a4a0-5d50fdd6852b": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"trust-badges\">\n{%- for image in product.metafields.custom.trust.value -%}\n{{ image | image_url: width: 10 | image_tag: class: 'pdp-badge', loading: 'lazy' }}\n{%- endfor -%}\n<\/div>",
+            "custom_liquid": "<div class=\"trust-badges\">\n{%- for image in product.metafields.custom.trust.value -%}\n{{ image | image_url: width: 150 | image_tag: class: 'pdp-badge', loading: 'lazy' }}\n{%- endfor -%}\n<\/div>",
             "show_in_quickbuy": false
           }
         },
