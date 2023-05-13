@@ -1253,6 +1253,10 @@
           "1601374650582",
           "5b315489-0aaa-4ee3-a4c5-6a34a1c60580"
         ],
+        "custom_css": [
+          ".btn.btn--secondary {border: none;}",
+          ".btn.btn--secondary:hover {border: none; color: #fff; background: #000000 !important;}"
+        ],
         "settings": {
           "lower_menu": "",
           "show_payment_icons": true,

@@ -48,7 +48,7 @@
 
               {% if block.settings.button_label != blank %}
               <div class="lightish-spaced-row-above">
-                <a class="{% if block.settings.button_style != 'link' %}btn btn--{{ block.settings.button_style }}{% else %}small-feature-link{% endif %}" href="{{ block.settings.button_link }}">{{ block.settings.button_label | escape }}</a>
+                <a class="overlay-text__button button altcolour" href="{{ block.settings.button_link }}">{{ block.settings.button_label | escape }}</a>
               </div>
               {% endif %}
 
