@@ -1255,7 +1255,7 @@
         ],
         "custom_css": [
           ".btn.btn--secondary {border: none;}",
-          ".btn.btn--secondary:hover {border: none; color: #fff; background: #000000 !important;}"
+          ".btn--secondary:hover {border: none; color: #fff; background-color: #000000 !important;}"
         ],
         "settings": {
           "lower_menu": "",
