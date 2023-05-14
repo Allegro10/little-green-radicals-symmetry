@@ -195,8 +195,8 @@
           "settings": {
             "title": "Size Guide",
             "icon": "",
-            "content": "<p>{{ product.metafields.custom.sizetable.value }}<\/p>",
-            "page": "",
+            "content": "",
+            "page": "{{ product.metafields.custom.size_guide.value }}",
             "open": false,
             "show_in_quickbuy": false
           }
