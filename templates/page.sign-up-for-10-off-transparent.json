@@ -47,120 +47,17 @@
         "autoplay_speed": 7
       }
     },
-    "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1": {
-      "type": "compact-messages",
-      "blocks": {
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0": {
-          "type": "message",
-          "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
-            "link_url": ""
-          }
-        },
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-1": {
-          "type": "message",
-          "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
-            "link_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0",
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-1"
-      ],
+    "21730d06-1423-46e5-91a3-62889ae2f8af": {
+      "type": "custom-liquid",
       "settings": {
-        "head_not_col_bg": "#f4f6f8",
-        "head_not_col_txt1": "#171717",
-        "head_not_col_txt2": "#4c4c4b",
-        "head_not_mob_show": true,
-        "head_not_mob_text": "Add important information here",
-        "head_not_mob_url": ""
-      }
-    },
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79": {
-      "type": "testimonials",
-      "blocks": {
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
-            "image_caption": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-1": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
-            "image_caption": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0",
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-1"
-      ],
-      "settings": {
-        "title": "Customer reviews",
-        "layout": "image-right",
-        "text_caps": false,
-        "quote_text_size": 30,
-        "quote_text_size_mobile": 20,
-        "image_shape": "square",
-        "use_alt_bg": false,
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
-    },
-    "f74dae93-7c37-4714-b5b4-97946015f60a": {
-      "type": "video",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "Tell your story",
-        "video_title": "Featured video",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "<p>Use a video to get a customer's attention<\/p>",
-        "enlarge_text": true,
-        "text_alignment": "center center",
         "full_width": true,
-        "overlay_style": "shadow"
-      }
-    },
-    "ee7b061f-d3f9-41df-8509-c7d94024b915": {
-      "type": "video-with-text",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "subheading": "",
-        "title": "Video with text",
-        "use_h1": false,
-        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
+        "code": "<center><h2>Sign up below to get 10% off<\/h2><div class=\"klaviyo-form-WqGcv6\"><\/div>\n<div class=\"klaviyo-form-Smne2j\"><\/div><div class=\"klaviyo-form-Y8Mndm\"><\/div><div class=\"klaviyo-form-WcsJym\"><\/div><\/center>"
       }
     }
   },
   "order": [
     "main",
     "f94a21db-6880-4911-a434-3c12bc39f920",
-    "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1",
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79",
-    "f74dae93-7c37-4714-b5b4-97946015f60a",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915"
+    "21730d06-1423-46e5-91a3-62889ae2f8af"
   ]
 }
