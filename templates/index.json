@@ -290,65 +290,35 @@
         "ccf67e8b-8630-4505-ab5c-e6d658225be3": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Mother_and_Baby_8.png",
+            "image_width": 150,
             "link": "",
-            "title": "GOTS"
+            "title": "Mother & Baby"
           }
         },
         "5bc54933-b97a-4a68-b9be-47db4e66ea40": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Guardina_Logo-1.png",
+            "image_width": 150,
             "link": "",
-            "title": "Fairtrade"
+            "title": "The Guardian"
           }
         },
         "d8275d95-0442-4ab0-8b11-57ac999f7c21": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Good_On_you_7.png",
+            "image_width": 150,
             "link": "",
-            "title": "Marie Claire"
-          }
-        },
-        "befb5627-9cce-46ec-8061-4edd191c0368": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
-            "link": "",
-            "title": "GOTS"
-          }
-        },
-        "629e8397-0298-4fa7-8a97-dac2b5a9db98": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
-            "link": "",
-            "title": "Marie Claire"
-          }
-        },
-        "5464d3fd-82f6-4097-845e-34cc248d6390": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
-            "link": "",
-            "title": "GOTS"
+            "title": "Good On You"
           }
         }
       },
       "block_order": [
         "ccf67e8b-8630-4505-ab5c-e6d658225be3",
         "5bc54933-b97a-4a68-b9be-47db4e66ea40",
-        "d8275d95-0442-4ab0-8b11-57ac999f7c21",
-        "befb5627-9cce-46ec-8061-4edd191c0368",
-        "629e8397-0298-4fa7-8a97-dac2b5a9db98",
-        "5464d3fd-82f6-4097-845e-34cc248d6390"
+        "d8275d95-0442-4ab0-8b11-57ac999f7c21"
       ],
       "custom_css": [
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
