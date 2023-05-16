@@ -210,65 +210,35 @@
         "3c8bc425-93a3-46a8-9c40-90862f58de47": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Artboard_1_752365a9-94c0-4f50-af6e-6553199cd8b2.png",
+            "image_width": 150,
             "link": "",
-            "title": "Guardian"
-          }
-        },
-        "7e4e6a90-ede1-4299-be71-51bc88b19d64": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
-            "link": "",
-            "title": "Guardian"
-          }
-        },
-        "b19bcc63-ea15-46cd-88b6-74ccbdfe042a": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
-            "link": "",
-            "title": "Guardian"
+            "title": "Fairtrade"
           }
         },
         "6843e9f0-47d1-4949-93eb-42c108bdbe34": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Artboard_8.png",
+            "image_width": 150,
             "link": "",
-            "title": "Guardian"
+            "title": "Lux Life"
           }
         },
         "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Little_Green_Radicals_Logo_Low_Res_895ef4f6-7ca2-4a39-8a63-a038ee49323e.jpg",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Artboard_9.png",
+            "image_width": 150,
             "link": "",
-            "title": "Guardian"
-          }
-        },
-        "e2c984de-afdb-463f-9aa0-17edfb9d6460": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/purple-vector_bw.png",
-            "image_width": 160,
-            "link": "",
-            "title": "Purple"
+            "title": "Junior Design Awards"
           }
         }
       },
       "block_order": [
         "3c8bc425-93a3-46a8-9c40-90862f58de47",
-        "7e4e6a90-ede1-4299-be71-51bc88b19d64",
-        "b19bcc63-ea15-46cd-88b6-74ccbdfe042a",
         "6843e9f0-47d1-4949-93eb-42c108bdbe34",
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1",
-        "e2c984de-afdb-463f-9aa0-17edfb9d6460"
+        "8ab75100-e97a-4129-bb7d-b0f32b8977e1"
       ],
       "custom_css": [
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
