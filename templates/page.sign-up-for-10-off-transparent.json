@@ -51,13 +51,29 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center><h2>Sign up below to get 10% off<\/h2><div class=\"klaviyo-form-WqGcv6\"><\/div>\n<div class=\"klaviyo-form-Smne2j\"><\/div><div class=\"klaviyo-form-Y8Mndm\"><\/div><div class=\"klaviyo-form-WcsJym\"><\/div><\/center>"
+        "code": "<center><div class=\"klaviyo-form-WqGcv6\"><\/div>\n<div class=\"klaviyo-form-Smne2j\"><\/div><div class=\"klaviyo-form-Y8Mndm\"><\/div><div class=\"klaviyo-form-WcsJym\"><\/div><\/center>"
+      }
+    },
+    "05e23bd3-0045-46f9-9587-7589ce5cb3ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "we think you might like",
+        "subtitle": "",
+        "collection": "bestsellers",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": false,
+        "full_width": true
       }
     }
   },
   "order": [
     "main",
     "f94a21db-6880-4911-a434-3c12bc39f920",
-    "21730d06-1423-46e5-91a3-62889ae2f8af"
+    "21730d06-1423-46e5-91a3-62889ae2f8af",
+    "05e23bd3-0045-46f9-9587-7589ce5cb3ef"
   ]
 }
