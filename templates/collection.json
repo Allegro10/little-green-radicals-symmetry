@@ -263,10 +263,34 @@
             "title": "{{ collection.metafields.custom.faq_1_question.value }}",
             "answer": "<p>{{ collection.metafields.custom.faq_1_answer | metafield_tag }}<\/p>"
           }
+        },
+        "66ca4b35-3c40-4b6d-8810-f3ad18a2b482": {
+          "type": "question",
+          "settings": {
+            "title": "{{ collection.metafields.custom.faq_2_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_2_answer.value }}<\/p>"
+          }
+        },
+        "79e51cf7-38ba-418f-b450-fd10092b48ca": {
+          "type": "question",
+          "settings": {
+            "title": "{{ collection.metafields.custom.faq_3_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_3_answer.value }}<\/p>"
+          }
+        },
+        "5cee56fe-4c31-4ef6-923a-f36a8b8aae0e": {
+          "type": "question",
+          "settings": {
+            "title": "{{ collection.metafields.custom.faq_4_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_4_answer.value }}<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--14340524245067__c132618f-4117-45c4-a2fc-dfb204203233-1678722015db96f900-1"
+        "template--14340524245067__c132618f-4117-45c4-a2fc-dfb204203233-1678722015db96f900-1",
+        "66ca4b35-3c40-4b6d-8810-f3ad18a2b482",
+        "79e51cf7-38ba-418f-b450-fd10092b48ca",
+        "5cee56fe-4c31-4ef6-923a-f36a8b8aae0e"
       ],
       "custom_css": [
         ".collapsible-tabs {margin-top: 0px; margin-bottom: 50px;}"
