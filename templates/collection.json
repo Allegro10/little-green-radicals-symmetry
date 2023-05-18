@@ -56,6 +56,7 @@
       "blocks": {
         "9c9d0011-1b5b-4c95-a494-2ec570d56ca5": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><\/p><p><a href=\"\/collections\/natural-skincare\" title=\"Babies Natural  Plastic Free Skincare\">Link 1<\/a> <a href=\"\/collections\/reversible-styles\" title=\"Baby & Kids  Reversible Clothes and Accessories\">Link 2<\/a> <a href=\"\/collections\/baby-kids-organic-animal-clothes\" title=\"Baby & Kids Animal Adventures Collection\">Link 3<\/a><\/p>",
             "enlarge_text": false
@@ -63,7 +64,6 @@
         },
         "template--14340524245067__5fc9c6d3-3da0-4543-a0a9-e2025aa8abdb-1678354009c8c97ea5-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>{{ collection.metafields.custom.linked_collections.value }}<\/p>",
             "enlarge_text": true
