@@ -260,8 +260,8 @@
         "template--14340524245067__c132618f-4117-45c4-a2fc-dfb204203233-1678722015db96f900-1": {
           "type": "question",
           "settings": {
-            "title": "Add your question here{{ collection.metafields.custom.faq_1_question.value }}",
-            "answer": "<p>Answer goes here{{ collection.metafields.custom.faq_1_question.value }}<\/p>"
+            "title": "{{ collection.metafields.custom.faq_1_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_1_question.value }}<\/p>"
           }
         }
       },
