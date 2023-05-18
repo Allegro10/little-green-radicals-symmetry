@@ -261,7 +261,7 @@
           "type": "question",
           "settings": {
             "title": "{{ collection.metafields.custom.faq_1_question.value }}",
-            "answer": "<p>{{ collection.metafields.custom.faq_1_question.value }}<\/p>"
+            "answer": "<p>{{ collection.metafields.custom.faq_1_answer | metafield_tag }}<\/p>"
           }
         }
       },
