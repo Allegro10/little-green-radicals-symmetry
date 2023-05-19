@@ -251,7 +251,7 @@
       ],
       "settings": {
         "full_width": true,
-        "code": "<center><p style=\"color:black\">FAQ's<\/p><center>"
+        "code": "{% if collection.metafields.custom.linked_collections != blank %}\n<center><p style=\"color:black\">FAQ's<\/p><center>\n{% endif %}"
       }
     },
     "c132618f-4117-45c4-a2fc-dfb204203233": {
