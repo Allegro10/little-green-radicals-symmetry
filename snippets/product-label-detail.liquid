@@ -11,7 +11,13 @@
 
   {%- if product.metafields.my_fields.promotional_label != blank -%}
     <span class="product-label product-label--meta">
-      <span>CCC {{ product.metafields.my_fields.promotional_label | escape }}</span>
+      <span>{{ product.metafields.my_fields.promotional_label | escape }}</span>
+    </span>
+  {%- endif -%}
+
+   {%- if product.metafields.my_fields.promotional_label2 != blank -%}
+    <span class="product-label product-label--meta">
+      <span>{{ product.metafields.my_fields.promotional_label2 | escape }}</span>
     </span>
   {%- endif -%}
 
