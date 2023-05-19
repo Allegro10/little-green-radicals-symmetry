@@ -28,7 +28,7 @@
         "017e3295-8a74-4973-b479-bd3a66bb5eb0": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'label-block' %}",
+            "custom_liquid": "{% render 'product-label-detail', product: product, current_variant: current_variant %}",
             "show_in_quickbuy": false
           }
         },
