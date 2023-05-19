@@ -451,6 +451,32 @@
       "settings": {
         "full_width": false
       }
+    },
+    "d99e7be1-11e2-4b4d-9057-d1bef0f518fc": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "template--14357810872395__d99e7be1-11e2-4b4d-9057-d1bef0f518fc-16845007869b340032-0": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer<\/p>"
+          }
+        },
+        "template--14357810872395__d99e7be1-11e2-4b4d-9057-d1bef0f518fc-16845007869b340032-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810872395__d99e7be1-11e2-4b4d-9057-d1bef0f518fc-16845007869b340032-0",
+        "template--14357810872395__d99e7be1-11e2-4b4d-9057-d1bef0f518fc-16845007869b340032-1"
+      ],
+      "settings": {
+        "title": "Collapsible tabs"
+      }
     }
   },
   "order": [
@@ -467,6 +493,7 @@
     "167088407055c4622b",
     "25970f93-544a-47ed-bda9-9b5c9a664c73",
     "621f0644-4515-4a21-803b-a2b20d423c1d",
-    "16825053370681838e"
+    "16825053370681838e",
+    "d99e7be1-11e2-4b4d-9057-d1bef0f518fc"
   ]
 }
