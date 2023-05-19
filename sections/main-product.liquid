@@ -157,7 +157,7 @@
                     {% assign img = color | handleize | append: '.png' %}
                     <li>
                       <a href="{{ types.url }}">
-                        <img src="{{ types.featured_image | asset_img_url: '60x' }}" style="width:40px" />
+                        <img src="{{ types.featured_image | img_url: '60x' }}" style="width:40px" />
                         <!-- {{ types.title }} -->
                       </a>
                     </li>
