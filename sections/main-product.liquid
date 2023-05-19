@@ -156,8 +156,8 @@
                     {% assign color = types.variants.first.options.first %}
                     <li>
                       <a href="{{ types.url }}">
-                        {% if types.metafields.swatch_image != blank %}
-                        {{ types.metafields.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {% if types.metafields.custom.swatch_image != blank %}
+                        {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
                         {% else %}
                         {{ types.featured_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
                         {% endif %}
