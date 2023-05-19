@@ -354,57 +354,6 @@
         "use_alt_bg": false
       }
     },
-    "ee028ac1-67bb-4201-8486-2ca64433e27e": {
-      "type": "collapsible-tabs",
-      "disabled": true,
-      "blocks": {
-        "template--14322409832523__ee028ac1-67bb-4201-8486-2ca64433e27e-1670885591411206ea-0": {
-          "type": "question",
-          "settings": {
-            "title": "Description",
-            "answer": "<p>{{ product.metafields.custom.product_description.value }}<\/p>"
-          }
-        },
-        "template--14322409832523__ee028ac1-67bb-4201-8486-2ca64433e27e-1670885591411206ea-1": {
-          "type": "question",
-          "settings": {
-            "title": "Size Guide",
-            "answer": "<p>{{ product.metafields.custom.sizetable.value }}<\/p>"
-          }
-        },
-        "f9b28670-51c8-4570-a7b4-2953ebda5baf": {
-          "type": "question",
-          "settings": {
-            "title": "Awards & Certifications",
-            "answer": "<p>{{ product.metafields.custom.awards_certification.value }}<\/p>"
-          }
-        },
-        "23a44324-2083-484d-a381-8e62b0ba2d29": {
-          "type": "question",
-          "settings": {
-            "title": "Brand",
-            "answer": "<p>{{ product.metafields.custom.brand.value }}<\/p>"
-          }
-        },
-        "cc633ddb-0c7f-41b8-ab4d-9ab063cd792c": {
-          "type": "question",
-          "settings": {
-            "title": "FAQ's",
-            "answer": "<p>How are your t-shirts printed?<\/p><p><\/p><p><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14322409832523__ee028ac1-67bb-4201-8486-2ca64433e27e-1670885591411206ea-0",
-        "template--14322409832523__ee028ac1-67bb-4201-8486-2ca64433e27e-1670885591411206ea-1",
-        "f9b28670-51c8-4570-a7b4-2953ebda5baf",
-        "23a44324-2083-484d-a381-8e62b0ba2d29",
-        "cc633ddb-0c7f-41b8-ab4d-9ab063cd792c"
-      ],
-      "settings": {
-        "title": ""
-      }
-    },
     "1670886228083ccf3e": {
       "type": "apps",
       "blocks": {
@@ -460,7 +409,6 @@
     "e934e297-5ff9-4025-af30-19374aa8c626",
     "main",
     "ee3964ce-f894-4ebd-b648-07b11a91185d",
-    "ee028ac1-67bb-4201-8486-2ca64433e27e",
     "1670886228083ccf3e",
     "recommendations",
     "loox-product-reviews-app-section"
