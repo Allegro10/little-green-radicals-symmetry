@@ -154,10 +154,13 @@
                 {% for types in collections.all.products %}
                     {% if types.type == product.type and types.title != product.title %}
                     {% assign color = types.variants.first.options.first %}
-                    {% assign img = color | handleize | append: '.png' %}
                     <li>
                       <a href="{{ types.url }}">
-                        <img src="{{ types.featured_image | img_url: '60x' }}" style="width:40px" />
+                        {% if types.metafields.swatch_image != blank %}
+                        {{ types.metafields.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {% else %}
+                        {{ types.featured_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {% endif %}
                         <!-- {{ types.title }} -->
                       </a>
                     </li>
