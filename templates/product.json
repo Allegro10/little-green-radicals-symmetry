@@ -25,6 +25,13 @@
             "enable_product_reviews_by_price": false
           }
         },
+        "017e3295-8a74-4973-b479-bd3a66bb5eb0": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% render 'label-block' %}",
+            "show_in_quickbuy": false
+          }
+        },
         "loox-rating": {
           "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
@@ -245,6 +252,7 @@
       "block_order": [
         "title",
         "price",
+        "017e3295-8a74-4973-b479-bd3a66bb5eb0",
         "loox-rating",
         "5075a4af-6d30-4700-ad52-66c772ce36b4",
         "1f27810d-e48d-45e2-ab8f-ad5e47491107",
@@ -339,13 +347,25 @@
             "button_label": "",
             "link": ""
           }
+        },
+        "879bb5f9-3038-434e-a8da-a989d9aebb27": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--14340524507211__ee3964ce-f894-4ebd-b648-07b11a91185d-1678714416e270d2e1-0",
         "template--14340524507211__ee3964ce-f894-4ebd-b648-07b11a91185d-1678714416e270d2e1-1",
         "template--14340524507211__ee3964ce-f894-4ebd-b648-07b11a91185d-1678714416e270d2e1-2",
-        "fc1c8617-def4-4138-aac9-98834dfc8a6c"
+        "fc1c8617-def4-4138-aac9-98834dfc8a6c",
+        "879bb5f9-3038-434e-a8da-a989d9aebb27"
       ],
       "settings": {
         "title": "Multi-column",
