@@ -155,7 +155,12 @@
                     {% if types.type == product.type and types.title != product.title %}
                     {% assign color = types.variants.first.options.first %}
                     {% assign img = color | handleize | append: '.png' %}
-                    <li><a href="{{ types.url }}"><img src="{{ img | asset_img_url: '60x' }}" style="width:40px" /><!-- {{ types.title }} --></a></li>
+                    <li>
+                      <a href="{{ types.url }}">
+                        <img src="{{ types.featured_image | asset_img_url: '60x' }}" style="width:40px" />
+                        <!-- {{ types.title }} -->
+                      </a>
+                    </li>
                     {%  comment %}
                     <li><a href="{{ types.url }}"><img src="{{ img | asset_img_url: '60x' }}" style="width:40px" /><!-- {{ types.title }} --></a></li>
                     {%  endcomment %}            
