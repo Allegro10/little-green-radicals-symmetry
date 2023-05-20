@@ -90,7 +90,7 @@
             </button>
           {% endif %}
 
-         {% comment %} {% render 'product-label-detail', product: product, current_variant: current_variant %}{% endcomment %}
+          {% render 'product-label-detail', product: product, current_variant: current_variant %}
         </div>
 
         {% if product.media.size > 1 %}
@@ -156,6 +156,7 @@
                     {% assign color = types.variants.first.options.first %}
                     <li>
                       <a href="{{ types.url }}">
+                        {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
 
                         {% if types.metafields.custom.swatch_image != blank %}
                         {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
