@@ -14,7 +14,7 @@
       <span>{{ product.metafields.my_fields.promotional_label | escape }}</span>
       {%- endif -%}
       {%- if product.metafields.my_fields.promotional_label2 != blank -%}
-      <span style="background-color:{{ product.metafields.my_fields.promotional_label2_bg_colour }}; color:{{ product.metafields.my_fields.promotional_label2_txt_colour }};">{{ product.metafields.my_fields.promotional_label2 | escape }}</span>
+      <span style="background-color:{{ product.metafields.my_fields.promotional_label2_bg_colour }}; color:{{ product.metafields.my_fields.promotional_label2_txt_colour }}; font-weight:600">{{ product.metafields.my_fields.promotional_label2 | escape }}</span>
       {%- endif -%}
     </span>
 
