@@ -26,7 +26,7 @@
       {%- if product.metafields.my_fields.promotional_label2 != blank -%}
       <span style="background-color:{{ product.metafields.my_fields.promotional_label2_bg_colour }}; color:{{ product.metafields.my_fields.promotional_label2_txt_colour }};">{{ product.metafields.my_fields.promotional_label2 | escape }}</span>
       {%- endif -%}
-    
+    </span>
 
   {%- liquid
     if settings.prod_new_show
@@ -99,4 +99,3 @@
   </div>
 {%- endif -%}
 
-</span>
