@@ -153,8 +153,8 @@
                 {% paginate collections.all.products by 1000 %}
 
 {% for types in collections.all.products %}
-  {% if product.metafields.custom.swatch_image != blank %}
-  {{ product.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: 'test', loading: 'lazy' }}  
+  {% if types.product.metafields.my_fields.swatch_image != blank %}
+  {{ types.product.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'test', loading: 'lazy' }}  
   {% endif %}
 {%  endfor %}
 
@@ -165,8 +165,8 @@
                     <li>
                       <a href="{{ types.url }}">
                        
-                        {% if types.metafields.custom.swatch_image != blank %}
-                        {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {% if types.metafields.my_fields.swatch_image != blank %}
+                        {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
                         {% else %}
                         {{ types.featured_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
                         {% endif %}
