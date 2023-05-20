@@ -148,6 +148,9 @@
             {%- when 'swatches_picker_by_type' -%}
             
                 {% if product.type != blank %}
+                   {% if types.metafields.custom.swatch_image != blank %}
+                        {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {% endif %}
                 <label class="variant-colors__label">Other Colours</label>
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
@@ -156,8 +159,7 @@
                     {% assign color = types.variants.first.options.first %}
                     <li>
                       <a href="{{ types.url }}">
-                        {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
-
+                       
                         {% if types.metafields.custom.swatch_image != blank %}
                         {{ types.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
                         {% else %}
