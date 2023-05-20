@@ -151,11 +151,15 @@
                 <label class="variant-colors__label">Other Colours</label>
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
+
+{% for types in collections.all.products %}
+  {% if types.product.metafields.custom.swatch_image != blank %}
+  {{ types.product.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: 'test', loading: 'lazy' }}  
+  {% endif %}
+{%  endfor %}
+
+                  <hr><hr>
                 {% for types in collections.all.products %}
-                {% if types.product.metafields.custom.swatch_image != blank %}
-                {{ types.product.metafields.custom.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
-                {% endif %}
-                  <hr/>
                     {% if types.type == product.type and types.title != product.title %}
                     {% assign color = types.variants.first.options.first %}
                     <li>
