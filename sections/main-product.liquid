@@ -152,13 +152,6 @@
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
 
-{% for types in collections.all.products %}
-  {% if types.metafields.my_fields.swatch_image != blank %}
-  {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'test', loading: 'lazy' }}  
-  {% endif %}
-{%  endfor %}
-
-                  <hr><hr>
                 {% for types in collections.all.products %}
                     {% if types.type == product.type and types.title != product.title %}
                     {% assign color = types.variants.first.options.first %}
@@ -166,9 +159,9 @@
                       <a href="{{ types.url }}">
                        
                         {% if types.metafields.my_fields.swatch_image != blank %}
-                        {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'swatch metafield_image', loading: 'lazy' }}   
                         {% else %}
-                        {{ types.featured_image | image_url: width: 60 | image_tag: class: media_class, loading: 'lazy' }}  
+                        {{ types.featured_image | image_url: width: 60 | image_tag: class: 'swatch featured_image', loading: 'lazy' }}  
                         {% endif %}
                         <!-- {{ types.title }} -->
                       </a>
