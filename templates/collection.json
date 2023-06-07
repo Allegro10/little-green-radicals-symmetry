@@ -307,8 +307,8 @@
         "template--14357810413643__62fa32fc-62d9-49cb-89cf-fda3e7e65769-16861560103b670a91-0": {
           "type": "question",
           "settings": {
-            "title": "Question",
-            "answer": "<p>Answer<\/p>"
+            "title": "{{ collection.metafields.custom.faq_2_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_2_answer.value }}<\/p>"
           }
         }
       },
@@ -328,8 +328,8 @@
         "template--14357810413643__10ef7138-78ca-40d4-b948-9ceabb3dec9b-1686156016b2558f17-0": {
           "type": "question",
           "settings": {
-            "title": "Question",
-            "answer": "<p>Answer<\/p>"
+            "title": "{{ collection.metafields.custom.faq_3_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_3_answer.value }}<\/p>"
           }
         }
       },
@@ -349,8 +349,8 @@
         "template--14357810413643__accee7b5-a877-4fad-865f-16d17741b277-168615602292a7cb49-0": {
           "type": "question",
           "settings": {
-            "title": "Question",
-            "answer": "<p>Answer<\/p>"
+            "title": "{{ collection.metafields.custom.faq_4_question.value }}",
+            "answer": "<p>{{ collection.metafields.custom.faq_4_answer.value }}<\/p>"
           }
         }
       },
@@ -358,7 +358,7 @@
         "template--14357810413643__accee7b5-a877-4fad-865f-16d17741b277-168615602292a7cb49-0"
       ],
       "custom_css": [
-        ".collapsible-tabs {margin-top: 0px; margin-bottom: 50px;}"
+        ".collapsible-tabs {margin-top: 0px; margin-bottom: 0px;}"
       ],
       "settings": {
         "title": ""
