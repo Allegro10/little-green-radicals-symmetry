@@ -1138,7 +1138,7 @@
           "transparent_logo": "shopify:\/\/shop_images\/LGR_Logo_White.svg",
           "menu_linklist": "test",
           "menu_linklist_mobile": "",
-          "menu_layout": "underneath",
+          "menu_layout": "inline-menu-center",
           "nav_featured_link": "Christmas +, Sale +",
           "enable_mobile_promo_carousel": true,
           "enable_nav_mob_products": false,
