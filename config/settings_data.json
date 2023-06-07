@@ -1357,7 +1357,8 @@
     "custom_css": [
       ".underline {color: #707173;}",
       ".reading-width {margin-left: auto; margin-right: auto; max-width: fit-content;}",
-      ".page-header--with-upper-spacing {margin-top: 0px;}"
+      ".page-header--with-upper-spacing {margin-top: 0px;}",
+      ".product-label--new-in {padding-right: 2.5px}"
     ]
   }
 }
