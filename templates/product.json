@@ -248,6 +248,17 @@
             "show_in_quickbuy": false
           }
         },
+        "ec278d53-c2ec-4ae7-807a-6157bb3fdede": {
+          "type": "accordion",
+          "settings": {
+            "title": "Return & Earn",
+            "icon": "",
+            "content": "<p>{{ product.metafields.custom.superloop | metafield_tag }}<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
         "f2469c99-7b85-484d-9a3e-84b34f4f514f": {
           "type": "custom_liquid",
           "settings": {
@@ -282,6 +293,7 @@
         "65655ac3-8b7f-4067-9974-9656b1bb08bd",
         "34d2f6c0-dbe3-4378-8b22-45542c5cc3be",
         "6161f745-5b66-4119-a4d8-5f9db448ea06",
+        "ec278d53-c2ec-4ae7-807a-6157bb3fdede",
         "f2469c99-7b85-484d-9a3e-84b34f4f514f"
       ],
       "custom_css": [
