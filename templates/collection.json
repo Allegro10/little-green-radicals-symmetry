@@ -265,6 +265,7 @@
         },
         "66ca4b35-3c40-4b6d-8810-f3ad18a2b482": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "{{ collection.metafields.custom.faq_2_question.value }}",
             "answer": "<p>{{ collection.metafields.custom.faq_2_answer.value }}<\/p>"
@@ -272,6 +273,7 @@
         },
         "79e51cf7-38ba-418f-b450-fd10092b48ca": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "{{ collection.metafields.custom.faq_3_question.value }}",
             "answer": "<p>{{ collection.metafields.custom.faq_3_answer.value }}<\/p>"
@@ -279,6 +281,7 @@
         },
         "5cee56fe-4c31-4ef6-923a-f36a8b8aae0e": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "{{ collection.metafields.custom.faq_4_question.value }}",
             "answer": "<p>{{ collection.metafields.custom.faq_4_answer.value }}<\/p>"
@@ -292,7 +295,7 @@
         "5cee56fe-4c31-4ef6-923a-f36a8b8aae0e"
       ],
       "custom_css": [
-        ".collapsible-tabs {margin-top: 0px; margin-bottom: 50px;}"
+        ".collapsible-tabs {margin-top: 0px; margin-bottom: 0px;}"
       ],
       "settings": {
         "title": ""
