@@ -300,6 +300,76 @@
       "settings": {
         "title": ""
       }
+    },
+    "62fa32fc-62d9-49cb-89cf-fda3e7e65769": {
+      "type": "collapsible-tabs3",
+      "blocks": {
+        "template--14357810413643__62fa32fc-62d9-49cb-89cf-fda3e7e65769-16861560103b670a91-0": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810413643__62fa32fc-62d9-49cb-89cf-fda3e7e65769-16861560103b670a91-0"
+      ],
+      "custom_css": [
+        ".collapsible-tabs {margin-top: 0px; margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "10ef7138-78ca-40d4-b948-9ceabb3dec9b": {
+      "type": "collapsible-tabs4",
+      "blocks": {
+        "template--14357810413643__10ef7138-78ca-40d4-b948-9ceabb3dec9b-1686156016b2558f17-0": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810413643__10ef7138-78ca-40d4-b948-9ceabb3dec9b-1686156016b2558f17-0"
+      ],
+      "custom_css": [
+        ".collapsible-tabs {margin-top: 0px; margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "accee7b5-a877-4fad-865f-16d17741b277": {
+      "type": "collapsible-tabs5",
+      "blocks": {
+        "template--14357810413643__accee7b5-a877-4fad-865f-16d17741b277-168615602292a7cb49-0": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810413643__accee7b5-a877-4fad-865f-16d17741b277-168615602292a7cb49-0"
+      ],
+      "custom_css": [
+        ".collapsible-tabs {margin-top: 0px; margin-bottom: 50px;}"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "58031757-f51e-4b75-a1b4-1a1c0946db11": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": ""
+      }
     }
   },
   "order": [
@@ -310,6 +380,10 @@
     "457462c9-a6a3-40c3-92d9-cf8826aab024",
     "11ce3850-62e3-474a-90ef-751714f32ade",
     "35f8858e-e87c-4ac6-a9ea-396a0e6fe2d1",
-    "c132618f-4117-45c4-a2fc-dfb204203233"
+    "c132618f-4117-45c4-a2fc-dfb204203233",
+    "62fa32fc-62d9-49cb-89cf-fda3e7e65769",
+    "10ef7138-78ca-40d4-b948-9ceabb3dec9b",
+    "accee7b5-a877-4fad-865f-16d17741b277",
+    "58031757-f51e-4b75-a1b4-1a1c0946db11"
   ]
 }
