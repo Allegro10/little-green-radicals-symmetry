@@ -148,6 +148,11 @@
                 <span class="header-account-link__icon{% if section.settings.icon_strategy == 'icons_cart_search' %} mobile-only{% endif %}">{% render 'svg-user' %}</span>
               </a>
             {% endif %}
+            
+            <a href="#swym-wishlist" class="swym-wishlist">
+          <i aria-hidden="true" focusable="false" role="presentation" class="icon icon-swym-wishlist"></i>
+          </a>
+            
           {% endif %}
           {% if section.settings.enable_search %}
             <a class="show-search-link" href="{{ routes.search_url }}">
