@@ -178,9 +178,6 @@
                 {%- render 'svg-bag' -%}
               {%- else -%}
                 {%- render 'svg-cart' -%}
-                {%- if section.settings.cart_icon == 'heart' -%}
-                {%- render 'svg-heart' -%}
-              {%- endif -%}
               {%- endif -%}
               {%- if cart.item_count > 0 -%}
                 <span class="cart-link__count">{{ cart.item_count }}</span>
