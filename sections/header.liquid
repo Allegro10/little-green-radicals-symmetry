@@ -151,7 +151,9 @@
           {% endif %}
 
             <a href="#swym-wishlist" class="swym-wishlist">
-          <i aria-hidden="true" focusable="false" role="presentation" class="icon icon-swym-wishlist"></i>
+                {%- if section.settings.cart_icon == 'heart' -%}
+                {%- render 'svg-heart' -%}
+              {%- endif -%}
           </a>
 
   
