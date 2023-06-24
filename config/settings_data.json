@@ -1127,6 +1127,9 @@
           "e826fad3-4456-473e-8a12-b87c82cf99f9",
           "de45bdc6-ffc0-4a07-83dc-fc37ee67f77e"
         ],
+        "custom_css": [
+          ".mobile-navigation-drawer .navigation__tier-1 {padding-bottom: 0px;}"
+        ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/LGR_Logo_Black.svg",
           "logo_img_width_int": 220,
@@ -1358,7 +1361,7 @@
       ".underline {color: #707173;}",
       ".reading-width {margin-left: auto; margin-right: auto; max-width: fit-content;}",
       ".page-header--with-upper-spacing {margin-top: 0px;}",
-      ".product-label--new-in {padding-right: 2.5px}"
+      ".product-label--new-in {padding-right: 2.5px;}"
     ]
   }
 }
