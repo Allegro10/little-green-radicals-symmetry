@@ -1128,7 +1128,7 @@
           "de45bdc6-ffc0-4a07-83dc-fc37ee67f77e"
         ],
         "custom_css": [
-          ".mobile-navigation-drawer .navigation__tier-1 {padding-bottom: 0px;}"
+          ".navigation__tier-1 {padding-bottom: 0px;}"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/LGR_Logo_Black.svg",
