@@ -7,6 +7,260 @@
         "full_width": false
       }
     },
+    "0ec52567-1590-4317-8772-ad42429e5d2d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fairtrade_3024x_542b829d-f789-460a-bf6c-c11cf7b899a8.jpg",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "Fairtrade pioneers",
+        "heading_max_width": 800,
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Since 2013<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "d53601b5-2b3d-45be-92db-23ef2499bc15": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/cotton_540x_28a48aec-5549-4060-b9a8-8289c23d001e.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Fairtrade cotton only",
+            "text": "<p>Why we do business a little differently<\/p>",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "",
+            "text": "<p>When we started out back in 2005, Little Green Radicals become one of the first companies to use Fairtrade certified cotton alongside some other wonderful UK brands. Simply put, this means we pay more for the cotton we use, which gives more to the farmers, their families and the communities who grow it. We’re privileged to work with fantastic cotton growers like <a href=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\" title=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\">Chetna Organics<\/a> from Yavatmal in India, who now have nearly 36,000 cotton farmers who work together, sharing their knowledge and experience. Of course, it also means decent working standards throughout the supply chain, including the places where the cotton is spun into thread, turned into fabric and made into clothes, and all the cotton we use is organic too. This is particularly important because intensive pesticide use to grow cotton is harmful to farmers and their families.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0",
+        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "7c42fd46-c8e5-4fec-a984-6272364acf27": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "subtitle": "All the cotton we use is Fairtrade certified",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": true,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Fairtrade-4_180x_36e6d354-cb44-45f8-bc4b-7922d822eeda.png",
+            "image_width": 700,
+            "title": "Economic Benefits",
+            "text": "<p><\/p><p><strong>A Fair price<br\/><\/strong>Fairtrade farmers get paid a guaranteed minimum price, plus they have more bargaining power to work together and get a better price for their cotton.<\/p><p><strong>Extra Money<br\/><\/strong>On top of this, farmers received the Fairtrade premium. This is an additional sum which goes into a communal fund for the farmers to use as they see fit.<br\/><strong><br\/>Productivity<br\/><\/strong>Fairtrade farms have better yields and crops through organic training, shared knowledge via cooperatives and investment.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "001d95df-bc46-4565-bd11-a1cb0d5fabf5": {
+      "type": "custom-row",
+      "blocks": {
+        "94268db8-3c17-4ee5-a490-684324712bc7": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "",
+            "text": "<p>When we started out back in 2005, Little Green Radicals become one of the first companies to use Fairtrade certified cotton alongside some other wonderful UK brands. Simply put, this means we pay more for the cotton we use, which gives more to the farmers, their families and the communities who grow it. We’re privileged to work with fantastic cotton growers like <a href=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\" title=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\">Chetna Organics<\/a> from Yavatmal in India, who now have nearly 36,000 cotton farmers who work together, sharing their knowledge and experience. Of course, it also means decent working standards throughout the supply chain, including the places where the cotton is spun into thread, turned into fabric and made into clothes, and all the cotton we use is organic too. This is particularly important because intensive pesticide use to grow cotton is harmful to farmers and their families.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        },
+        "49a5817f-b686-4b75-a36b-7219f83854de": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/cotton_540x_28a48aec-5549-4060-b9a8-8289c23d001e.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Fairtrade cotton only",
+            "text": "<p>Why we do business a little differently<\/p>",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "94268db8-3c17-4ee5-a490-684324712bc7",
+        "49a5817f-b686-4b75-a36b-7219f83854de"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
+      "type": "gallery",
+      "blocks": {
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fairtrade_3024x_542b829d-f789-460a-bf6c-c11cf7b899a8.jpg",
+            "enlarge_image": true,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": true,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
     "420c2c4a-7323-440f-a2b5-c77c61db0042": {
       "type": "background-video",
       "settings": {
@@ -17,7 +271,7 @@
         "title_size": 84,
         "title_size_mobile": 32,
         "use_h1": false,
-        "text": "<p>Use a video to get a customer's attention<\/p>",
+        "text": "<p>Want to know a bit more about how your clothes are made? Here's a wonderful video from the <a href=\"https:\/\/www.fairtrade.org.uk\/\" target=\"_blank\" title=\"https:\/\/www.fairtrade.org.uk\/\">Fairtrade Foundation<\/a> that explores where cotton comes from and some of the difficulties faced along the supply chain. It's specifically aimed at young people to help them understand the impact of fast fashion and highlights the difference we can make to people’s lives through our buying choices. Keep any eye out for Arun from our cotton partners, Chetna Organic discussing the impact of Fairtrade!<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -44,6 +298,7 @@
     },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
       "type": "collapsible-tabs",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-0": {
           "type": "question",
@@ -70,6 +325,7 @@
     },
     "ddcd0982-2740-47d8-90db-3affe123b3dd": {
       "type": "collection-list",
+      "disabled": true,
       "settings": {
         "title": "Collection list",
         "enable_carousel": true,
@@ -80,6 +336,7 @@
     },
     "e824b5e5-2f0b-4c25-bc9b-5ec0271a7918": {
       "type": "contact-form",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__e824b5e5-2f0b-4c25-bc9b-5ec0271a7918-1676655933d0618f80-0": {
           "type": "name_input",
@@ -110,51 +367,9 @@
         "contact_text": ""
       }
     },
-    "d53601b5-2b3d-45be-92db-23ef2499bc15": {
-      "type": "custom-row",
-      "blocks": {
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "height": "adapt",
-            "height_desktop": 600,
-            "height_mobile": 500,
-            "subheading": "Subheading",
-            "title": "Tell your story",
-            "text": "<p>Pair text with an image to tell a story<\/p>",
-            "enlarge_text": false,
-            "button_label": "",
-            "image_link": "",
-            "text_alignment": "center center",
-            "mobile_overlay_under": false,
-            "overlay_style": "shadow"
-          }
-        },
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Welcome",
-            "text": "<p>Use this text to share information about your store with your customers.<\/p><p>Describe products, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0",
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1"
-      ],
-      "settings": {
-        "alignment": "middle"
-      }
-    },
     "f4065a90-0720-4691-bf0f-0506b08743d8": {
       "type": "faq-header",
+      "disabled": true,
       "settings": {
         "title": "FAQ",
         "use_h1": false,
@@ -164,22 +379,9 @@
         "index_heading": "How can we help?"
       }
     },
-    "7c42fd46-c8e5-4fec-a984-6272364acf27": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "use_alt_bg": true,
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
     "3dca99fe-2094-4164-9dc1-17065c467cbc": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-0": {
           "type": "title",
@@ -252,78 +454,9 @@
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
-      "type": "gallery",
-      "blocks": {
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
-      ],
-      "settings": {
-        "grid": 2,
-        "height": "fixed",
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
-        "title_size": 30,
-        "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
-        "full_width": false,
-        "use_alt_bg": false,
-        "enable_carousel": true,
-        "overlay_style": "full",
-        "button_style": "primary"
-      }
-    },
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image_width": 700,
         "subheading": "",
@@ -338,33 +471,9 @@
         "use_alt_bg": false
       }
     },
-    "0ec52567-1590-4317-8772-ad42429e5d2d": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "Tell your story",
-        "title": "Text heading",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "<p>And optional subtext<\/p>",
-        "enlarge_text": true,
-        "button_label_1": "Shop this",
-        "button_url_1": "",
-        "button_label_2": "Shop all",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow"
-      }
-    },
     "931c57d6-9363-499b-84e1-f2e155f1ba13": {
       "type": "logo-list",
+      "disabled": true,
       "settings": {
         "title": "Logo list",
         "image_opacity": 75,
@@ -373,6 +482,7 @@
     },
     "9b215c08-133b-47b4-a45d-1806c80ca376": {
       "type": "map",
+      "disabled": true,
       "settings": {
         "color_bg": "#f4f4f4",
         "full_width": true,
@@ -386,57 +496,9 @@
         "map_style": "silver"
       }
     },
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
-      "type": "multi-column",
-      "blocks": {
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
-      ],
-      "settings": {
-        "title": "Multi-column",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e": {
       "type": "product-list",
+      "disabled": true,
       "settings": {
         "title": "Product list",
         "product_list": [
@@ -480,6 +542,7 @@
     },
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d": {
       "type": "scrolling-banner",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0": {
           "type": "text",
@@ -509,6 +572,7 @@
     },
     "f94a21db-6880-4911-a434-3c12bc39f920": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0": {
           "type": "image",
@@ -568,6 +632,7 @@
     },
     "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1": {
       "type": "compact-messages",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0": {
           "type": "message",
@@ -601,6 +666,7 @@
     },
     "7fb67205-5ec8-47b6-a1c2-b06bcc225f79": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0": {
           "type": "testimonial",
@@ -641,6 +707,7 @@
     },
     "f74dae93-7c37-4714-b5b4-97946015f60a": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "subheading": "Tell your story",
@@ -658,6 +725,7 @@
     },
     "ee7b061f-d3f9-41df-8509-c7d94024b915": {
       "type": "video-with-text",
+      "disabled": true,
       "settings": {
         "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "autoplay": false,
@@ -676,21 +744,22 @@
   },
   "order": [
     "main",
+    "0ec52567-1590-4317-8772-ad42429e5d2d",
+    "d53601b5-2b3d-45be-92db-23ef2499bc15",
+    "7c42fd46-c8e5-4fec-a984-6272364acf27",
+    "f37d9b5e-c32a-4749-9683-5c405d2c4152",
+    "001d95df-bc46-4565-bd11-a1cb0d5fabf5",
+    "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "420c2c4a-7323-440f-a2b5-c77c61db0042",
     "f44b372d-4336-4c78-9632-eb7c6ea9266a",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "ddcd0982-2740-47d8-90db-3affe123b3dd",
     "e824b5e5-2f0b-4c25-bc9b-5ec0271a7918",
-    "d53601b5-2b3d-45be-92db-23ef2499bc15",
     "f4065a90-0720-4691-bf0f-0506b08743d8",
-    "7c42fd46-c8e5-4fec-a984-6272364acf27",
     "3dca99fe-2094-4164-9dc1-17065c467cbc",
-    "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
-    "0ec52567-1590-4317-8772-ad42429e5d2d",
     "931c57d6-9363-499b-84e1-f2e155f1ba13",
     "9b215c08-133b-47b4-a45d-1806c80ca376",
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152",
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
