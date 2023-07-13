@@ -1139,7 +1139,7 @@
           "enable_transparent": false,
           "transparent_color": "#ffffff",
           "transparent_logo": "shopify:\/\/shop_images\/LGR_Logo_White.svg",
-          "menu_linklist": "test",
+          "menu_linklist": "main-menu",
           "menu_linklist_mobile": "",
           "menu_layout": "inline-menu-center",
           "nav_featured_link": "Christmas +, Sale +",
