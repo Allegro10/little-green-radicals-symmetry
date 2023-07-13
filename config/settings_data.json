@@ -1215,6 +1215,19 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "5b315489-0aaa-4ee3-a4c5-6a34a1c60580": {
+            "type": "text",
+            "settings": {
+              "title": "Fancy 10% off your order?",
+              "text": "<p>Sign up to get your code, exclusive discounts, new styles & feel-good news.Discount applies to all products!<\/p>",
+              "button_label": "Sign Up",
+              "button_link": "shopify:\/\/pages\/newsletter-sign-up",
+              "button_style": "secondary",
+              "image_width": 100,
+              "show_social_icons": true,
+              "soc_icons_large": false
+            }
+          },
           "ac8a3ac9-0dc1-463f-8f3c-2d29dab43b72": {
             "type": "menu",
             "settings": {
@@ -1235,26 +1248,13 @@
               "title": "Shop With Us",
               "menu": "footer-1"
             }
-          },
-          "5b315489-0aaa-4ee3-a4c5-6a34a1c60580": {
-            "type": "text",
-            "settings": {
-              "title": "Fancy 10% off your order?",
-              "text": "<p>Sign up to get your code, exclusive discounts, new styles & feel-good news.Discount applies to all products!<\/p>",
-              "button_label": "Sign Up",
-              "button_link": "shopify:\/\/pages\/newsletter-sign-up",
-              "button_style": "secondary",
-              "image_width": 100,
-              "show_social_icons": true,
-              "soc_icons_large": false
-            }
           }
         },
         "block_order": [
+          "5b315489-0aaa-4ee3-a4c5-6a34a1c60580",
           "ac8a3ac9-0dc1-463f-8f3c-2d29dab43b72",
           "b7e88d71-1476-4942-8816-3ba02501a132",
-          "1601374650582",
-          "5b315489-0aaa-4ee3-a4c5-6a34a1c60580"
+          "1601374650582"
         ],
         "custom_css": [
           ".btn.btn--secondary {border: none;}",
@@ -1264,7 +1264,7 @@
           "lower_menu": "",
           "show_payment_icons": true,
           "show_country_selector": false,
-          "show_language_selector": false
+          "show_language_selector": true
         }
       },
       "popup": {
