@@ -1,1 +1,414 @@
-{"sections":{"heading":{"type":"image-with-text-overlay","settings":{"height":"fixed","height_desktop":400,"height_mobile":300,"subheading":"","title":"Customer Help","title_size":52,"text":"<p>If talking to a real-life human is more your thing, you can reach our Customer Happiness Team via email (below).<\/p>","button_label_1":"","button_label_2":""}},"main":{"type":"faq-header","settings":{}},"faq-content-1":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"What size should I buy?","answer":"<p>If you’re not quite sure which size is right for you, refer to our size guides. They’re located underneath the available sizes for each of our products.<\/p>"}},"question-2":{"type":"question","settings":{"title":"Can I cancel my order?","answer":"<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.<\/p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.<\/p>"}}},"block_order":["question-1","question-2"],"settings":{"title":"Ordering"}},"faq-content-2":{"type":"collapsible-tabs","blocks":{"para-1":{"type":"content","settings":{"content":"<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"}},"question-1":{"type":"question","settings":{"title":"What is the shipping policy?","answer":"<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. Once your order is fulfilled, you will receive an email notification with your tracking information. Shipping fees are non-refundable in the case of returns.<\/p>"}},"question-2":{"type":"question","settings":{"title":"Do you ship overseas?","answer":"<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout.<\/p>"}}},"block_order":["para-1","question-1","question-2"],"settings":{"title":"Shipping, Returns & Exchanges"}},"contact":{"type":"rich-text","blocks":{"icon":{"type":"icon","settings":{"icon":"chat_bubble"}},"heading":{"type":"heading","settings":{"title":"Get in touch"}},"text":{"type":"text","settings":{"text":"<p>Have questions about your order, or a general enquiry?<\/p>"}},"button":{"type":"button","settings":{"button_label":"Contact us"}}},"block_order":["icon","heading","text","button"],"settings":{"use_alt_bg":true}}},"order":["heading","main","faq-content-1","faq-content-2","contact"]}
+{
+  "sections": {
+    "heading": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Main_-_R-409-CRE_L3.jpg",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "image_link": "",
+        "subheading": "",
+        "title": "FAQs",
+        "heading_max_width": 800,
+        "title_size": 52,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "510a8fdc-9044-496e-a42e-afc49eee506b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14357810675787__510a8fdc-9044-496e-a42e-afc49eee506b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Need a hand with anything? Here are the answers to some frequently asked questions:",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810675787__510a8fdc-9044-496e-a42e-afc49eee506b-heading-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "4566c753-222d-4348-bdf9-e4392d2146a8": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "template--14357810675787__4566c753-222d-4348-bdf9-e4392d2146a8-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "I placed more than one order - can you combine them?",
+            "answer": "<p>Please email us and we will speak to our warehouse to see if the orders can be combined. If we can, we will of course refund you the postage of the additional order if applicable, especially as it is more environmentally friendly to send one parcel instead of two!<\/p>"
+          }
+        },
+        "template--14357810675787__4566c753-222d-4348-bdf9-e4392d2146a8-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add something to my order?",
+            "answer": "<p>Please email <a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">customerservice@littlegreenradicals.co.uk<\/a> as soon as possible, and we will try to add an item to your order if it hasn't been shipped yet and it is in stock, and we will send you an invoice for payment.<\/p>"
+          }
+        },
+        "1a06bada-c023-478d-89f1-bb644b071ecc": {
+          "type": "question",
+          "settings": {
+            "title": "Can I edit my order after it has been placed?",
+            "answer": "<p>Please email <a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">customerservice@littlegreenradicals.co.uk<\/a> as soon as possible, and we will try to edit your order. Unfortunately, if the order has already been packed we can't edit it, so please do double check your basket and shipping address before making payment.<\/p>"
+          }
+        },
+        "0406b0cd-55e5-4d8d-9e8e-4e3992de5d09": {
+          "type": "question",
+          "settings": {
+            "title": "Are items in my bag reserved?",
+            "answer": "<p>Your items in your bag will be saved, but they aren't reserved so snap them up quickly if there something you'd really like!<\/p>"
+          }
+        },
+        "e831e764-a0b0-4bf1-9682-ff4a32ddc01b": {
+          "type": "question",
+          "settings": {
+            "title": "How do you package your clothes?",
+            "answer": "<p>Whenever possible we ship our clothing from India where it’s produced and we send out orders in recycled paper potato sacks. After a lot of deliberating, we decided we do need to individually bag each item to protect our clothes on their long journey from India to your door, so have opted for fully compostible bags made from natrually grown materials. <a href=\"https:\/\/littlegreenradicals.co.uk\/blogs\/news\/tagged\/journey-to-waste-free\" target=\"_blank\"><span style=\"text-decoration:underline\">Find out more<\/span><\/a>. <\/p>"
+          }
+        },
+        "19bd7287-9e70-435b-b6b2-adf41e4bcf52": {
+          "type": "question",
+          "settings": {
+            "title": "What is your sizing like?",
+            "answer": "<p>Have a look at our handy <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/size-chart\" target=\"_blank\"><span style=\"text-decoration:underline\">size guide<\/span><\/a> to get the perfect fit. Also, we offer free post returns to the UK and EU for 6 months so can replace any item with another size if it’s not exactly what you’re looking for.<\/p>"
+          }
+        },
+        "777b7e9e-f00d-4e73-8356-5887fe0cd6be": {
+          "type": "question",
+          "settings": {
+            "title": "Which payment methods do you accept?",
+            "answer": "<p>We happily accept payments by Paypal, Visa, Mastercard, American Express, Maestro, Shopify Pay, Apple Pay, Google Pay.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810675787__4566c753-222d-4348-bdf9-e4392d2146a8-question-1",
+        "template--14357810675787__4566c753-222d-4348-bdf9-e4392d2146a8-question-2",
+        "1a06bada-c023-478d-89f1-bb644b071ecc",
+        "0406b0cd-55e5-4d8d-9e8e-4e3992de5d09",
+        "e831e764-a0b0-4bf1-9682-ff4a32ddc01b",
+        "19bd7287-9e70-435b-b6b2-adf41e4bcf52",
+        "777b7e9e-f00d-4e73-8356-5887fe0cd6be"
+      ],
+      "settings": {
+        "title": "Order FAQs"
+      }
+    },
+    "22d7c530-32d9-488f-a8fd-a3c6b3d13a44": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "11a5f302-5b25-4e78-ac1f-19b2837e711e": {
+          "type": "question",
+          "settings": {
+            "title": "How much is delivery?",
+            "answer": "<p>UK - £3.00 or free on orders over £50. Shipping to other countries depends on the value of the order and the country it is being shipped to. Please check out our <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/deliveries-returns\" target=\"_blank\"><span style=\"text-decoration:underline\">Deliveries & Returns<\/span><\/a> page for all the information you'll need.<\/p>"
+          }
+        },
+        "268a139d-714a-4295-ad43-fe45f8f5f3ad": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship Internationally?",
+            "answer": "<p>Yes! We ship to almost all countries in the world! Find out our shipping info <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/deliveries-returns\" target=\"_blank\"><span style=\"text-decoration:underline\">here<\/span><\/a>. <\/p>"
+          }
+        },
+        "bf3a3a13-1257-45da-8edb-18d680e0f2c8": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return an item?",
+            "answer": "<p>You can return anything within 6 months (or 2 weeks if it's a Sale item) if you change your mind or it isn't quite what your looking for. We also offer a 365 day quality guarantee. We pride ourselves on the quality of our Fairtrade and organic cotton clothing, but mistakes and faults occasionally happen and we want to make sure you are completely happy with your order. If for any reason you aren't, please get in touch with customerservice@littlegreenradicals.co.uk and send us a photo for a refund or an exchange.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "11a5f302-5b25-4e78-ac1f-19b2837e711e",
+        "268a139d-714a-4295-ad43-fe45f8f5f3ad",
+        "bf3a3a13-1257-45da-8edb-18d680e0f2c8"
+      ],
+      "settings": {
+        "title": "Delivery FAQs"
+      }
+    },
+    "91457f17-9dff-4de4-9443-e88daf4f2ef5": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "609e11b0-be5c-46e8-9bfd-5886d7a1a2f8": {
+          "type": "question",
+          "settings": {
+            "title": "How do I exchange something?",
+            "answer": "<p>Simply tick the exchange box on the returns form, and don't forget to include the size you want it to be swapped for! Feel free to contact customerservice@littlegreenradicals.co.uk if you want us to check stock availability first.<\/p>"
+          }
+        },
+        "d9eeb6b9-e01a-4119-ac7c-de3990bdf5cd": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer free returns?",
+            "answer": "<p>We offer free returns within the UK and Europe! For the UK simply <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/2114\" target=\"_blank\"><span style=\"text-decoration:underline\">click here<\/span><\/a> to download your label (the post office can print it for you if you don't have a printer.) If you live in Europe, please post it back on an economy\/postal service to our warehouse, and send a copy of the receipt to customerservice@littlegreenradicals.co.uk who will refund the postage for you. Check out our <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/deliveries-returns\" target=\"_blank\"><span style=\"text-decoration:underline\">Deliveries & Returns<\/span><\/a> page for information on returns from outside the EU.<\/p>"
+          }
+        },
+        "7fee9ee5-cc65-4001-89ed-88b6097d8aa0": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return an item?",
+            "answer": "<p>You can return anything within 6 months (or 2 weeks if it's a Sale item) if you change your mind or it isn't quite what your looking for. We also offer a 365 day quality guarantee. We pride ourselves on the quality of our Fairtrade and organic cotton clothing, but mistakes and faults occasionally happen and we want to make sure you are completely happy with your order. If for any reason you aren't, please get in touch with customerservice@littlegreenradicals.co.uk and send us a photo for a refund or an exchange.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "609e11b0-be5c-46e8-9bfd-5886d7a1a2f8",
+        "d9eeb6b9-e01a-4119-ac7c-de3990bdf5cd",
+        "7fee9ee5-cc65-4001-89ed-88b6097d8aa0"
+      ],
+      "settings": {
+        "title": "Returns and Exchanges FAQs"
+      }
+    },
+    "04249aa5-8daf-483a-bfe7-6b96ddb18bab": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "da57dfdf-b9e8-40d6-b64c-c5a120fa6043": {
+          "type": "question",
+          "settings": {
+            "title": "Where are your clothes made?",
+            "answer": "<p>Our clothes are made by four wonderful suppliers in India - Deeps, Logotech, Silk'n Fab and Qualiance and R. <a href=\"https:\/\/littlegreenradicals.co.uk\/blogs\/news\/tagged\/making-little-green-radicals\" target=\"_blank\"><span style=\"text-decoration:underline\">Read more<\/span><\/a> about how our clothes are made. Transparent supply chain with high working standards for producers (monitored by GOTS and the Fairtrade Foundation)<\/p>"
+          }
+        },
+        "5e636c44-9975-433a-9b2f-85ac96450664": {
+          "type": "question",
+          "settings": {
+            "title": "What does Fairtrade mean?",
+            "answer": "<p>At Little Green Radicals, we know the people who make our clothes at every step of production. Fairtrade farmers and their families have much more security than conventional farmers as they receive a guaranteed price for their crop, even if the market price takes a dive. They also receive extra money on top (called a premium) that is used to support the community. It might be used to build a school, or a well – it’s up to them – but little by little Fairtrade farmers see an improvement in their daily lives. The Fairtrade mark on cotton also guarantees working standards throughout the supply chain, including the factory. All the cotton we use is independently certified by the Fairtrade Foundation. <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/fairtrade-pioneers\" target=\"_blank\"><span style=\"text-decoration:underline\">Read more.  <\/span><\/a><\/p>"
+          }
+        },
+        "122139a8-464e-4ab8-ab0a-ca4fb27b71a0": {
+          "type": "question",
+          "settings": {
+            "title": "How do I care for my Little Green Radicals item?",
+            "answer": "<p>Make do and mend! We've put together a selection of blogs on how to keep your clothes looking lovely for longer. More this way. <\/p>"
+          }
+        },
+        "15f31637-329b-493d-9dfc-f09ae5af497b": {
+          "type": "question",
+          "settings": {
+            "title": "What inks, dyes and fabrics do you use?",
+            "answer": "<p>All our dyes and inks have been certified by GOTS organic. No harmful toxins like phthalates, chemical bleaches, harmful heavy metals or chorline are used. <br\/>Our colourful designs are hand screen-printed using either water based inks or a discharge printing method, which uses the same technique but instead of putting a colour on top of the fabric, the colour is removed. <br\/>At Little Green Radicals we make clothes that last from beautiful organic cotton fabrics. Cotton comes in many different forms and we take great joy in using lots of different weaves, from woven yarn dyed seersuckers to soft natural jerseys. These fabrics all have a luxuriously soft hand-feel making them wonderfully comfy for your little one to wear. Ou<a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/fabric-guide\" target=\"_blank\">r <span style=\"text-decoration:underline\">fabric gui<\/span><\/a><span style=\"text-decoration:underline\">de<\/span> will helps you choose the right fabric for you. <\/p>"
+          }
+        },
+        "e2e99f84-6ce8-40a3-93cb-ae16f3eaef12": {
+          "type": "question",
+          "settings": {
+            "title": "What is GOTS organic cotton?",
+            "answer": "<p>We choose GOTS certified organic cotton because it’s grown without any nasty chemicals. This means the cotton fibres don’t get broken down so our organic cotton is incredibly soft, long lasting and kind to even the most delicate and sensitive skin. Choosing organic is better for your child, better for the planet and better for the health of the farmers. Conventional cotton is intensely sprayed with pesticides, whereas organic production gives farmers and their families a much safer environment to work and live in. <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/organic-cotton\" target=\"_blank\"><span style=\"text-decoration:underline\">More info<\/span><\/a> this way. Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "3116fecb-5d9b-4dfc-94fd-1a908d8b6f8b": {
+          "type": "question",
+          "settings": {
+            "title": "What washing instructions do you recommend?",
+            "answer": "<p>We recommend to wash at 30 unless it's really dirty! Wash with similar colours and if you do want to tumble dry then it's best to use a cool setting. <\/p>"
+          }
+        },
+        "3b719749-124d-4a18-952a-7b1ccc8bed0c": {
+          "type": "question",
+          "settings": {
+            "title": "Do you use recycled materials & is your rainwear PFC free?",
+            "answer": "<p>Yes & yes! We use recycled plastic bottles to make our 100% waterproof rainwear, with a beautifully soft organic and Fairtrade cotton lining, and the recycled fabric is PFC free. <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/rainwear\" target=\"_blank\"><span style=\"text-decoration:underline\">Find out more. <\/span><\/a><\/p>"
+          }
+        },
+        "855a48a4-abaa-453c-95e7-364265374edd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I sell your products in my shop?",
+            "answer": "<p>If you're interested in becoming a stockist, please <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/become-a-stockist\" target=\"_blank\"><span style=\"text-decoration:underline\">contact<\/span><\/a> our sales team. <\/p>"
+          }
+        },
+        "187cb50e-c3f1-4070-a304-b2355585f6cd": {
+          "type": "question",
+          "settings": {
+            "title": "My child has eczema - is your natural skincare suitable?",
+            "answer": "<p>Our nappy balm and petroleum free jelly contain natural shea butter, vitamin E and arnica that help to calm and sooth eczema prone skin. Find out more about how our <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/skincare\" target=\"_blank\"><span style=\"text-decoration:underline\">natural skincare<\/span><\/a> is made and what ingredients we use. <\/p>"
+          }
+        },
+        "4970ad60-00a1-4cb7-98d4-31526b0a8c90": {
+          "type": "question",
+          "settings": {
+            "title": "Where is my nearest stockist?",
+            "answer": "<p>Find your local stockist <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/find-a-stockist\" target=\"_blank\"><span style=\"text-decoration:underline\">here<\/span><\/a> and pop in to say hello!<\/p>"
+          }
+        },
+        "649e7a35-d26c-4a4b-882b-d7b0fb109c76": {
+          "type": "question",
+          "settings": {
+            "title": "Are your clothes made for cloth nappies?",
+            "answer": "<p>Yes, all our baby bodies, babygrows and bottoms are sized to fit cloth nappies up to 3 years. Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "d8599564-7487-4c98-8bcc-c04e26add0c3": {
+          "type": "question",
+          "settings": {
+            "title": "What do you do to minimise your impact on the environment?",
+            "answer": "<p>At Little Green Radicals we want to tread lightly on the earth. To help reduce our environmental impact we use:<br\/>- Pesticide free GOTS and Fairtrade certified cotton<br\/>- Recycled plastic bottles to create the fabric for our waterproof rainwear<br\/>- Plastic free compostable bags and recycled packaging<br\/>- Water-based and toxin free inks and dyes<br\/>- & we ship products from India wherever possible<\/p>"
+          }
+        },
+        "ade984b8-96c3-4fb8-87eb-134b9a5a3335": {
+          "type": "question",
+          "settings": {
+            "title": "Can I make a wishlist?",
+            "answer": "<p>Yes! Click on the heart which is shown on all our product pages to add that style to your wishlist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "da57dfdf-b9e8-40d6-b64c-c5a120fa6043",
+        "5e636c44-9975-433a-9b2f-85ac96450664",
+        "122139a8-464e-4ab8-ab0a-ca4fb27b71a0",
+        "15f31637-329b-493d-9dfc-f09ae5af497b",
+        "e2e99f84-6ce8-40a3-93cb-ae16f3eaef12",
+        "3116fecb-5d9b-4dfc-94fd-1a908d8b6f8b",
+        "3b719749-124d-4a18-952a-7b1ccc8bed0c",
+        "855a48a4-abaa-453c-95e7-364265374edd",
+        "187cb50e-c3f1-4070-a304-b2355585f6cd",
+        "4970ad60-00a1-4cb7-98d4-31526b0a8c90",
+        "649e7a35-d26c-4a4b-882b-d7b0fb109c76",
+        "d8599564-7487-4c98-8bcc-c04e26add0c3",
+        "ade984b8-96c3-4fb8-87eb-134b9a5a3335"
+      ],
+      "settings": {
+        "title": "General FAQs"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What size should I buy?",
+            "answer": "<p>If you’re not quite sure which size is right for you, refer to our size guides. They’re located underneath the available sizes for each of our products.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel my order?",
+            "answer": "<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.<\/p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2"
+      ],
+      "settings": {
+        "title": "Order FAQs"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "para-1": {
+          "type": "content",
+          "settings": {
+            "content": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shipping policy?",
+            "answer": "<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. Once your order is fulfilled, you will receive an email notification with your tracking information. Shipping fees are non-refundable in the case of returns.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "para-1",
+        "question-1",
+        "question-2"
+      ],
+      "settings": {
+        "title": "Shipping, Returns & Exchanges"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "510a8fdc-9044-496e-a42e-afc49eee506b",
+    "4566c753-222d-4348-bdf9-e4392d2146a8",
+    "22d7c530-32d9-488f-a8fd-a3c6b3d13a44",
+    "91457f17-9dff-4de4-9443-e88daf4f2ef5",
+    "04249aa5-8daf-483a-bfe7-6b96ddb18bab",
+    "faq-content-1",
+    "faq-content-2",
+    "contact"
+  ]
+}
