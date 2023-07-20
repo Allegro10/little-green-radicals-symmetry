@@ -3,20 +3,233 @@
     "heading": {
       "type": "image-with-text-overlay",
       "settings": {
+        "image": "shopify:\/\/shop_images\/TMitchell_190516_9471_3024x_bcb026f4-cc96-4239-9f9b-067bb2c3563f.jpg",
         "height": "fixed",
         "height_desktop": 400,
         "height_mobile": 300,
+        "image_link": "",
         "subheading": "",
-        "title": "Customer Help",
+        "title": "Deliveries and Return Policy",
+        "heading_max_width": 800,
         "title_size": 52,
-        "text": "<p>If talking to a real-life human is more your thing, you can reach our Customer Happiness Team via email (below).<\/p>",
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
         "button_label_1": "",
-        "button_label_2": ""
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "e5706251-903d-4ec7-b32a-a8f2e83d233d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Delivery Information",
+            "use_h1": false
+          }
+        },
+        "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>See below for the delivery information for the country you are shipping to. If you have a query please contact us.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-heading-1",
+        "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "bd3a9664-b77a-45c0-8598-8fc50c5f8ec2": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "United Kingdom Delivery",
+            "answer": "<p>- Standard Delivery (orders under £50): <strong>£3.50<\/strong> (3-5 working days)<br\/>- Standard Delivery (orders over £50): <strong>FREE<\/strong> (3-5 working days)<br\/>- Next Working Day: <strong>£6.50<\/strong><\/p>"
+          }
+        },
+        "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "USA Delivery",
+            "answer": "<p>- Courier Delivery (orders under £75): <strong>£9.50<\/strong> (up to 7 working days)<br\/>- Courier Delivery (orders over £75): <strong>FREE<\/strong> (up to 7 working days)<\/p>"
+          }
+        },
+        "bce58bef-6b04-497a-9518-c7be27b18333": {
+          "type": "question",
+          "settings": {
+            "title": "Canada Delivery",
+            "answer": "<p>- Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<br\/><br\/>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+          }
+        },
+        "f0c36747-200a-46ec-a59d-e9c68f76790c": {
+          "type": "question",
+          "settings": {
+            "title": "Australia Delivery",
+            "answer": "<p>- Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<\/p>"
+          }
+        },
+        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a": {
+          "type": "question",
+          "settings": {
+            "title": "Iceland, Bosnia & Serbia Delivery",
+            "answer": "<p>- Standard Delivery (orders under £75): <strong>£8.00<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £75): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p>"
+          }
+        },
+        "842defd2-56d1-4a6a-9056-ea7a267fc470": {
+          "type": "question",
+          "settings": {
+            "title": "Switzerland & Norway Delivery",
+            "answer": "<p>- Standard Delivery (orders under £100): <strong>£8.00<\/strong> (up to 12 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 12 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p><p><\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+          }
+        },
+        "59b32750-2449-4925-9806-042962693eb6": {
+          "type": "question",
+          "settings": {
+            "title": "Rest of World Delivery",
+            "answer": "<p>- Standard Delivery (orders under £100): <strong>£7.50<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£15.00<\/strong> (up to 7 working days)<\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+          }
+        },
+        "912c7ac6-40d8-41a7-92c4-d3b88be583dd": {
+          "type": "question",
+          "settings": {
+            "title": "Rest of EU Delivery",
+            "answer": "<p>- Standard Delivery (orders under £50): <strong>£6.00<\/strong> (up to 10 working days)<br\/>- Standard Delivery (orders over £50): <strong>FREE<\/strong> (up to 10working days)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-1",
+        "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-2",
+        "bce58bef-6b04-497a-9518-c7be27b18333",
+        "f0c36747-200a-46ec-a59d-e9c68f76790c",
+        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a",
+        "842defd2-56d1-4a6a-9056-ea7a267fc470",
+        "59b32750-2449-4925-9806-042962693eb6",
+        "912c7ac6-40d8-41a7-92c4-d3b88be583dd"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "15778ece-a584-4cfa-9854-5221c9ec94f1": {
+      "type": "rich-text",
+      "blocks": {
+        "f81735aa-691f-4edc-8d75-26809bfb2bf4": {
+          "type": "heading",
+          "settings": {
+            "title": "Returns & Exchanges",
+            "use_h1": false
+          }
+        },
+        "f2245871-cf47-42bf-bf23-4a240209905b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thank you for ordering from us!<\/p><p>We have great confidence in our products and have many happy customers but we understand that sometimes buying on the internet is tricky and you may change your mind. You can return your order within <strong>6 months of receiving your order <\/strong>(unused, with tags on and in the original packaging) for a full refund or exchange. <\/p><p>Please be aware that items purchased from our online or in-person sample sales cannot be returned or exchanged unless the item is faulty.<\/p><p>If your product is faulty please <a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact us\">get in touch<\/a> as we have a <strong>365 day quality guarantee<\/strong>.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "f81735aa-691f-4edc-8d75-26809bfb2bf4",
+        "f2245871-cf47-42bf-bf23-4a240209905b"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "7f695673-9b15-4dcf-bb1e-b088791834ce": {
+      "type": "collapsible-tabs2",
+      "blocks": {
+        "template--14383109636171__7f695673-9b15-4dcf-bb1e-b088791834ce-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "United Kingdom",
+            "answer": "<p>Visit<strong> <\/strong><a href=\"https:\/\/www.royalmail.com\/\" target=\"_blank\" title=\"Royal Mail\"><strong>Royal Mail<\/strong><\/a><strong> <\/strong>to view your parcel's journey using the tracking number on your order.<br\/>If you are returning your order from the UK please download our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/2114\"><strong>free postage form<\/strong><\/a><strong>.<\/strong><\/p>"
+          }
+        },
+        "template--14383109636171__7f695673-9b15-4dcf-bb1e-b088791834ce-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Europe Returns",
+            "answer": "<p>To get a refund of your postage cost, please use a <strong>NON-TRACKED or ECONOMY POSTAL SERVICE<\/strong> (address below) and <a href=\"mailto:customerservice@littlegreenradicals.co.uk\"><strong>email us<\/strong><\/a> proof of postage and your order number. <strong>*Please note*<\/strong> we can only give a refund if a non-tracked service is used.<\/p><p><strong>Returns Address:<\/strong><\/p><p>Please send your parcel to our warehouse address:<\/p><p>Little Green Radicals c\/o ILG<br\/>Yusen Logistics (Polska) DC4<br\/>Ul. Księdza Jerzego Popełuszki 17<br\/>55-080 Kąty Wrocławskie<\/p>"
+          }
+        },
+        "cd63201d-3d64-4278-bea4-f4418616e853": {
+          "type": "question",
+          "settings": {
+            "title": "Rest Of World Returns",
+            "answer": "<p>Currently returns from outside the EU are at the customer’s own expenses.<\/p><p><strong>Returns Address:<\/strong><\/p><p>Please send your parcel to our warehouse address:<\/p><p>Little Green Radicals c\/o ILG<br\/>Logistics House<br\/>Unit A Birches Industrial Estate<br\/>East Grinstead<br\/>RH19 1XZUK<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109636171__7f695673-9b15-4dcf-bb1e-b088791834ce-question-1",
+        "template--14383109636171__7f695673-9b15-4dcf-bb1e-b088791834ce-question-2",
+        "cd63201d-3d64-4278-bea4-f4418616e853"
+      ],
+      "settings": {
+        "title": "How to return something:"
+      }
+    },
+    "a7adbb86-1350-4310-b369-d957e99b1a2f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14383109636171__a7adbb86-1350-4310-b369-d957e99b1a2f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "365 Day Quality Guarantee",
+            "use_h1": false
+          }
+        },
+        "template--14383109636171__a7adbb86-1350-4310-b369-d957e99b1a2f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We pride ourselves on the quality of our Fairtrade and organic cotton clothing, but mistakes and faults occasionally happen and we want to make sure you are completely happy with your order. If for any reason you aren't, please get in touch with customerservice@littlegreenradicals.co.uk and send us a photo of the faulty item for a refund or an exchange.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109636171__a7adbb86-1350-4310-b369-d957e99b1a2f-heading-1",
+        "template--14383109636171__a7adbb86-1350-4310-b369-d957e99b1a2f-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
       }
     },
     "main": {
       "type": "faq-header",
       "settings": {
+        "title": "FAQ",
+        "use_h1": false,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
       }
     },
     "faq-content-1": {
@@ -90,19 +303,23 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Get in touch"
+            "title": "Get in touch",
+            "use_h1": false
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Have questions about your order, or a general enquiry?<\/p>"
+            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
+            "enlarge_text": true
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Contact us"
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_style": "primary"
           }
         }
       },
@@ -113,12 +330,20 @@
         "button"
       ],
       "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
         "use_alt_bg": true
       }
     }
   },
   "order": [
     "heading",
+    "e5706251-903d-4ec7-b32a-a8f2e83d233d",
+    "bd3a9664-b77a-45c0-8598-8fc50c5f8ec2",
+    "15778ece-a584-4cfa-9854-5221c9ec94f1",
+    "7f695673-9b15-4dcf-bb1e-b088791834ce",
+    "a7adbb86-1350-4310-b369-d957e99b1a2f",
     "main",
     "faq-content-1",
     "faq-content-2",
