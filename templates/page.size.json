@@ -10,12 +10,12 @@
     "44cf7c0b-bc49-4f3e-87c2-6feb833a4a0d": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_2.jpg",
+        "image": "shopify:\/\/shop_images\/AW19-Lookbook-5_3024x_bdcea376-e612-4603-973b-ea7e7cd3e244.jpg",
         "height": "fixed",
         "height_desktop": 420,
         "height_mobile": 460,
         "image_link": "",
-        "subheading": "Our guide to measuring your child",
+        "subheading": "",
         "title": "Size Guide",
         "heading_max_width": 800,
         "title_size": 84,
@@ -116,37 +116,17 @@
             "text_alignment": "center"
           }
         },
-        "template--14362388168779__fbf9e44b-c8ce-41d9-bac3-8c8431fd37be-168304145520ced1c1-1": {
-          "type": "text",
+        "3ae1f4ac-76e9-4cf2-b706-84c90c70b702": {
+          "type": "html",
           "settings": {
-            "width": "third",
-            "subheading": "",
-            "title": "",
-            "text": "<p><strong>Height:<br\/><\/strong>Measure from the top of the head to the bottom of their feet when your child is standing up or lying down.<\/p><p><strong>Chest:<br\/><\/strong>Measure around the chest just beneath your child's underarms.<\/p><p><strong>Waist:<\/strong><br\/>Measure the natural waist (the bit where it is curved in) with the child’s abdomen relaxed.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
-          }
-        },
-        "400434b7-fc61-445f-b1ba-f1dadd83dbbc": {
-          "type": "text",
-          "settings": {
-            "width": "third",
-            "subheading": "",
-            "title": "",
-            "text": "<p><strong>Leg Length:<br\/><\/strong>Measure from the waist to bottom of the feet.<\/p><p><strong>Arm Length:<br\/><\/strong>Measure from the edge of the shoulder to the wrist when arm is straight.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
+            "width": "three-quarters",
+            "code": "<center><p>\n<span><strong>Height:<\/strong><br> Measure from the top of the head to the bottom of their feet when your child is standing up or lying down.<\/span><br>\n<span><strong>Chest:<\/strong><br> Measure around the chest just beneath your child's underarms.<\/span>\n<br> \n<span><strong>Waist:<\/strong><br> Measure the natural waist (the bit where it is curved in) with the child’s abdomen relaxed.<\/span>\n<br> \n<span><strong>Leg Length:<\/strong><br> Measure from the waist to bottom of the feet.<\/span>\n<br> \n<span><strong>Arm Length:<\/strong><br> Measure from the edge of the shoulder to the wrist when arm is straight. <\/span> \n<\/p><\/center>\n<\/div>"
           }
         }
       },
       "block_order": [
         "0a7cf5aa-5591-4fca-892b-f3af0607e7e5",
-        "template--14362388168779__fbf9e44b-c8ce-41d9-bac3-8c8431fd37be-168304145520ced1c1-1",
-        "400434b7-fc61-445f-b1ba-f1dadd83dbbc"
+        "3ae1f4ac-76e9-4cf2-b706-84c90c70b702"
       ],
       "settings": {
         "alignment": "top"
