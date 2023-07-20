@@ -147,7 +147,7 @@
 
             {%- when 'swatches_picker_by_type' -%}
             
-                  {% if types.metafields.my_fields.swatch_image != blank %}
+                  {% if product.type != blank %}
                 <label class="variant-colors__label">Other Colours</label>
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
