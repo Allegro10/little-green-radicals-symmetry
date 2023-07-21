@@ -151,9 +151,7 @@
             
                 {% if product.type != blank %}
 
-                  {%  capture swatch_by_type_title %}
                   <label class="variant-colors__label">Other Colours: {{ colorCount }}</label>
-                  {% endcapture %}
                   
                   <ul class="variant-colors">
                   {% paginate collections.all.products by 1000 %}
