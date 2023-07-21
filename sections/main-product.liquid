@@ -166,6 +166,7 @@
                         {% assign color = types.variants.first.options.first %}
     
                         <li>
+                          {{  colorCount  }}
                           <a href="{{ types.url }}">
                             {% if types.metafields.my_fields.swatch_image != blank %}
                             {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'swatch metafield_image', loading: 'lazy' }}   
