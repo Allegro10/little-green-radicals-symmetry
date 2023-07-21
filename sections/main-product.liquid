@@ -147,9 +147,15 @@
 
             {%- when 'swatches_picker_by_type' -%}
 
-                {% assign colorCount = 0 %}
             
                 {% if product.type != blank %}
+
+                  {% assign colorCount = 0 %}
+                  {% for types in collections.all.products %}
+                    {% if types.type == product.type and types.title != product.title %}
+                      {% assign colorCount = colorCount | plus: 1 %}
+                    {% endif %}
+                  {% endfor %}
 
                   {% if colorCount >= 1 %}
                   <label class="variant-colors__label">Other Colours</label>
