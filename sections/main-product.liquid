@@ -146,18 +146,22 @@
           {% case block.type %}
 
             {%- when 'swatches_picker_by_type' -%}
+                {% assign colorCount = 0 %}
+
             
-                  {% if product.type != blank %}
-                <label class="variant-colors__label">Other Colours</label>
+                {% if product.type != blank %}
+                <label class="variant-colors__label">Other Colours: {{ colorCount }}</label>
+        
                 <ul class="variant-colors">
                 {% paginate collections.all.products by 1000 %}
 
                 {% for types in collections.all.products %}
                     {% if types.type == product.type and types.title != product.title %}
+                    {% assign colorCount = colorCount | plus: 1 %}
+
                     {% assign color = types.variants.first.options.first %}
                     <li>
                       <a href="{{ types.url }}">
-                       
                         {% if types.metafields.my_fields.swatch_image != blank %}
                         {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'swatch metafield_image', loading: 'lazy' }}   
                         {% else %}
