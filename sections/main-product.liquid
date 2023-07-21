@@ -157,22 +157,22 @@
 
                 {% for types in collections.all.products %}
                     {% if types.type == product.type and types.title != product.title %}
-
-                    {% assign color = types.variants.first.options.first %}
-                    {% assign colorCount = colorCount | plus: 1 %}
-                    <li>
-                      <a href="{{ types.url }}">
-                        {% if types.metafields.my_fields.swatch_image != blank %}
-                        {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'swatch metafield_image', loading: 'lazy' }}   
-                        {% else %}
-                        {{ types.featured_image | image_url: width: 60 | image_tag: class: 'swatch featured_image', loading: 'lazy' }}  
-                        {% endif %}
-                        <!-- {{ types.title }} -->
-                      </a>
-                    </li>
-                    {%  comment %}
-                    <li><a href="{{ types.url }}"><img src="{{ img | asset_img_url: '60x' }}" style="width:40px" /><!-- {{ types.title }} --></a></li>
-                    {%  endcomment %}            
+                      {% assign colorCount = colorCount | plus: 1 %}
+                      {% assign color = types.variants.first.options.first %}
+  
+                      <li>
+                        <a href="{{ types.url }}">
+                          {% if types.metafields.my_fields.swatch_image != blank %}
+                          {{ types.metafields.my_fields.swatch_image | image_url: width: 60 | image_tag: class: 'swatch metafield_image', loading: 'lazy' }}   
+                          {% else %}
+                          {{ types.featured_image | image_url: width: 60 | image_tag: class: 'swatch featured_image', loading: 'lazy' }}  
+                          {% endif %}
+                          <!-- {{ types.title }} -->
+                        </a>
+                      </li>
+                      {%  comment %}
+                      <li><a href="{{ types.url }}"><img src="{{ img | asset_img_url: '60x' }}" style="width:40px" /><!-- {{ types.title }} --></a></li>
+                      {%  endcomment %}            
                     {% endif %}
                 {% endfor %}
                 {% endpaginate %}
