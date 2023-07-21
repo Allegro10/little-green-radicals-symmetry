@@ -157,9 +157,9 @@
 
                 {% for types in collections.all.products %}
                     {% if types.type == product.type and types.title != product.title %}
-                    {% assign colorCount = colorCount | plus: 1 %}
 
                     {% assign color = types.variants.first.options.first %}
+                    {% assign colorCount = colorCount | plus: 1 %}
                     <li>
                       <a href="{{ types.url }}">
                         {% if types.metafields.my_fields.swatch_image != blank %}
