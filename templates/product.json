@@ -305,7 +305,7 @@
         ".loox-rating-content {display: inline-flex; align-items: center; gap: 2px; color: #e2a121;}",
         ".product-detail .detail .title {margin: 0 0 0.1em;}",
         ".option-selector {margin-bottom: 5px;}",
-        ".cc-select__btn {display: none;}"
+        ".hide--Colour {display: none;}"
       ],
       "settings": {
         "show_breadcrumbs": false,
