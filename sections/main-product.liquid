@@ -151,7 +151,9 @@
             
                 {% if product.type != blank %}
 
-                  <label class="variant-colors__label">Other Colours: {{ colorCount }}</label>
+                  {% if colorCount > 1 %}
+                  <label class="variant-colors__label">Other Colours</label>
+                  {% endif %}
                   
                   <ul class="variant-colors">
                   {% paginate collections.all.products by 1000 %}
