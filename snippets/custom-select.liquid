@@ -49,7 +49,7 @@
   {%- endcapture -%}
   {%- unless label_inside -%}{{ label_html }}{%- endunless -%}
 {%- endif -%}
-<div class="cc-select{% if label_inside %} cc-select--label-inside{% endif %} no-js-hidden" id="{{ id }}">
+<div class="hide--{{ label | escape_once }} cc-select{% if label_inside %} cc-select--label-inside{% endif %} no-js-hidden" id="{{ id }}">
   {%- if label and label_inside -%}{{ label_html }}{%- endif -%}
   <button class="cc-select__btn" type="button"
           aria-haspopup="listbox" aria-labelledby="{{ label_id }}"
