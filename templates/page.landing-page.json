@@ -36,6 +36,23 @@
         "use_alt_bg": false
       }
     },
+    "f74dae93-7c37-4714-b5b4-97946015f60a": {
+      "type": "video",
+      "settings": {
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "Tell your story",
+        "video_title": "Featured video",
+        "heading_max_width": 800,
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Use a video to get a customer's attention<\/p>",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -156,72 +173,6 @@
         "use_alt_bg": false
       }
     },
-    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
-      "type": "multi-column",
-      "blocks": {
-        "3cb28deb-4f16-47e5-94ed-0247680daacb": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "9369f3b2-5f69-4897-8401-e0ecd9942d1f": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "f77aabbc-4cce-4e4a-8342-de118d8ce152": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "3cb28deb-4f16-47e5-94ed-0247680daacb",
-        "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
-        "f77aabbc-4cce-4e4a-8342-de118d8ce152"
-      ],
-      "settings": {
-        "title": "Multi-column",
-        "text_alignment": "left",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
-    "f74dae93-7c37-4714-b5b4-97946015f60a": {
-      "type": "video",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "Tell your story",
-        "video_title": "Featured video",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "<p>Use a video to get a customer's attention<\/p>",
-        "enlarge_text": true,
-        "text_alignment": "center center",
-        "full_width": true,
-        "overlay_style": "shadow"
-      }
-    },
     "46395198-bd8f-48c5-8039-f81cb94d9d0a": {
       "type": "custom-row",
       "blocks": {
@@ -318,6 +269,55 @@
         "alignment": "middle"
       }
     },
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
+      "type": "multi-column",
+      "blocks": {
+        "3cb28deb-4f16-47e5-94ed-0247680daacb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "9369f3b2-5f69-4897-8401-e0ecd9942d1f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "f77aabbc-4cce-4e4a-8342-de118d8ce152": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3cb28deb-4f16-47e5-94ed-0247680daacb",
+        "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
+        "f77aabbc-4cce-4e4a-8342-de118d8ce152"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
     "ee7b061f-d3f9-41df-8509-c7d94024b915": {
       "type": "video-with-text",
       "settings": {
@@ -339,14 +339,14 @@
   "order": [
     "main",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
+    "f74dae93-7c37-4714-b5b4-97946015f60a",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "d53601b5-2b3d-45be-92db-23ef2499bc15",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
-    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
-    "f74dae93-7c37-4714-b5b4-97946015f60a",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
     "ee7b061f-d3f9-41df-8509-c7d94024b915"
   ]
 }
