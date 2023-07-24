@@ -79,49 +79,6 @@
         "title": "FAQ"
       }
     },
-    "d53601b5-2b3d-45be-92db-23ef2499bc15": {
-      "type": "custom-row",
-      "blocks": {
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "height": "adapt",
-            "height_desktop": 600,
-            "height_mobile": 500,
-            "subheading": "Subheading",
-            "title": "Tell your story",
-            "text": "<p>Pair text with an image to tell a story<\/p>",
-            "enlarge_text": false,
-            "button_label": "",
-            "image_link": "",
-            "text_alignment": "center center",
-            "mobile_overlay_under": false,
-            "overlay_style": "shadow"
-          }
-        },
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Welcome",
-            "text": "<p>Use this text to share information about your store with your customers.<\/p><p>Describe products, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-0",
-        "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1"
-      ],
-      "settings": {
-        "alignment": "middle"
-      }
-    },
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
       "type": "gallery",
       "blocks": {
@@ -341,7 +298,6 @@
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "f74dae93-7c37-4714-b5b4-97946015f60a",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
-    "d53601b5-2b3d-45be-92db-23ef2499bc15",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
