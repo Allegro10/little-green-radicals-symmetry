@@ -13,14 +13,14 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
           "type": "heading",
           "settings": {
-            "title": "Rich text",
+            "title": "“Nothing is truly beautiful unless it is made the right way.” Nick Pecorelli, Founder",
             "use_h1": false
           }
         },
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>At Little Green Radicals we’re on a mission to make the world better. We believe that how we do business, and the choices that you, our wonderful customers, make have the power to change the world.<\/p>",
             "enlarge_text": true
           }
         }
@@ -108,42 +108,6 @@
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
       "type": "gallery",
       "blocks": {
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
           "type": "image",
           "settings": {
@@ -158,20 +122,17 @@
         }
       },
       "block_order": [
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
       ],
       "settings": {
-        "grid": 3,
+        "grid": 1,
         "height": "fixed",
         "desktop_image_height": 460,
         "mobile_image_height": 400,
-        "title_size": 30,
+        "title_size": 40,
         "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
+        "enable_margin": false,
+        "enable_row_spacing": false,
         "full_width": false,
         "use_alt_bg": false,
         "enable_carousel": true,
@@ -195,10 +156,10 @@
         "use_alt_bg": false
       }
     },
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
       "type": "multi-column",
       "blocks": {
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
+        "3cb28deb-4f16-47e5-94ed-0247680daacb": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
@@ -209,7 +170,7 @@
             "link": ""
           }
         },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
+        "9369f3b2-5f69-4897-8401-e0ecd9942d1f": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
@@ -220,7 +181,7 @@
             "link": ""
           }
         },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2": {
+        "f77aabbc-4cce-4e4a-8342-de118d8ce152": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
@@ -233,9 +194,9 @@
         }
       },
       "block_order": [
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
+        "3cb28deb-4f16-47e5-94ed-0247680daacb",
+        "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
+        "f77aabbc-4cce-4e4a-8342-de118d8ce152"
       ],
       "settings": {
         "title": "Multi-column",
@@ -277,6 +238,54 @@
         "text_alignment": "left",
         "use_alt_bg": false
       }
+    },
+    "8e820b60-9470-42cb-b94e-dfd26cae6285": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "no_background"
+          }
+        },
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Fairtrade pioneers",
+            "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
+            "button_label": "Why we choose Fairtrade",
+            "button_link": "",
+            "button_style": "link",
+            "text_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-image-1",
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1"
+      ],
+      "custom_css": [
+        "{background: #144b66;}",
+        "h2 {color: #00c7e6;}",
+        "p {color: #fffef9;}"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
     }
   },
   "order": [
@@ -286,8 +295,9 @@
     "d53601b5-2b3d-45be-92db-23ef2499bc15",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152",
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
     "f74dae93-7c37-4714-b5b4-97946015f60a",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915"
+    "ee7b061f-d3f9-41df-8509-c7d94024b915",
+    "8e820b60-9470-42cb-b94e-dfd26cae6285"
   ]
 }
