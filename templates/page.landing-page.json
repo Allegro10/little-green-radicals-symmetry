@@ -222,39 +222,9 @@
         "overlay_style": "shadow"
       }
     },
-    "ee7b061f-d3f9-41df-8509-c7d94024b915": {
-      "type": "video-with-text",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "subheading": "",
-        "title": "Video with text",
-        "use_h1": false,
-        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
-      }
-    },
     "8e820b60-9470-42cb-b94e-dfd26cae6285": {
       "type": "custom-row",
       "blocks": {
-        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Fairtrade pioneers",
-            "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
-            "button_label": "Why we choose Fairtrade",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
-          }
-        },
         "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-image-1": {
           "type": "image",
           "settings": {
@@ -272,11 +242,24 @@
             "mobile_overlay_under": false,
             "overlay_style": "no_background"
           }
+        },
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Fairtrade pioneers",
+            "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
+            "button_label": "Why we choose Fairtrade",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
         }
       },
       "block_order": [
-        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1",
-        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-image-1"
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-image-1",
+        "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1"
       ],
       "custom_css": [
         "{background: #144b66;}",
@@ -287,9 +270,39 @@
         "alignment": "middle"
       }
     },
+    "ee7b061f-d3f9-41df-8509-c7d94024b915": {
+      "type": "video-with-text",
+      "settings": {
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "autoplay": false,
+        "subheading": "",
+        "title": "Video with text",
+        "use_h1": false,
+        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
+        "button_label": "Read more",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
     "46395198-bd8f-48c5-8039-f81cb94d9d0a": {
       "type": "custom-row",
       "blocks": {
+        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Fairtrade pioneers",
+            "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
+            "button_label": "Why we choose Fairtrade",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
+        },
         "0f5cce1f-c974-4967-80c5-76612208255c": {
           "type": "image",
           "settings": {
@@ -307,24 +320,16 @@
             "mobile_overlay_under": false,
             "overlay_style": "no_background"
           }
-        },
-        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Fairtrade pioneers",
-            "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
-            "button_label": "Why we choose Fairtrade",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
-          }
         }
       },
       "block_order": [
-        "0f5cce1f-c974-4967-80c5-76612208255c",
-        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad"
+        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad",
+        "0f5cce1f-c974-4967-80c5-76612208255c"
+      ],
+      "custom_css": [
+        "{background: #dea62c;}",
+        "h2 {color: #feed00;}",
+        "p {color: #fffef9;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -340,8 +345,8 @@
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
     "f74dae93-7c37-4714-b5b4-97946015f60a",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
+    "ee7b061f-d3f9-41df-8509-c7d94024b915",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a"
   ]
 }
