@@ -26,6 +26,40 @@
         "overlay_style": "shadow"
       }
     },
+    "main": {
+      "type": "main-contact",
+      "blocks": {
+        "name": {
+          "type": "name_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "email": {
+          "type": "email_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "message": {
+          "type": "message_input",
+          "settings": {
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "show_page_title": false,
+        "use_columns": true,
+        "contact_title": "Contact us",
+        "contact_text": "<p>We'd love to hear from you! You can also take a look at our <a href=\"https:\/\/littlegreenradicals.com\/pages\/faqs\" target=\"_blank\" title=\"https:\/\/littlegreenradicals.com\/pages\/faqs\">FAQ's<\/a> or <a href=\"https:\/\/littlegreenradicals.com\/pages\/deliveries-returns\" title=\"https:\/\/littlegreenradicals.com\/pages\/deliveries-returns\">Delivery & Returns<\/a> page for more info. <\/p>"
+      }
+    },
     "b8f31b27-7498-4172-b7a2-488c5e50c75a": {
       "type": "multi-column",
       "blocks": {
@@ -35,7 +69,7 @@
             "enable_image": false,
             "image_width": 700,
             "title": "Customer Service",
-            "text": "<p>Office hours:<br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email customer service here.<\/a><\/p><p><\/p>",
+            "text": "<p>Office hours:<br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email Customer Service<\/a><\/p><p><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -46,7 +80,7 @@
             "enable_image": false,
             "image_width": 700,
             "title": "Press \/ Marketing",
-            "text": "<p>For press, marketing or blogger enquires<br\/>please contact Fernanda:<\/p><p>elise@littlegreenradicals.co.uk<\/p>",
+            "text": "<p>For Press enquiries please contact: rebecca@littlegreenradicals.co.uk<\/p><p>For Social Media collaborations please contact: social@littlegreenradicaos.co.uk<\/p><p><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -57,7 +91,7 @@
             "enable_image": false,
             "image_width": 700,
             "title": "Address",
-            "text": "<p>Little Green Radicals HQ<br\/>Eurolink Business Centre, Unit 17, 49 Effra Rd, <br\/>Brixton, London SW2 1BZ<\/p>",
+            "text": "<p>Little Green Radicals HQ<br\/>Eurolink Business Centre Unit 17<br\/>49 Effra Rd<br\/>Brixton, London<br\/>SW2 1BZ<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -88,14 +122,38 @@
         "template--14357811134539__ca93b145-5ac0-496c-914e-a2c52c912045-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p>If you are interested in becoming a stockist then head over to our<br\/><a href=\"https:\/\/littlegreenradicalswholesale.co.uk\/\" title=\"https:\/\/littlegreenradicalswholesale.co.uk\/\">wholesale website<\/a> to set up an account. Our Sales Managers Hannah, Anna and Federica <br\/>are available to answer any questions.<\/p>",
+            "text": "<p><\/p><p>If you are interested in becoming a stockist then head over to our<br\/><a href=\"https:\/\/littlegreenradicalswholesale.co.uk\/\" title=\"https:\/\/littlegreenradicalswholesale.co.uk\/\">wholesale website<\/a> to set up an account or please contact wholesale@littlegreenradicals.co.uk. <\/p>",
+            "enlarge_text": false
+          }
+        },
+        "6cbbbc89-e24f-4f6a-90d0-ef9247b9036e": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "f056b773-40b6-452b-adfa-406b21303e5d": {
+          "type": "heading",
+          "settings": {
+            "title": "Become an Affiliate",
+            "use_h1": false
+          }
+        },
+        "3258f78b-0ca3-423c-be63-e21ad4e43d7f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you have a blog, website or social media account and want to earn money by sharing the things you love? We are looking for inspiring people who want to celebrate beautiful, long-lasting, organic clothes for kids. By partnering with us and joining our Affiliate Program, you can earn money simply by sharing your favourite Little Green Radicals products. It really is that easy! All you need to do is add a link to our website when you feature us and for every sale made via this code, you'll receive a percentage commission based on the full order value.<\/p><p><a href=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\" target=\"_blank\" title=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\">Sign Up<\/a><\/p>",
             "enlarge_text": false
           }
         }
       },
       "block_order": [
         "template--14357811134539__ca93b145-5ac0-496c-914e-a2c52c912045-heading-1",
-        "template--14357811134539__ca93b145-5ac0-496c-914e-a2c52c912045-text-1"
+        "template--14357811134539__ca93b145-5ac0-496c-914e-a2c52c912045-text-1",
+        "6cbbbc89-e24f-4f6a-90d0-ef9247b9036e",
+        "f056b773-40b6-452b-adfa-406b21303e5d",
+        "3258f78b-0ca3-423c-be63-e21ad4e43d7f"
       ],
       "settings": {
         "height": "medium",
@@ -106,34 +164,6 @@
     },
     "a64c2411-c3f4-43f3-b7be-9dd7ab956f41": {
       "type": "multi-column",
-      "blocks": {
-        "template--14357811134539__a64c2411-c3f4-43f3-b7be-9dd7ab956f41-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 700,
-            "title": "Germany, Austria, France, Belgium, Luxembourg, Switzerland, Norway, Iceland, Sweden, Finland, Denmark, Faroe Island & Outre Manche",
-            "text": "<p><strong>Anna Wetherill: Sales Manager<br\/><\/strong>annawetherill@littlegreenradicals.co.uk<br\/>+44 (0) 117 902 49 25<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14357811134539__a64c2411-c3f4-43f3-b7be-9dd7ab956f41-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 700,
-            "title": "Italy & Spain",
-            "text": "<p><strong>Federica Miserocchi – Sales Manager<br\/><\/strong>federica@littlegreenradicals.co.uk<br\/>+44 (0) 2037 253 041<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14357811134539__a64c2411-c3f4-43f3-b7be-9dd7ab956f41-text_block-1",
-        "template--14357811134539__a64c2411-c3f4-43f3-b7be-9dd7ab956f41-text_block-2"
-      ],
       "settings": {
         "title": "",
         "text_alignment": "center",
@@ -143,82 +173,20 @@
     },
     "fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c": {
       "type": "multi-column",
-      "blocks": {
-        "template--14357811134539__fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 700,
-            "title": "UK",
-            "text": "<p><strong>Rebecca Cooney <\/strong><\/p><p><a href=\"mailto:rebeccac@littlegreenradicals.co.uk\">rebeccac@littlegreenradicals.co.uk<\/a><\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14357811134539__fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 700,
-            "title": "North America & Ireland",
-            "text": "<p><strong>Jazmin Gardner<\/strong><\/p><p><a href=\"mailto:jazmin@littlegreenradicals.co.uk\">jazmin@littlegreenradicals.co.uk<\/a><\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14357811134539__fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c-text_block-1",
-        "template--14357811134539__fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c-text_block-2"
-      ],
       "settings": {
         "title": "",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
       }
-    },
-    "main": {
-      "type": "main-contact",
-      "blocks": {
-        "name": {
-          "type": "name_input",
-          "settings": {
-            "half_width": true
-          }
-        },
-        "email": {
-          "type": "email_input",
-          "settings": {
-            "half_width": true
-          }
-        },
-        "message": {
-          "type": "message_input",
-          "settings": {
-            "half_width": false
-          }
-        }
-      },
-      "block_order": [
-        "name",
-        "email",
-        "message"
-      ],
-      "settings": {
-        "show_page_title": true,
-        "use_columns": true,
-        "contact_title": "Contact us",
-        "contact_text": ""
-      }
     }
   },
   "order": [
     "0acb8b11-fcf0-4f74-b565-095da0c1d168",
+    "main",
     "b8f31b27-7498-4172-b7a2-488c5e50c75a",
     "ca93b145-5ac0-496c-914e-a2c52c912045",
     "a64c2411-c3f4-43f3-b7be-9dd7ab956f41",
-    "fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c",
-    "main"
+    "fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c"
   ]
 }
