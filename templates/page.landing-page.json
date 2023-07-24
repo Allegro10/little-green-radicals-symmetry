@@ -280,7 +280,7 @@
       ],
       "custom_css": [
         "{background: #144b66;}",
-        "h2 {color: #00c7e6;}",
+        "h2 {color: #00c7e6; font-size: 30px;}",
         "p {color: #fffef9;}"
       ],
       "settings": {
