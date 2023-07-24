@@ -9,16 +9,16 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Little Green Radicals Affiliate Marketing Program",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
+        "title": "Little Green Radicals                         Affiliate  Program",
+        "heading_max_width": 540,
+        "title_size": 38,
+        "title_size_mobile": 42,
         "use_h1": false,
-        "text": "<p>earn  commision!<\/p>",
+        "text": "<p>Earn  commission by sharing the things you love<\/p>",
         "enlarge_text": true,
-        "button_label_1": "sign up",
+        "button_label_1": "Sign Up",
         "button_url_1": "https:\/\/affiliate.littlegreenradicals.co.uk\/create-account",
-        "button_label_2": "log in",
+        "button_label_2": "Log In",
         "button_url_2": "https:\/\/affiliate.littlegreenradicals.co.uk\/login",
         "text_alignment": "center center",
         "full_width": true,
@@ -39,14 +39,14 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
           "type": "heading",
           "settings": {
-            "title": "be part of it...",
+            "title": "Be part of it",
             "use_h1": false
           }
         },
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to the Little Green Radicals Affiliate Marketing Program! Do you have a blog, website or social media account and want to earn money by sharing the things you love and feel passionate about?<br\/><br\/>We are looking to join forces with inspiring people who want to celebrate beautiful, long-lasting, organic clothes for kids. By partnering with us and joining our affiliate marketing program, you can earn money simply by sharing your favourite Little Green Radicals products. It really is that easy! All you need to do is add a link to our website when you feature us and for every sale made via this code, you'll receive a percentage commission based on the full order value.<\/p>",
+            "text": "<p>Welcome to the Little Green Radicals Affiliate Marketing Program! Do you have a blog, website or social media account and want to earn money by sharing the things you love and feel passionate about?<br\/><br\/>We are looking to join forces with inspiring people who want to celebrate beautiful, long-lasting, organic clothes for kids. By partnering with us and becoming an Affiliate, you can earn money simply by sharing your favourite Little Green Radicals products. It really is that easy! All you need to do is add a link to our website when you feature us and for every sale made via this code, you'll receive a percentage commission based on the full order value.<\/p>",
             "enlarge_text": false
           }
         }
@@ -72,7 +72,7 @@
             "image": "shopify:\/\/shop_images\/SL_icons_125.png",
             "image_width": 700,
             "title": "1. sign up",
-            "text": "<p>Sign up and join our <br\/>Little Green Radicals Affiliate Program<\/p>",
+            "text": "<p>Sign up to join our Affiliate Marketing Program <a href=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\" target=\"_blank\" title=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\">here<\/a><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -84,7 +84,7 @@
             "image": "shopify:\/\/shop_images\/SL_icons_125_copy.png",
             "image_width": 700,
             "title": "2. recommend",
-            "text": "<p>Share your favourite Little Green Radicals products with your audience using a unique referral link<\/p>",
+            "text": "<p>Share your favourite Little Green Radicals products using a unique referral link<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -108,7 +108,7 @@
         "template--14383109570635__d90ca786-c636-4b75-a1df-c61a86099b43-text_block-3"
       ],
       "settings": {
-        "title": "how does it work?",
+        "title": "How does it work?",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -265,7 +265,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<br><center><span style=\"font-size:18px;\">any questions?<\/span><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:ryan@littlegreenradicals.co.uk\" style=\"color: white\">email us<\/a><\/button><\/center><br>"
+        "code": "<br><center><span style=\"font-size:18px;\">Any questions?<\/span><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:social@littlegreenradicals.co.uk\" style=\"color: white\">Email Us<\/a><\/button><\/center><br>"
       }
     },
     "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d": {
