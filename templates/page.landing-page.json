@@ -269,7 +269,7 @@
             "text": "<p>In 2005 we became one of the first companies to use Fairtrade cotton. And we’ve been choosing Fairtrade ever since. Simply put, it means we pay more for our cotton, which gives more to the farmers, their families and their communities. They receive a guaranteed minimum price which means they will always be able to cover their costs, plus an extra premium to make improvements to their daily lives.<\/p>",
             "button_label": "Why we choose Fairtrade",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "secondary",
             "text_alignment": "left"
           }
         }
@@ -280,7 +280,7 @@
       ],
       "custom_css": [
         "{background: #144b66;}",
-        "h2 {color: #00c7e6; font-size: 30px;}",
+        "h2 {color: #00c7e6; font-size: 80;}",
         "p {color: #fffef9;}"
       ],
       "settings": {
