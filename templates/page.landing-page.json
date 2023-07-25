@@ -89,7 +89,7 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/2-2.jpg",
+            "image": "shopify:\/\/shop_images\/Always-Organic.jpg",
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
@@ -139,7 +139,7 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/2-1.jpg",
+            "image": "shopify:\/\/shop_images\/Fairtrade-Pioneers.jpg",
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
@@ -189,7 +189,7 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/2-1.jpg",
+            "image": "shopify:\/\/shop_images\/Producer-Partners.jpg",
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
