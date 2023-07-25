@@ -157,7 +157,7 @@
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
         "a:active {color: #dea62c; background: #feed00;}",
-        "a {color: #dea62c; background: #feed00; outline: none;}"
+        "a {font-weight: bold; color: #dea62c; background: #feed00; border: none;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -203,9 +203,10 @@
         "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1"
       ],
       "custom_css": [
-        "{background: #144b66;}",
+        "div {background: #144b66;}",
         "h2 {color: #00c7e6;}",
-        "p {color: #fffef9;}"
+        "p {color: #fffef9;}",
+        "a {font-weight: bold; color: #144b66; background: #00c7e6; border: none;}"
       ],
       "settings": {
         "alignment": "middle"
