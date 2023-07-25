@@ -291,33 +291,51 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Guardina_Logo-1.png",
-            "image_width": 150,
+            "image_width": 120,
             "link": "",
-            "title": "The Guardian"
+            "title": ""
           }
         },
         "ccf67e8b-8630-4505-ab5c-e6d658225be3": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Mother_and_Baby_8.png",
-            "image_width": 150,
+            "image_width": 120,
             "link": "",
-            "title": "Mother & Baby"
+            "title": ""
           }
         },
         "d8275d95-0442-4ab0-8b11-57ac999f7c21": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Good_On_you_7.png",
-            "image_width": 150,
+            "image_width": 120,
             "link": "",
-            "title": "Good On You"
+            "title": ""
           }
         },
         "71c7ed78-b303-463a-9b6c-bdb8d4f3e416": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/the_green_parent_logo_copy.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        },
+        "b64e9c9c-24f2-452b-884c-34a0ec2f244b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MB_Logo_copy.png",
+            "image_width": 90,
+            "link": "",
+            "title": ""
+          }
+        },
+        "ffbdd386-19f4-44c5-80f0-c41ed7ebc512": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800px-Evening_Standard_logo.png",
             "image_width": 160,
             "link": "",
             "title": ""
@@ -328,7 +346,9 @@
         "5bc54933-b97a-4a68-b9be-47db4e66ea40",
         "ccf67e8b-8630-4505-ab5c-e6d658225be3",
         "d8275d95-0442-4ab0-8b11-57ac999f7c21",
-        "71c7ed78-b303-463a-9b6c-bdb8d4f3e416"
+        "71c7ed78-b303-463a-9b6c-bdb8d4f3e416",
+        "b64e9c9c-24f2-452b-884c-34a0ec2f244b",
+        "ffbdd386-19f4-44c5-80f0-c41ed7ebc512"
       ],
       "custom_css": [
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
