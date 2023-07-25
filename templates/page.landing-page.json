@@ -170,7 +170,7 @@
       ],
       "custom_css": [
         "{background-color: #144b66;}",
-        "h2 {color: #00c7e6;}",
+        "h2 {font-size: 30px; color: #00c7e6;}",
         "p {color: #fffef9;}",
         "a {font-weight: bold !important; color: #144b66; background: #00c7e6; border: none;}"
       ],
