@@ -43,32 +43,6 @@
         "use_alt_bg": false
       }
     },
-    "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
-      "type": "collapsible-tabs",
-      "blocks": {
-        "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-0": {
-          "type": "question",
-          "settings": {
-            "title": "Why Orgnaic Cotton",
-            "answer": "<p>Answer<\/p>"
-          }
-        },
-        "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-1": {
-          "type": "question",
-          "settings": {
-            "title": "Why Orgnaic Cotton",
-            "answer": "<p>Answer<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-0",
-        "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-1"
-      ],
-      "settings": {
-        "title": "FAQ"
-      }
-    },
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
       "type": "gallery",
       "blocks": {
@@ -124,6 +98,7 @@
           "type": "image",
           "settings": {
             "width": "half",
+            "image": "shopify:\/\/shop_images\/2-2.jpg",
             "height": "adapt",
             "height_desktop": 600,
             "height_mobile": 500,
@@ -144,7 +119,7 @@
         "0f5cce1f-c974-4967-80c5-76612208255c"
       ],
       "custom_css": [
-        "div {background: #dea62c;}",
+        "{background: #dea62c;}",
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
         "a:active {color: #dea62c; background: #feed00;}",
@@ -251,33 +226,14 @@
         "button_style": "primary",
         "use_alt_bg": false
       }
-    },
-    "ee7b061f-d3f9-41df-8509-c7d94024b915": {
-      "type": "video-with-text",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "subheading": "",
-        "title": "Video with text",
-        "use_h1": false,
-        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
-      }
     }
   },
   "order": [
     "main",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
-    "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
-    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915"
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c"
   ]
 }
