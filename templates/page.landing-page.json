@@ -236,8 +236,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
+            "image_width": 140,
+            "title": "Planet friendly recycled fabric",
             "text": "<p>Whilst most of our clothing is made from Fairtrade, organic cotton, there are some products that simply don’t work as well in this material. And we only want to make long-lasting clothes that perfom brilliantly. So, we found a fantastic partner who recycles post-consumer plastic bottles into fabric and voila, we have waterproof outerwear and swimwear!<br\/><br\/>So far, we’ve saved over 290,000 post-consumer plastic bottles from landfill!<\/p>",
             "button_label": "Shop recycled outerwear",
             "link": ""
