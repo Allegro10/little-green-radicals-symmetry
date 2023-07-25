@@ -36,23 +36,6 @@
         "use_alt_bg": false
       }
     },
-    "f74dae93-7c37-4714-b5b4-97946015f60a": {
-      "type": "video",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "Tell your story",
-        "video_title": "Featured video",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "<p>Use a video to get a customer's attention<\/p>",
-        "enlarge_text": true,
-        "text_alignment": "center center",
-        "full_width": true,
-        "overlay_style": "shadow"
-      }
-    },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -142,7 +125,7 @@
             "text": "<p>Pesticides? No thanks. We only use organic cotton to protect growers, their families and the land they live on from harmful chemicals. Plus, organic cotton is super soft, long-lasting and and gentle on your child’s delicate skin. What’s not to love?!<\/p>",
             "button_label": "Why we love organic",
             "button_link": "",
-            "button_style": "primary",
+            "button_style": "link",
             "text_alignment": "left"
           }
         },
@@ -172,7 +155,8 @@
       "custom_css": [
         "{background: #dea62c;}",
         "h2 {color: #feed00;}",
-        "p {color: #fffef9;}"
+        "p {color: #fffef9;}",
+        "a {color: #fffef9;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -296,7 +280,6 @@
   "order": [
     "main",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
-    "f74dae93-7c37-4714-b5b4-97946015f60a",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
