@@ -97,22 +97,6 @@
         "button_style": "primary"
       }
     },
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e": {
-      "type": "image-with-text",
-      "settings": {
-        "image_width": 700,
-        "subheading": "",
-        "title": "Image with text",
-        "use_h1": false,
-        "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
-      }
-    },
     "46395198-bd8f-48c5-8039-f81cb94d9d0a": {
       "type": "custom-row",
       "blocks": {
@@ -284,7 +268,6 @@
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
