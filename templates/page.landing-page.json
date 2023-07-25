@@ -156,7 +156,8 @@
         "{background: #dea62c;}",
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
-        "a:link {color: #fffef9; background: #bae498;}"
+        "a:active {color: #dea62c; background: #feed00;}",
+        "a {color: #dea62c; background: #feed00; outline: none;}"
       ],
       "settings": {
         "alignment": "middle"
