@@ -238,8 +238,8 @@
             "enable_image": true,
             "image_width": 700,
             "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
+            "text": "<p>Whilst most of our clothing is made from Fairtrade, organic cotton, there are some products that simply don’t work as well in this material. And we only want to make long-lasting clothes that perfom brilliantly. So, we found a fantastic partner who recycles post-consumer plastic bottles into fabric and voila, we have waterproof outerwear and swimwear!<br\/><br\/>So far, we’ve saved over 290,000 post-consumer plastic bottles from landfill!<\/p>",
+            "button_label": "Shop recycled outerwear",
             "link": ""
           }
         },
@@ -258,7 +258,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
+            "image_width": 80,
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "",
@@ -270,6 +270,12 @@
         "3cb28deb-4f16-47e5-94ed-0247680daacb",
         "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
         "f77aabbc-4cce-4e4a-8342-de118d8ce152"
+      ],
+      "custom_css": [
+        "{background: #2f865c;}",
+        "h3 {color: #ddeba0;}",
+        "p {color: #fffef9;}",
+        "a:active {color: #2f865c; background: #ddeba0;}"
       ],
       "settings": {
         "title": "",
