@@ -329,6 +329,27 @@
         "use_alt_bg": true
       }
     },
+    "867dc1d6-bdec-4ec2-bfb1-91151b89572e": {
+      "type": "logo-list",
+      "blocks": {
+        "c563b886-a03a-4fa9-9968-4ec84ffa7832": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "c563b886-a03a-4fa9-9968-4ec84ffa7832"
+      ],
+      "settings": {
+        "title": "Our super awards",
+        "image_opacity": 75,
+        "use_alt_bg": true
+      }
+    },
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9": {
       "type": "custom-liquid",
       "custom_css": [
@@ -463,6 +484,7 @@
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
+    "867dc1d6-bdec-4ec2-bfb1-91151b89572e",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
     "167088407055c4622b",
     "25970f93-544a-47ed-bda9-9b5c9a664c73",
