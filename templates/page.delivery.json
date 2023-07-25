@@ -9,7 +9,7 @@
         "height_mobile": 300,
         "image_link": "",
         "subheading": "",
-        "title": "Deliveries and Return Policy",
+        "title": "Delivery & Returns",
         "heading_max_width": 800,
         "title_size": 52,
         "title_size_mobile": 46,
@@ -39,7 +39,7 @@
         "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>See below for the delivery information for the country you are shipping to. If you have a query please contact us.<\/p>",
+            "text": "<p>Please select the country you are shipping to from the list below to find out delivery information. If you have any questions please <a href=\"https:\/\/admin.shopify.com\/store\/littlegreenradicals\/themes\/121418186827\/editor?previewPath=%2Fpages%2Fcontact-us\" target=\"_blank\" title=\"https:\/\/admin.shopify.com\/store\/littlegreenradicals\/themes\/121418186827\/editor?previewPath=%2Fpages%2Fcontact-us\">contact us<\/a>.<\/p>",
             "enlarge_text": false
           }
         }
@@ -65,6 +65,27 @@
             "answer": "<p>- Standard Delivery (orders under £50): <strong>£3.50<\/strong> (3-5 working days)<br\/>- Standard Delivery (orders over £50): <strong>FREE<\/strong> (3-5 working days)<br\/>- Next Working Day: <strong>£6.50<\/strong><\/p>"
           }
         },
+        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a": {
+          "type": "question",
+          "settings": {
+            "title": "Iceland, Bosnia & Serbia Delivery",
+            "answer": "<p>- Standard Delivery (orders under £75): <strong>£8.00<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £75): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p>"
+          }
+        },
+        "842defd2-56d1-4a6a-9056-ea7a267fc470": {
+          "type": "question",
+          "settings": {
+            "title": "Switzerland & Norway Delivery",
+            "answer": "<p>- Standard Delivery (orders under £100): <strong>£8.00<\/strong> (up to 12 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 12 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p><p><\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+          }
+        },
+        "912c7ac6-40d8-41a7-92c4-d3b88be583dd": {
+          "type": "question",
+          "settings": {
+            "title": "Rest of EU Delivery",
+            "answer": "<p>- Standard Delivery (orders under £50): <strong>£6.00<\/strong> (up to 10 working days)<br\/>- Standard Delivery (orders over £50): <strong>FREE<\/strong> (up to 10working days)<\/p>"
+          }
+        },
         "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-2": {
           "type": "question",
           "settings": {
@@ -86,44 +107,23 @@
             "answer": "<p>- Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<\/p>"
           }
         },
-        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a": {
-          "type": "question",
-          "settings": {
-            "title": "Iceland, Bosnia & Serbia Delivery",
-            "answer": "<p>- Standard Delivery (orders under £75): <strong>£8.00<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £75): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p>"
-          }
-        },
-        "842defd2-56d1-4a6a-9056-ea7a267fc470": {
-          "type": "question",
-          "settings": {
-            "title": "Switzerland & Norway Delivery",
-            "answer": "<p>- Standard Delivery (orders under £100): <strong>£8.00<\/strong> (up to 12 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 12 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£12.50<\/strong> (up to 5 working days)<\/p><p><\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
-          }
-        },
         "59b32750-2449-4925-9806-042962693eb6": {
           "type": "question",
           "settings": {
             "title": "Rest of World Delivery",
             "answer": "<p>- Standard Delivery (orders under £100): <strong>£7.50<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£15.00<\/strong> (up to 7 working days)<\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
           }
-        },
-        "912c7ac6-40d8-41a7-92c4-d3b88be583dd": {
-          "type": "question",
-          "settings": {
-            "title": "Rest of EU Delivery",
-            "answer": "<p>- Standard Delivery (orders under £50): <strong>£6.00<\/strong> (up to 10 working days)<br\/>- Standard Delivery (orders over £50): <strong>FREE<\/strong> (up to 10working days)<\/p>"
-          }
         }
       },
       "block_order": [
         "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-1",
+        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a",
+        "842defd2-56d1-4a6a-9056-ea7a267fc470",
+        "912c7ac6-40d8-41a7-92c4-d3b88be583dd",
         "template--14383109636171__bd3a9664-b77a-45c0-8598-8fc50c5f8ec2-question-2",
         "bce58bef-6b04-497a-9518-c7be27b18333",
         "f0c36747-200a-46ec-a59d-e9c68f76790c",
-        "4abc5adb-93cb-4426-ae09-e8a74a43ef2a",
-        "842defd2-56d1-4a6a-9056-ea7a267fc470",
-        "59b32750-2449-4925-9806-042962693eb6",
-        "912c7ac6-40d8-41a7-92c4-d3b88be583dd"
+        "59b32750-2449-4925-9806-042962693eb6"
       ],
       "settings": {
         "title": ""
@@ -224,12 +224,12 @@
     "main": {
       "type": "faq-header",
       "settings": {
-        "title": "FAQ",
+        "title": "FAQs",
         "use_h1": false,
         "text": "",
         "show_search": true,
         "show_index": true,
-        "index_heading": "How can we help?"
+        "index_heading": "Can we help?"
       }
     },
     "faq-content-1": {
