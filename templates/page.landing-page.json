@@ -36,6 +36,10 @@
         "4895c0b3-d74d-42e9-b8ab-3e6ae29a5cfa",
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
       ],
+      "custom_css": [
+        "h2 {font-size: 24px;}",
+        "p {font-size: 20px;}"
+      ],
       "settings": {
         "height": "medium",
         "text_alignment": "center",
