@@ -120,7 +120,7 @@
       ],
       "custom_css": [
         "{background-color: #dea62c;}",
-        "h2 {color: #feed00;}",
+        "h2 {color: #feed00; font-size: 30px;}",
         "p {color: #fffef9;}",
         "a {color: #dea62c; background: #feed00; border: none; font-weight: bold !important;}"
       ],
