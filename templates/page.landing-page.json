@@ -279,7 +279,7 @@
         "{background: #2f865c;}",
         "h3 {color: #ddeba0;}",
         "p {color: #fffef9;}",
-        "a {color: #2f865c; background: #ddeba0;}"
+        "a {color: #2f865c; background: #ddeba0; font-weight: bold !important;}"
       ],
       "settings": {
         "title": "",
