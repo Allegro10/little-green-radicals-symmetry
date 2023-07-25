@@ -85,19 +85,6 @@
     "46395198-bd8f-48c5-8039-f81cb94d9d0a": {
       "type": "custom-row",
       "blocks": {
-        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Always organic cotton",
-            "text": "<p>Pesticides? No thanks. We only use organic cotton to protect growers, their families and the land they live on from harmful chemicals. Plus, organic cotton is super soft, long-lasting and and gentle on your child’s delicate skin. What’s not to love?!<\/p>",
-            "button_label": "Why we love organic",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
-          }
-        },
         "0f5cce1f-c974-4967-80c5-76612208255c": {
           "type": "image",
           "settings": {
@@ -116,11 +103,24 @@
             "mobile_overlay_under": false,
             "overlay_style": "no_background"
           }
+        },
+        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Always organic cotton",
+            "text": "<p>Pesticides? No thanks. We only use organic cotton to protect growers, their families and the land they live on from harmful chemicals. Plus, organic cotton is super soft, long-lasting and and gentle on your child’s delicate skin. What’s not to love?!<\/p>",
+            "button_label": "Why we love organic",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
         }
       },
       "block_order": [
-        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad",
-        "0f5cce1f-c974-4967-80c5-76612208255c"
+        "0f5cce1f-c974-4967-80c5-76612208255c",
+        "1dd149c8-c84c-4ca7-b0eb-22da4286f6ad"
       ],
       "custom_css": [
         "{background-color: #dea62c;}",
@@ -185,19 +185,6 @@
     "9867cef7-5835-45e3-814d-67db9221dfcd": {
       "type": "custom-row",
       "blocks": {
-        "9595adb6-6e26-4ce5-aca1-6a8a057f1438": {
-          "type": "text",
-          "settings": {
-            "width": "half",
-            "subheading": "",
-            "title": "Producer partners",
-            "text": "<p>We are extremely proud of the long standing relationships we have with our amazing producer partners in India (Deeps, Logotech, Qualiance and Rajlakshmi). Their skill and dedication means our clothing is beautifully made, fantastic quality and incredibly long-lasting. Our Fairtrade certification guarantees transparency and good working standards where the clothes your children wear are made.<\/p>",
-            "button_label": "Meet our partners",
-            "button_link": "",
-            "button_style": "primary",
-            "text_alignment": "left"
-          }
-        },
         "25dfd02d-e49e-4f2f-8318-364d3ba7c3f6": {
           "type": "image",
           "settings": {
@@ -216,11 +203,24 @@
             "mobile_overlay_under": false,
             "overlay_style": "no_background"
           }
+        },
+        "9595adb6-6e26-4ce5-aca1-6a8a057f1438": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Producer partners",
+            "text": "<p>We are extremely proud of the long standing relationships we have with our amazing producer partners in India (Deeps, Logotech, Qualiance and Rajlakshmi). Their skill and dedication means our clothing is beautifully made, fantastic quality and incredibly long-lasting. Our Fairtrade certification guarantees transparency and good working standards where the clothes your children wear are made.<\/p>",
+            "button_label": "Meet our partners",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
         }
       },
       "block_order": [
-        "9595adb6-6e26-4ce5-aca1-6a8a057f1438",
-        "25dfd02d-e49e-4f2f-8318-364d3ba7c3f6"
+        "25dfd02d-e49e-4f2f-8318-364d3ba7c3f6",
+        "9595adb6-6e26-4ce5-aca1-6a8a057f1438"
       ],
       "custom_css": [
         "{background-color: #1f593c;}",
