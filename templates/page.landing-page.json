@@ -13,7 +13,8 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
           "type": "image",
           "settings": {
-            "enlarge_image": true,
+            "image": "shopify:\/\/shop_images\/What-We-Do-1.jpg",
+            "enlarge_image": false,
             "subheading": "",
             "title": "",
             "description": "",
