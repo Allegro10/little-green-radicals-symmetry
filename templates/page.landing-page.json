@@ -13,8 +13,14 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
           "type": "heading",
           "settings": {
-            "title": "“Nothing is truly beautiful unless it is made the right way.” Nick Pecorelli, Founder",
+            "title": "“Nothing is truly beautiful unless it is made the right way.”",
             "use_h1": false
+          }
+        },
+        "4895c0b3-d74d-42e9-b8ab-3e6ae29a5cfa": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Nick Pecorelli, Founder"
           }
         },
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
@@ -27,6 +33,7 @@
       },
       "block_order": [
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
+        "4895c0b3-d74d-42e9-b8ab-3e6ae29a5cfa",
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
       ],
       "settings": {
