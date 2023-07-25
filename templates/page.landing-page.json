@@ -125,7 +125,7 @@
             "text": "<p>Pesticides? No thanks. We only use organic cotton to protect growers, their families and the land they live on from harmful chemicals. Plus, organic cotton is super soft, long-lasting and and gentle on your child’s delicate skin. What’s not to love?!<\/p>",
             "button_label": "Why we love organic",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "primary",
             "text_alignment": "left"
           }
         },
@@ -156,7 +156,7 @@
         "{background: #dea62c;}",
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
-        "a {color: #fffef9;}"
+        "a:link {color: #fffef9; background: #bae498;}"
       ],
       "settings": {
         "alignment": "middle"
