@@ -287,15 +287,6 @@
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6": {
       "type": "logo-list",
       "blocks": {
-        "ccf67e8b-8630-4505-ab5c-e6d658225be3": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Mother_and_Baby_8.png",
-            "image_width": 150,
-            "link": "",
-            "title": "Mother & Baby"
-          }
-        },
         "5bc54933-b97a-4a68-b9be-47db4e66ea40": {
           "type": "logo",
           "settings": {
@@ -303,6 +294,15 @@
             "image_width": 150,
             "link": "",
             "title": "The Guardian"
+          }
+        },
+        "ccf67e8b-8630-4505-ab5c-e6d658225be3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mother_and_Baby_8.png",
+            "image_width": 150,
+            "link": "",
+            "title": "Mother & Baby"
           }
         },
         "d8275d95-0442-4ab0-8b11-57ac999f7c21": {
@@ -313,12 +313,22 @@
             "link": "",
             "title": "Good On You"
           }
+        },
+        "71c7ed78-b303-463a-9b6c-bdb8d4f3e416": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the_green_parent_logo_copy.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
         }
       },
       "block_order": [
-        "ccf67e8b-8630-4505-ab5c-e6d658225be3",
         "5bc54933-b97a-4a68-b9be-47db4e66ea40",
-        "d8275d95-0442-4ab0-8b11-57ac999f7c21"
+        "ccf67e8b-8630-4505-ab5c-e6d658225be3",
+        "d8275d95-0442-4ab0-8b11-57ac999f7c21",
+        "71c7ed78-b303-463a-9b6c-bdb8d4f3e416"
       ],
       "custom_css": [
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
