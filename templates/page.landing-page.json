@@ -265,7 +265,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 140,
+            "image_width": 100,
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "CTA",
