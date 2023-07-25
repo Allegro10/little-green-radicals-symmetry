@@ -50,8 +50,8 @@
           "type": "image",
           "settings": {
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -119,11 +119,10 @@
         "0f5cce1f-c974-4967-80c5-76612208255c"
       ],
       "custom_css": [
-        "{background: #dea62c;}",
+        "{background-color: #dea62c;}",
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
-        "a:active {color: #dea62c; background: #feed00;}",
-        "a {font-weight: bold; color: #dea62c; background: #feed00; border: none;}"
+        "a {color: #dea62c; background: #feed00; border: none; font-weight: bold;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -170,10 +169,61 @@
         "template--14385066868811__8e820b60-9470-42cb-b94e-dfd26cae6285-text-1"
       ],
       "custom_css": [
-        "div {background: #144b66;}",
+        "{background-color: #144b66;}",
         "h2 {color: #00c7e6;}",
         "p {color: #fffef9;}",
         "a {font-weight: bold; color: #144b66; background: #00c7e6; border: none;}"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "9867cef7-5835-45e3-814d-67db9221dfcd": {
+      "type": "custom-row",
+      "blocks": {
+        "9595adb6-6e26-4ce5-aca1-6a8a057f1438": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Producer partners",
+            "text": "<p>We are extremely proud of the long standing relationships we have with our amazing producer partners in India (Deeps, Logotech, Qualiance and Rajlakshmi). Their skill and dedication means our clothing is beautifully made, fantastic quality and incredibly long-lasting. Our Fairtrade certification guarantees transparency and good working standards where the clothes your children wear are made.<\/p>",
+            "button_label": "Meet our partners",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
+        },
+        "25dfd02d-e49e-4f2f-8318-364d3ba7c3f6": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/2-1.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "no_background"
+          }
+        }
+      },
+      "block_order": [
+        "9595adb6-6e26-4ce5-aca1-6a8a057f1438",
+        "25dfd02d-e49e-4f2f-8318-364d3ba7c3f6"
+      ],
+      "custom_css": [
+        "{background-color: #1f593c;}",
+        "h2 {color: #33de4f;}",
+        "p {color: #fffef9;}",
+        "a:active {color: #dea62c; background: #feed00;}",
+        "a {font-weight: bold; color: #1f593c; background: #33de4f; border: none;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -235,6 +285,7 @@
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
+    "9867cef7-5835-45e3-814d-67db9221dfcd",
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c"
   ]
 }
