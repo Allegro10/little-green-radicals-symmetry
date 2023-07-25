@@ -122,7 +122,7 @@
         "{background-color: #dea62c;}",
         "h2 {color: #feed00;}",
         "p {color: #fffef9;}",
-        "a {color: #dea62c; background: #feed00; border: none; font-weight: bold !important;;}"
+        "a {color: #dea62c; background: #feed00; border: none; font-weight: bold !important;}"
       ],
       "settings": {
         "alignment": "middle"
@@ -223,7 +223,7 @@
         "h2 {color: #33de4f;}",
         "p {color: #fffef9;}",
         "a:active {color: #dea62c; background: #feed00;}",
-        "a {font-weight: bold; color: #1f593c; background: #33de4f; border: none;}"
+        "a {font-weight: bold !important; color: #1f593c; background: #33de4f; border: none;}"
       ],
       "settings": {
         "alignment": "middle"
