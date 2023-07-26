@@ -147,78 +147,47 @@
         "use_alt_bg": false
       }
     },
-    "3dca99fe-2094-4164-9dc1-17065c467cbc": {
-      "type": "featured-product",
+    "6a2a7eac-b128-4e7e-8895-0825e47e6c5a": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>how does it work?<\/b><\/font>\n<\/h2>\n<\/center>"
+      }
+    },
+    "d3c5aab1-b93e-4825-9aea-3ca272ef6514": {
+      "type": "rich-text",
       "blocks": {
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-0": {
-          "type": "title",
+        "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-heading-1": {
+          "type": "heading",
           "settings": {
+            "title": "",
+            "use_h1": false
           }
         },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-1": {
-          "type": "price",
+        "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-text-1": {
+          "type": "text",
           "settings": {
-            "show_tax_and_shipping": false,
-            "enable_product_reviews_by_price": true
-          }
-        },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-2": {
-          "type": "vendor",
-          "settings": {
-          }
-        },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-3": {
-          "type": "divider",
-          "settings": {
-          }
-        },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-4": {
-          "type": "variant_picker",
-          "settings": {
-            "show_single": false,
-            "select_first_variant": true,
-            "variant_style": "listed",
-            "disable_unavailable_variants": true,
-            "show_size_chart": false,
-            "size_chart_variant": "Size",
-            "size_chart_page": ""
-          }
-        },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "enable_payment_button": true,
-            "show_backorder_text": true
-          }
-        },
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-6": {
-          "type": "description",
-          "settings": {
-            "show_in_tab": false,
-            "open_tab": false,
-            "icon": ""
+            "text": "<p>1. Return your pre-loved, but wearable, Little Green Radicals clothes to our friends SuperLooper for <strong>FREE!<\/strong> <\/p><p>2. Your clothes will be checked and graded based on their condition by SuperLooper, an independent third party social enterprise. <\/p><p>3. Based on the grade given, we’ll send you a voucher to spend when you next order from us. <\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to enjoy.<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address!<\/p>",
+            "enlarge_text": false
           }
         }
       },
       "block_order": [
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-0",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-1",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-2",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-3",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-4",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-5",
-        "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-6"
+        "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-heading-1",
+        "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-text-1"
       ],
       "settings": {
-        "product": "",
-        "inventory_transfers_enable": true,
-        "gallery_size": "medium",
-        "gallery_layout": "carousel-under",
-        "enable_zoom": true,
-        "enable_video_looping": false,
-        "enable_var_img_grouping": false,
-        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "2c1edc27-28f0-4987-b986-bc32a6b0a18d": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">Download FREE Return Label<\/button><\/a><\/center><br><br>"
       }
     },
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
@@ -227,9 +196,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0408.jpg",
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -239,33 +209,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/superlooper2.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -275,9 +222,7 @@
       },
       "block_order": [
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1"
       ],
       "settings": {
         "grid": 2,
@@ -295,43 +240,176 @@
         "button_style": "primary"
       }
     },
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e": {
-      "type": "image-with-text",
+    "cca2acba-c36c-4392-ba33-6bd4536b0fbe": {
+      "type": "custom-liquid",
       "settings": {
-        "image_width": 700,
-        "subheading": "",
-        "title": "Image with text",
-        "use_h1": false,
-        "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "left",
+        "full_width": true,
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>what will I get? <\/b><\/font>\n<\/h2>\n<\/center>"
+      }
+    },
+    "fd63e45b-dea7-486b-976e-b92eb77951fe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Once SuperLooper have graded your clothes, we'll send you a voucher based on the grade and the average category price of the product (not individual product prices). You can spend this voucher on your next Little Green Radicals purchase, with no minimum order value!<\/p><p>This table below shows the voucher value you'd receive per category and grade.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-heading-1",
+        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
         "use_alt_bg": false
       }
     },
-    "931c57d6-9363-499b-84e1-f2e155f1ba13": {
-      "type": "logo-list",
+    "f08e03fd-682a-449e-b06b-6b4f773a2f42": {
+      "type": "custom-liquid",
       "settings": {
-        "title": "Logo list",
-        "image_opacity": 75,
-        "use_alt_bg": true
+        "full_width": true,
+        "code": "<center>\n<table style=\"width: 100%\" border=\"1\" bordercolor=\"#000000\">\n<tr style=\"font-family: sofia-pro; font-weight: 600\">\n<td style=\"width: 19%\"><\/td>\n<td style=\"width: 23%; text-align:center\" colspan=\"2\">Grade<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro; font-weight: 600;\">\n<td style=\"width: 19%;\">Product Categories<\/td>\n<td style=\"width: 10%\">Super Voucher Value<\/td>\n<td style=\"width: 13%\">Good Voucher Value<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Raincoats<\/td>\n<td style=\"width: 10%\">£7.80<\/td>\n<td style=\"width: 20%\">£5.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snowsuits<\/td>\n<td style=\"width: 10%\">£7.20<\/td>\n<td style=\"width: 20%\">£4.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snug As A Bug Suits & Winter Jackets <\/td>\n<td style=\"width: 10%\">£5.85<\/td>\n<td style=\"width: 20%\">£3.90<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Blanket & Corduroy Trousers<\/td>\n<td style=\"width: 10%\">£5.40<\/td>\n<td style=\"width: 20%\">£3.60<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Spring Jackets & Hoodies<\/td>\n<td style=\"width: 10%\">£5.10<\/td>\n<td style=\"width: 20%\">£3.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Dresses & Dungarees <\/td>\n<td style=\"width: 10%\">£4.80<\/td>\n<td style=\"width: 20%\">£3.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Jumpsuits & Pyjamas<\/td>\n<td style=\"width: 10%\">£4.20<\/td>\n<td style=\"width: 20%\">£2.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Blanket - Interlock, Playsets, Shorts Twill, Trousers<\/td>\n<td style=\"width: 10%\">£3.75<\/td>\n<td style=\"width: 20%\">£2.50<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Interlock Dresses & Dungarees, Sweatshirts, Shirts<\/td>\n<td style=\"width: 10%\">£3.60<\/td>\n<td style=\"width: 20%\">£2.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Babygrows<\/td>\n<td style=\"width: 10%\">£3.15<\/td>\n<td style=\"width: 20%\">£2.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Accessories<\/td>\n<td style=\"width: 10%\">£2.85<\/td>\n<td style=\"width: 20%\">£1.90<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Joggers & Tops<\/td>\n<td style=\"width: 10%\">£2.70<\/td>\n<td style=\"width: 20%\">£1.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Rib Baby Body, Rib Leggings, Shorts, Sun Hats, T-Shirts, Vests<\/td>\n<td style=\"width: 10%\">£2.25<\/td>\n<td style=\"width: 20%\">£1.50<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Body, Interlock Leggings<\/td>\n<td style=\"width: 10%\">£1.65<\/td>\n<td style=\"width: 20%\">£1.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Cap<\/td>\n<td style=\"width: 10%\">£1.35<\/td>\n<td style=\"width: 20%\">£0.90<\/td>\n<\/tr>\n<\/table>\n<\/center>"
       }
     },
-    "9b215c08-133b-47b4-a45d-1806c80ca376": {
-      "type": "map",
+    "d2f75e90-a84d-4683-bf00-ae92c978f204": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14385451663435__d2f75e90-a84d-4683-bf00-ae92c978f204-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "template--14385451663435__d2f75e90-a84d-4683-bf00-ae92c978f204-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It will take around 3 weeks from sending your pre-loved clothes back to receiving your voucher. <\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451663435__d2f75e90-a84d-4683-bf00-ae92c978f204-heading-1",
+        "template--14385451663435__d2f75e90-a84d-4683-bf00-ae92c978f204-text-1"
+      ],
       "settings": {
-        "color_bg": "#f4f4f4",
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "9d4e7964-dc9a-4069-8b8c-bad1f6d7fd1c": {
+      "type": "custom-liquid",
+      "settings": {
         "full_width": true,
-        "heading": "Our store",
-        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": true,
-        "map_address": "80 Spadina Ave, Toronto",
-        "api_key": "",
-        "map_style": "silver"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>what happens to my pre-loved clothes?<\/b><\/font>\n<\/h2>\n<\/center>"
+      }
+    },
+    "77c30262-845e-4acc-80f6-b857241d82d0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14385451663435__77c30262-845e-4acc-80f6-b857241d82d0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "template--14385451663435__77c30262-845e-4acc-80f6-b857241d82d0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>They get a new life! Your clothes will be rented out for other children to enjoy by the lovely independent social enterprise, SuperLooper. Come this way to <a href=\"https:\/\/www.superlooperlife.com\/\" target=\"_blank\" title=\"https:\/\/www.superlooperlife.com\/\">find out more<\/a> &gt;<\/p><p>*SuperLooper can only rent out wearable clothes. If your little one has had a lot of fun in their clothes and you don’t think they  can be passed on and worn again, we recommend up-cycling into something new or recycling them locally.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451663435__77c30262-845e-4acc-80f6-b857241d82d0-heading-1",
+        "template--14385451663435__77c30262-845e-4acc-80f6-b857241d82d0-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "cf71ea40-c10e-45d4-9a5a-417ab6c34de5": {
+      "type": "gallery",
+      "blocks": {
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/What_We_Do_Community_3e396e09-8140-46a1-a201-0dbb38857243.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NA14021_1800x1800_8_540x_0f628629-6b24-4688-8561-d3ad934510a2.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Us_2.png",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-1",
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-2",
+        "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-4"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
       }
     },
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e": {
@@ -571,13 +649,6 @@
         "text_alignment": "left",
         "use_alt_bg": false
       }
-    },
-    "6a2a7eac-b128-4e7e-8895-0825e47e6c5a": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "code": ""
-      }
     }
   },
   "order": [
@@ -587,11 +658,17 @@
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b",
-    "3dca99fe-2094-4164-9dc1-17065c467cbc",
+    "6a2a7eac-b128-4e7e-8895-0825e47e6c5a",
+    "d3c5aab1-b93e-4825-9aea-3ca272ef6514",
+    "2c1edc27-28f0-4987-b986-bc32a6b0a18d",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
-    "931c57d6-9363-499b-84e1-f2e155f1ba13",
-    "9b215c08-133b-47b4-a45d-1806c80ca376",
+    "cca2acba-c36c-4392-ba33-6bd4536b0fbe",
+    "fd63e45b-dea7-486b-976e-b92eb77951fe",
+    "f08e03fd-682a-449e-b06b-6b4f773a2f42",
+    "d2f75e90-a84d-4683-bf00-ae92c978f204",
+    "9d4e7964-dc9a-4069-8b8c-bad1f6d7fd1c",
+    "77c30262-845e-4acc-80f6-b857241d82d0",
+    "cf71ea40-c10e-45d4-9a5a-417ab6c34de5",
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
@@ -599,7 +676,6 @@
     "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1",
     "7fb67205-5ec8-47b6-a1c2-b06bcc225f79",
     "f74dae93-7c37-4714-b5b4-97946015f60a",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915",
-    "6a2a7eac-b128-4e7e-8895-0825e47e6c5a"
+    "ee7b061f-d3f9-41df-8509-c7d94024b915"
   ]
 }
