@@ -59,196 +59,8 @@
         "overlay_style": "shadow"
       }
     },
-    "931c57d6-9363-499b-84e1-f2e155f1ba13": {
-      "type": "logo-list",
-      "settings": {
-        "title": "Logo list",
-        "image_opacity": 75,
-        "use_alt_bg": true
-      }
-    },
-    "9b215c08-133b-47b4-a45d-1806c80ca376": {
-      "type": "map",
-      "settings": {
-        "color_bg": "#f4f4f4",
-        "full_width": true,
-        "heading": "Our store",
-        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": true,
-        "map_address": "80 Spadina Ave, Toronto",
-        "api_key": "",
-        "map_style": "silver"
-      }
-    },
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
-      "type": "multi-column",
-      "blocks": {
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
-      ],
-      "settings": {
-        "title": "Multi-column",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
-    "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e": {
-      "type": "product-list",
-      "settings": {
-        "title": "Product list",
-        "product_list": [
-
-        ],
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "use_alt_bg": true,
-        "full_width": true
-      }
-    },
-    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text",
-            "use_h1": false
-          }
-        },
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.<\/p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
-    },
-    "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0": {
-          "type": "text",
-          "settings": {
-            "text": "Your scrolling text here",
-            "color": "rgba(0,0,0,0)",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "use_alt_bg": false,
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 35,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
-      }
-    },
     "f94a21db-6880-4911-a434-3c12bc39f920": {
       "type": "slideshow",
-      "blocks": {
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
-            "heading_max_width": 800,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>And optional subtext<\/p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
-            "button_label_2": "Shop all",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-1": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
-            "heading_max_width": 800,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>And optional subtext<\/p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
-            "button_label_2": "Shop all",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0",
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-1"
-      ],
       "settings": {
         "height": "fixed",
         "height_desktop": 600,
@@ -262,110 +74,39 @@
         "autoplay_speed": 7
       }
     },
-    "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1": {
-      "type": "compact-messages",
-      "blocks": {
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0": {
-          "type": "message",
-          "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
-            "link_url": ""
-          }
-        },
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-1": {
-          "type": "message",
-          "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
-            "link_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0",
-        "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-1"
-      ],
+    "5beeea9f-a68b-4e56-9cf9-babd768a2bb0": {
+      "type": "custom-liquid",
       "settings": {
-        "head_not_col_bg": "#f4f6f8",
-        "head_not_col_txt1": "#171717",
-        "head_not_col_txt2": "#4c4c4b",
-        "head_not_mob_show": true,
-        "head_not_mob_text": "Add important information here",
-        "head_not_mob_url": ""
-      }
-    },
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79": {
-      "type": "testimonials",
-      "blocks": {
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
-            "image_caption": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-1": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
-            "image_caption": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0",
-        "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-1"
-      ],
-      "settings": {
-        "title": "Customer reviews",
-        "layout": "image-right",
-        "text_caps": false,
-        "quote_text_size": 30,
-        "quote_text_size_mobile": 20,
-        "image_shape": "square",
-        "use_alt_bg": false,
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
-    },
-    "f74dae93-7c37-4714-b5b4-97946015f60a": {
-      "type": "video",
-      "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "Tell your story",
-        "video_title": "Featured video",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "<p>Use a video to get a customer's attention<\/p>",
-        "enlarge_text": true,
-        "text_alignment": "center center",
         "full_width": true,
-        "overlay_style": "shadow"
+        "code": "<div class=\"klaviyo-form-WqGcv6\"><\/div>\n<div class=\"klaviyo-form-Smne2j\"><\/div><div class=\"klaviyo-form-Y8Mndm\"><\/div><div class=\"klaviyo-form-WcsJym\"><\/div>"
       }
     },
-    "ee7b061f-d3f9-41df-8509-c7d94024b915": {
-      "type": "video-with-text",
+    "7de05474-6e54-408f-a6aa-3c82ace07f9e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14385451696203__7de05474-6e54-408f-a6aa-3c82ace07f9e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "terms & conditions",
+            "use_h1": false
+          }
+        },
+        "template--14385451696203__7de05474-6e54-408f-a6aa-3c82ace07f9e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Your Code can be used on all orders from the minute you receive it. <br\/>- Discount is applied at order level <br\/>- By signing up your details above you agree to Little Green Radicals <br\/>contacting you with emails that we think are relevant to you.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451696203__7de05474-6e54-408f-a6aa-3c82ace07f9e-heading-1",
+        "template--14385451696203__7de05474-6e54-408f-a6aa-3c82ace07f9e-text-1"
+      ],
       "settings": {
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "subheading": "",
-        "title": "Video with text",
-        "use_h1": false,
-        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_position": "left",
-        "text_alignment": "left",
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
         "use_alt_bg": false
       }
     }
@@ -374,16 +115,8 @@
     "main",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "0ec52567-1590-4317-8772-ad42429e5d2d",
-    "931c57d6-9363-499b-84e1-f2e155f1ba13",
-    "9b215c08-133b-47b4-a45d-1806c80ca376",
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152",
-    "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e",
-    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
-    "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
     "f94a21db-6880-4911-a434-3c12bc39f920",
-    "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1",
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79",
-    "f74dae93-7c37-4714-b5b4-97946015f60a",
-    "ee7b061f-d3f9-41df-8509-c7d94024b915"
+    "5beeea9f-a68b-4e56-9cf9-babd768a2bb0",
+    "7de05474-6e54-408f-a6aa-3c82ace07f9e"
   ]
 }
