@@ -22,7 +22,7 @@
         "title_size": 84,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Glorious gifts for babies, toddlers & kids<\/p>",
+        "text": "<p>Beautiful organic cotton gifts for babies, toddlers & kids<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -41,7 +41,7 @@
       ],
       "settings": {
         "full_width": true,
-        "code": "<center><span style=\"font-size:16px\">Find beautiful toys, organic cotton newborn essentials & baby gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special. <span style=\"font-size:16px\"><\/span><\/span><\/center>"
+        "code": "<center><span style=\"font-size:16px\">Find organic cotton soft toys, newborn essentials and gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special. <span style=\"font-size:16px\"><\/span><\/span><\/center>"
       }
     },
     "136af74a-2d44-4f67-994d-ca363bec9e12": {
@@ -68,7 +68,7 @@
         "text": "",
         "enlarge_text": true,
         "button_label_1": "Shop Now",
-        "button_url_1": "",
+        "button_url_1": "https:\/\/littlegreenradicals.com\/collections\/gift-sets",
         "button_label_2": "",
         "button_url_2": "",
         "text_alignment": "center center",
@@ -86,9 +86,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_7.jpg",
             "image_width": 700,
-            "title": "Baby Showers",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Baby Showers",
             "link": "shopify:\/\/collections\/baby-shower-gifts"
           }
         },
@@ -98,9 +98,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_6.jpg",
             "image_width": 700,
-            "title": "Christening & Naming Ceremony Gifts",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Christenings & Naming Ceremonies",
             "link": "shopify:\/\/collections\/naming-ceremony-christening-gifts"
           }
         },
@@ -110,9 +110,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/TY-004-MUL_2_copy.jpg",
             "image_width": 700,
-            "title": "Birthdays",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Birthdays",
             "link": "shopify:\/\/collections\/birthday-gifts"
           }
         }
@@ -123,7 +123,7 @@
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-2"
       ],
       "settings": {
-        "title": "Gifts by Occassion",
+        "title": "Gifts by Occasion",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -138,9 +138,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Untitled_design_14.jpg",
             "image_width": 700,
-            "title": "Gifts Under £30",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Gifts under £30",
             "link": "shopify:\/\/collections\/gifts-under-30"
           }
         },
@@ -150,9 +150,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Untitled_design_17.jpg",
             "image_width": 700,
-            "title": "Gifts Under £50",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Gifts Under £50",
             "link": "shopify:\/\/collections\/gifts-under-50"
           }
         }
@@ -218,9 +218,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_8.jpg",
             "image_width": 700,
-            "title": "For Kids",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "For Kids",
             "link": "shopify:\/\/collections\/kids-gifts"
           }
         },
@@ -230,9 +230,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_9.jpg",
             "image_width": 700,
-            "title": "For Newborns",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "For Newborns",
             "link": "shopify:\/\/collections\/newborn-gifts"
           }
         },
@@ -242,9 +242,9 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/LGR_E-Gift-Card_1.jpg",
             "image_width": 700,
-            "title": "E-Gift Cards",
+            "title": "",
             "text": "",
-            "button_label": "",
+            "button_label": "Gift E-Cards",
             "link": "shopify:\/\/products\/gift-card"
           }
         }
@@ -255,7 +255,7 @@
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2"
       ],
       "settings": {
-        "title": "Gift Ideas",
+        "title": "Gift Suggestions",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -271,11 +271,11 @@
         "image_link": "",
         "subheading": "",
         "title": "Gift Wrapping Service",
-        "heading_max_width": 800,
-        "title_size": 84,
+        "heading_max_width": 600,
+        "title_size": 50,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Want to make your gift extra special? Select a gift box or fabric wrapping & include a personal message.<\/p>",
+        "text": "<p>Want to make your gift extra special? Choose from our gift box & fabric wrapping selection, or you can include a personal message free of charge.<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -290,7 +290,7 @@
     "2dbd551e-a389-43f7-8390-7c901abd09de": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Select Gift Wrap",
         "subtitle": "",
         "collection": "gift-wrapping-service",
         "show_vendor": false,
