@@ -59,29 +59,6 @@
         "overlay_style": "shadow"
       }
     },
-    "931c57d6-9363-499b-84e1-f2e155f1ba13": {
-      "type": "logo-list",
-      "settings": {
-        "title": "Logo list",
-        "image_opacity": 75,
-        "use_alt_bg": true
-      }
-    },
-    "9b215c08-133b-47b4-a45d-1806c80ca376": {
-      "type": "map",
-      "settings": {
-        "color_bg": "#f4f4f4",
-        "full_width": true,
-        "heading": "Our store",
-        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": true,
-        "map_address": "80 Spadina Ave, Toronto",
-        "api_key": "",
-        "map_style": "silver"
-      }
-    },
     "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
       "type": "multi-column",
       "blocks": {
@@ -89,9 +66,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "image": "shopify:\/\/shop_images\/Rainbow_180x_f1705a7d-9d89-45da-914f-05b3da02d211.png",
+            "image_width": 70,
+            "title": "UK & Ireland",
+            "text": "<p>The Land of Green Ginger, <em>Guernsey<br\/><\/em>Rainbows and Dragons, <em>Abergele<\/em><br\/>Avoca, <em>All stores Ireland<\/em><br\/>Rainbow Nation, <em>Plymouth<\/em><br\/>Wickle, <em>Lewes<\/em><br\/>Edith and Blanche, <em>Portsmouth<\/em><br\/>Crimson and Clover, <em>London<\/em><br\/>Betty McKenzie, <em>Cleethorpes<\/em><br\/>Dilly Pickles, <em>Gainsborough<\/em><br\/>Bizzybods, <em>Nantwich<\/em><br\/>Poppits Baby Boutique, <em>Darlington<\/em><br\/>Little Nelly, <em>Falmouth<\/em><br\/>Moo like a monkey, <em>Folkestone<\/em><br\/>Little Labels, <em>Pangbourne<\/em><br\/>The Little Bear's Wardrobe,<em> Frome<\/em><br\/>Cheeky Bambini Ltd, <em>Belper<\/em><br\/>Westmorland Family, <em>Cumbria<\/em><br\/>Whippersnappers Retail Ltd, <em>Deal<\/em><br\/>The Edinburgh baby co Ltd, <em>Edinburgh<\/em><br\/>Sea Whistle, <em>Hastings<\/em><br\/>Biff, <em>London<\/em><br\/>Fly Jesse, <em>Sherbourne<\/em><br\/>Shooligans, <em>Skipton<\/em><br\/>Ruby Dobies, <em>St Ives<\/em><br\/>The Ethical Enfys, <em>Vale of Glamorgan<\/em><br\/>Polly and Tots, <em>Northwich, Cheshire<\/em><br\/>Peter Rabbit and Friends,<em> Kendal, Cumbria<\/em><br\/>Eco Bee, <em>Cambridge<\/em><\/p><p><em>Online<br\/><\/em>Babipur <br\/>Eco Baby Box<br\/>Eco Mama & Babe<br\/>Hip Baby <br\/>Kidly<br\/>Orson's Cwtch  <br\/>Rainbow Kids Boutique<br\/>The Nordic Bear Ltd<br\/>The Norse Nook<br\/>Tilly & Jasper <br\/>Wolf & Compass <br\/>Yes Bebe<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -100,9 +78,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "image": "shopify:\/\/shop_images\/House_LGR_180x_8a4524cf-d7cb-4934-826b-738e9d31dd98.png",
+            "image_width": 70,
+            "title": "Germany",
+            "text": "<p>Sperling Mode & Natur, <em>Lower Saxony <\/em><br\/>Fachvolk, <em>Lower Saxony <\/em><br\/>Babysnatur, <em>Lower Saxony <\/em><br\/>Smaland, <em>Baden-Württemberg<br\/>Elfenstall, Northwestern Baden-Württemberg<\/em><br\/>Zwergencompany, <em>North Rhine-Westphalia<\/em><br\/>Kinderlädchen, <em>Baden-Württemberg<\/em><br\/>Bauchgefühl, <em>Baden-Württemberg<\/em><br\/>Latztruhe, <em>BavariaZeitlos<\/em>, <em>Bavaria<\/em><br\/>Frau Bauch, <em>Bavaria<\/em> <br\/>Klix Berlin, <em>Berlin<\/em><br\/>Kiezkinder, <em>Berlin<\/em><br\/>Snugata, <em>Berlin<\/em><br\/>Kleiner Lorbach, <em>Gießen<\/em><br\/>Elli & Mai, <em>Lower Saxony<\/em><br\/>Zwergen Stube, <em>North Rhine-Westphalia<\/em><br\/>Kinderzimmer Bonn, <em>North Rhine-Westphalia<\/em><br\/>Li La Lina, <em>North Rhine-Westphalia<\/em><br\/>Tante Frida, <em>Oberbayern<\/em><br\/><em>Marienkäfer<\/em> Naturtextilien, <em>Saarland<\/em><br\/>Lolakids & Piepapo, <em>Saxony<\/em> <br\/>Lelo Karli, <em>Saxony<\/em><br\/>Schneekleidchen und Hosenrot, <em>Thuringia<\/em><br\/>Moquadrat, <em>Thuringia<\/em><br\/>Friedoline, <em>Upper Bavaria<\/em><br\/>Lollibel, <em>Upper Franconia<\/em><br\/>Lilli und Bubbi, <em>Wiesbaden <\/em>Zwergenparadies, Allgäu<br\/>Prienatura, Upper Bavaria <br\/>Kunterbus, Rhineland - Palatinate<br\/>Kunst und Spiel, Bavaria <br\/>Naturhaus Fellhäusle, Baden - Württemberg <br\/>Vier Wände, Lower Saxony<\/p><p><\/p><p><em>ONLINE SHOPS<br\/>www.kruemel-natur.de<br\/>www.naturzwerge-kindermode.de<br\/>www.babysnatur.de<br\/>www.sophies-welt-wardenburg.de<br\/>www.smaland-shop.de<br\/>www.sperling-goettingen.de <\/em>www.naturkinder.it <br\/>www.naturkindchen.com<br\/>www.junghans-kindermode.de<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -111,9 +90,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "image": "shopify:\/\/shop_images\/Quality_LGR_180x_ac143df1-81c8-4d39-a60a-ae822938c1da.png",
+            "image_width": 70,
+            "title": "Austria & Switzerland",
+            "text": "<p><em>Austria<br\/><\/em>Julia Piringer, <em>Lower Austria <\/em><br\/>Fabihaft, Burgenland - <em>Mattersburg<\/em> <br\/>Yomabi , <em>Vorarlberg<\/em><br\/>Mamiladen Oberwart,<em> Oberwart Region<\/em><br\/>Crai Clothing, <em>Salzburg Region<\/em><br\/>Herzkäferle, <em>Thuringia region<\/em><br\/>Gern und Gut, <em>Lower Austria <\/em><br\/>Mimi und Max, <em>Lower Austria  <\/em>Regenbogen Kids, Lower Bavaria <br\/>Mamiladen Oberwart, Burgenland<\/p><p><\/p><p>ONLINE SHOPS<\/p><p>www.lalekula.at<br\/>www.kleinewelten.at<br\/><\/p><p><em>Switzerland<br\/><\/em>Lapsi, <em>Basel Landschaft <\/em><br\/>Reuben's Boutique , <em>Canton de Vaud<\/em><br\/>Chinderkiste , <em>Canton of Zug<\/em><br\/>Smile of Nature<em>, Canton Zurich<br\/><\/em>Mole Min<em>, Basel Stadt<br\/><\/em>Troeimli Boutique<em>, Bern Mittelland<br\/><\/em>Laneria<em>, Canton Aargau<br\/><\/em>Mere et Terre<em>, Canton of Vaud<br\/><\/em>Sternli Second hand<em>, Canton of Zurich<br\/><\/em>Oekoladen<em>, Canton of Basel Stadt<\/em><\/p><p>Toi et Moi, Basel Region <br\/>Eco Point, Canton of Jura<\/p><p>U Tiger,<em> Bern<\/em><br\/>Vier Linden - <em>Zürich <\/em><\/p><p><\/p><p><em>online shops<br\/> www.lapsi.ch<br\/>www.windelzeit.ch<br\/>www.haribolservice.com<br\/>www.commonpieces.ch<br\/>www.chinderkiste.ch<\/em><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -125,130 +105,14 @@
         "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
       ],
       "settings": {
-        "title": "Multi-column",
+        "title": "",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
       }
     },
-    "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e": {
-      "type": "product-list",
-      "settings": {
-        "title": "Product list",
-        "product_list": [
-
-        ],
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "use_alt_bg": true,
-        "full_width": true
-      }
-    },
-    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text",
-            "use_h1": false
-          }
-        },
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.<\/p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
-    },
-    "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0": {
-          "type": "text",
-          "settings": {
-            "text": "Your scrolling text here",
-            "color": "rgba(0,0,0,0)",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "use_alt_bg": false,
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 35,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
-      }
-    },
     "f94a21db-6880-4911-a434-3c12bc39f920": {
       "type": "slideshow",
-      "blocks": {
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
-            "heading_max_width": 800,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>And optional subtext<\/p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
-            "button_label_2": "Shop all",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-1": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
-            "heading_max_width": 800,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>And optional subtext<\/p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
-            "button_label_2": "Shop all",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0",
-        "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-1"
-      ],
       "settings": {
         "height": "fixed",
         "height_desktop": 600,
@@ -374,12 +238,7 @@
     "main",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "0ec52567-1590-4317-8772-ad42429e5d2d",
-    "931c57d6-9363-499b-84e1-f2e155f1ba13",
-    "9b215c08-133b-47b4-a45d-1806c80ca376",
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
-    "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e",
-    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
-    "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
     "f94a21db-6880-4911-a434-3c12bc39f920",
     "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1",
     "7fb67205-5ec8-47b6-a1c2-b06bcc225f79",
