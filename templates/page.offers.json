@@ -85,13 +85,14 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/LGR_Offers_37.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "Free Delivery",
+            "title": "on orders over £50 UK \/ $100 USA \/ $130 Rest of World",
             "description": "",
             "button_label": "",
             "link": "",
-            "text_alignment": "bottom left"
+            "text_alignment": "center center"
           }
         }
       },
@@ -113,94 +114,6 @@
         "enable_carousel": true,
         "overlay_style": "full",
         "button_style": "primary"
-      }
-    },
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e": {
-      "type": "image-with-text",
-      "settings": {
-        "image_width": 700,
-        "subheading": "",
-        "title": "Image with text",
-        "use_h1": false,
-        "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
-      }
-    },
-    "931c57d6-9363-499b-84e1-f2e155f1ba13": {
-      "type": "logo-list",
-      "settings": {
-        "title": "Logo list",
-        "image_opacity": 75,
-        "use_alt_bg": true
-      }
-    },
-    "9b215c08-133b-47b4-a45d-1806c80ca376": {
-      "type": "map",
-      "settings": {
-        "color_bg": "#f4f4f4",
-        "full_width": true,
-        "heading": "Our store",
-        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": true,
-        "map_address": "80 Spadina Ave, Toronto",
-        "api_key": "",
-        "map_style": "silver"
-      }
-    },
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
-      "type": "multi-column",
-      "blocks": {
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
-      ],
-      "settings": {
-        "title": "Multi-column",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
       }
     },
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e": {
@@ -448,10 +361,6 @@
     "a0fc861e-d4fa-4cc1-9fb5-1fc48bf5b67e",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
-    "ce6329e7-8d6d-4039-a16d-98f8a0e4944e",
-    "931c57d6-9363-499b-84e1-f2e155f1ba13",
-    "9b215c08-133b-47b4-a45d-1806c80ca376",
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152",
     "1a8a2345-6d03-4b2a-a074-3e8f0f97df4e",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
