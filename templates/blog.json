@@ -1,1 +1,49 @@
-{"sections":{"main":{"type":"main-blog","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "940e0d58-a17d-4967-b164-c90a6cd4c0a5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TMitchell_220607_4677_2d058590-898d-416e-accd-c291013ddc4b.jpg",
+        "height": "fixed",
+        "height_desktop": 440,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Welcome to",
+        "title": "LGR Blog",
+        "heading_max_width": 800,
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_page_title": false,
+        "layout": "columns",
+        "show_author": false,
+        "show_date": false,
+        "show_excerpts": true,
+        "show_article_tags": true,
+        "show_sharing_icons": true,
+        "show_rss_icon": true,
+        "crop_image": true,
+        "crop_style": "16-9"
+      }
+    }
+  },
+  "order": [
+    "940e0d58-a17d-4967-b164-c90a6cd4c0a5",
+    "main"
+  ]
+}
