@@ -34,8 +34,42 @@
         "overlay_style": "shadow"
       }
     },
+    "f70faeff-ee8e-43d1-961b-f7b8af6749fe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "use_h1": false
+          }
+        },
+        "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-heading-1",
+        "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-text-1"
+      ],
+      "custom_css": [
+        "p {font-size: 16px;}"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
     "b1205d78-cf74-464d-b01a-3c688f71b754": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -121,6 +155,10 @@
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-0",
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-1",
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-2"
+      ],
+      "custom_css": [
+        ".btn {background-color: #000; border-color: #000;}",
+        ".btn:hover {background-color: #a5958b; border-color: #a5958b;}"
       ],
       "settings": {
         "title": "Gifts by Occasion",
@@ -346,6 +384,7 @@
   "order": [
     "main",
     "0ec52567-1590-4317-8772-ad42429e5d2d",
+    "f70faeff-ee8e-43d1-961b-f7b8af6749fe",
     "b1205d78-cf74-464d-b01a-3c688f71b754",
     "136af74a-2d44-4f67-994d-ca363bec9e12",
     "4dc3d7bc-85f6-4d0f-9749-46cdd7bd194f",
