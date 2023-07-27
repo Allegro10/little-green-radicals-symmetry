@@ -2,12 +2,79 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "{margin-bottom: -80px;}"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1690475939b9011b98": {
+      "type": "apps",
+      "blocks": {
+        "d17974cd-e720-4f65-acc4-760dfcaad822": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "maxWidth": 1100,
+            "borderRadius": 8,
+            "itemsPerView": 4,
+            "maxNumberOfCharacters": 100,
+            "imageRatio": "0.72",
+            "reviewerNameColor": "#000000",
+            "textColor": "#000000",
+            "itemBackgroundColor": "#ffffff",
+            "starsColor": "",
+            "starsBackgroundColor": "#ffffff",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "offset-dark",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        },
+        "4e2fcb62-0d01-4cf3-9899-64f3fe9fb305": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "max_width": 1920,
+            "text_color": "#000000",
+            "background_color": "#ffffff",
+            "arrows_color": "#000000",
+            "dots_color": "#000000",
+            "button_color": "#000000",
+            "show_more": true,
+            "only_photos": false,
+            "use_widget_font": true,
+            "product_handle": ""
+          }
+        },
+        "66e7318f-1075-481a-a407-66fd77188fde": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-agg-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "d17974cd-e720-4f65-acc4-760dfcaad822",
+        "4e2fcb62-0d01-4cf3-9899-64f3fe9fb305",
+        "66e7318f-1075-481a-a407-66fd77188fde"
+      ],
       "settings": {
         "full_width": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1690475939b9011b98"
   ]
 }
