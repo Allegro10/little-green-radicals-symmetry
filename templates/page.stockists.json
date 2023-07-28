@@ -7,6 +7,32 @@
         "full_width": false
       }
     },
+    "0ec52567-1590-4317-8772-ad42429e5d2d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/weclome_LGR_stockisttttt_3024x_3ecb8695-6ddf-4736-abe6-68dd0c173ca7.jpg",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "<br>Stockists",
+        "heading_max_width": 600,
+        "title_size": 40,
+        "title_size_mobile": 40,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -33,30 +59,33 @@
         "title": "FAQ"
       }
     },
-    "0ec52567-1590-4317-8772-ad42429e5d2d": {
-      "type": "image-with-text-overlay",
+    "8f3d0df6-0039-417d-a39f-4dfd562b28b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have a stockist near you, please do pop in to say hello and support your local independent shops. If you are interested in stocking Little Green Radicals, please visit our <a href=\"https:\/\/littlegreenradicalswholesale.com\/\" target=\"_blank\" title=\"https:\/\/littlegreenradicalswholesale.com\/\">wholesale website<\/a> or <a href=\"mailto:wholesale@littlegreeradicals.co.uk\" title=\"mailto:wholesale@littlegreeradicals.co.uk\">contact us<\/a>. <\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1",
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/weclome_LGR_stockisttttt_3024x_3ecb8695-6ddf-4736-abe6-68dd0c173ca7.jpg",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "<br>Stockists",
-        "heading_max_width": 600,
-        "title_size": 40,
-        "title_size_mobile": 40,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow"
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
       }
     },
     "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
@@ -164,43 +193,14 @@
         "autoplay": true,
         "autoplay_speed": 7
       }
-    },
-    "8f3d0df6-0039-417d-a39f-4dfd562b28b3": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text",
-            "use_h1": false
-          }
-        },
-        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Please do pop in to say hello to one of our lovely stockists near you! If you are interested in becoming a stockist, please visit our <a href=\"https:\/\/littlegreenradicalswholesale.com\/\" target=\"_blank\" title=\"https:\/\/littlegreenradicalswholesale.com\/\">wholesale website<\/a> or <a href=\"mailto:wholesale@littlegreeradicals.co.uk\" title=\"mailto:wholesale@littlegreeradicals.co.uk\">contact us<\/a>. <\/p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1",
-        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
     }
   },
   "order": [
     "main",
-    "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "0ec52567-1590-4317-8772-ad42429e5d2d",
+    "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
+    "8f3d0df6-0039-417d-a39f-4dfd562b28b3",
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
-    "f94a21db-6880-4911-a434-3c12bc39f920",
-    "8f3d0df6-0039-417d-a39f-4dfd562b28b3"
+    "f94a21db-6880-4911-a434-3c12bc39f920"
   ]
 }
