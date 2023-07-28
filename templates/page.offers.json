@@ -242,19 +242,22 @@
             "height_mobile": 460,
             "subheading": "",
             "title": "Free Delivery",
-            "text": "<p>on orders over £50 UK \/ $100 USA \/ $130 Rest of World<\/p>",
+            "text": "<p>on orders over £50 UK \/ $100 USA \/ <br\/>$130 Rest of World<\/p>",
             "enlarge_text": false,
             "button_label": "Shop now",
             "image_link": "shopify:\/\/collections\/all",
             "text_alignment": "center center",
             "mobile_overlay_under": false,
-            "overlay_style": "shadow"
+            "overlay_style": "full image-overlay--bg-shadow"
           }
         }
       },
       "block_order": [
         "template--14385451728971__fb4ec7c5-d9cf-4640-a9f5-062452b2c38c-image-1",
         "928f5b3b-84bb-45f4-b52b-37616ccc3293"
+      ],
+      "custom_css": [
+        ".overlay-text__title {font-size: 2rem;}"
       ],
       "settings": {
         "alignment": "middle"
