@@ -37,15 +37,15 @@
       "type": "image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/weclome_LGR_stockisttttt_3024x_3ecb8695-6ddf-4736-abe6-68dd0c173ca7.jpg",
-        "height": "fixed",
-        "height_desktop": 460,
+        "height": "adapt",
+        "height_desktop": 600,
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "find your local stockist",
-        "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
+        "title": "<br>Stockists",
+        "heading_max_width": 600,
+        "title_size": 40,
+        "title_size_mobile": 40,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
@@ -164,6 +164,35 @@
         "autoplay": true,
         "autoplay_speed": 7
       }
+    },
+    "8f3d0df6-0039-417d-a39f-4dfd562b28b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "use_h1": false
+          }
+        },
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please do pop in to say hello to one of our lovely stockists near you! If you are interested in becoming a stockist, please visit our <a href=\"https:\/\/littlegreenradicalswholesale.com\/\" target=\"_blank\" title=\"https:\/\/littlegreenradicalswholesale.com\/\">wholesale website<\/a> or <a href=\"mailto:wholesale@littlegreeradicals.co.uk\" title=\"mailto:wholesale@littlegreeradicals.co.uk\">contact us<\/a>. <\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-heading-1",
+        "template--14383109668939__8f3d0df6-0039-417d-a39f-4dfd562b28b3-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
     }
   },
   "order": [
@@ -171,6 +200,7 @@
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
     "0ec52567-1590-4317-8772-ad42429e5d2d",
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
-    "f94a21db-6880-4911-a434-3c12bc39f920"
+    "f94a21db-6880-4911-a434-3c12bc39f920",
+    "8f3d0df6-0039-417d-a39f-4dfd562b28b3"
   ]
 }
