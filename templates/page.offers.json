@@ -69,6 +69,7 @@
     },
     "1e85f8e7-8d9f-4ffd-ab43-a74adc44c0fb": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/LGR_Offers_37.jpg",
         "height": "adapt",
@@ -95,6 +96,7 @@
     },
     "e205c12a-495d-460d-a8a8-556bf8527de5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14385451728971__e205c12a-495d-460d-a8a8-556bf8527de5-heading-1": {
           "type": "heading",
@@ -132,6 +134,7 @@
     },
     "b8b5185b-2c08-4bd4-b575-e1a7e666f8b7": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/TMitchell_220607_5981.jpg",
         "height": "adapt",
