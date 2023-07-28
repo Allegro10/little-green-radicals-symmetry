@@ -191,6 +191,9 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1"
       ],
+      "custom_css": [
+        ".overlay-text__description {color: #fff;}"
+      ],
       "settings": {
         "grid": 2,
         "height": "fixed",
@@ -205,6 +208,56 @@
         "enable_carousel": true,
         "overlay_style": "full",
         "button_style": "primary"
+      }
+    },
+    "fb4ec7c5-d9cf-4640-a9f5-062452b2c38c": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14385451728971__fb4ec7c5-d9cf-4640-a9f5-062452b2c38c-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/LGR_Offers_15.jpg",
+            "height": "fixed",
+            "height_desktop": 460,
+            "height_mobile": 400,
+            "subheading": "",
+            "title": "10% Off Your Order",
+            "text": "<p>Sign up to get your code, exclusive discounts, new styles & feel-good news. Discount applies to all products!<\/p>",
+            "enlarge_text": false,
+            "button_label": "Sign up",
+            "image_link": "https:\/\/littlegreenradicals.myshopify.com\/pages\/newsletter-sign-up",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "928f5b3b-84bb-45f4-b52b-37616ccc3293": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/LGR_Offers_37.jpg",
+            "height": "fixed",
+            "height_desktop": 460,
+            "height_mobile": 460,
+            "subheading": "",
+            "title": "Free Delivery",
+            "text": "<p>on orders over £50 UK \/ $100 USA \/ $130 Rest of World<\/p>",
+            "enlarge_text": false,
+            "button_label": "Shop now",
+            "image_link": "shopify:\/\/collections\/all",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451728971__fb4ec7c5-d9cf-4640-a9f5-062452b2c38c-image-1",
+        "928f5b3b-84bb-45f4-b52b-37616ccc3293"
+      ],
+      "settings": {
+        "alignment": "middle"
       }
     },
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
@@ -244,6 +297,7 @@
     "6f79a10e-6483-41af-99bf-05e2130c800b",
     "b8b5185b-2c08-4bd4-b575-e1a7e666f8b7",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
+    "fb4ec7c5-d9cf-4640-a9f5-062452b2c38c",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
     "f94a21db-6880-4911-a434-3c12bc39f920"
   ]
