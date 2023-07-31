@@ -220,7 +220,7 @@
         "title_size": 84,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Beautiful Baby Gifts<\/p>",
+        "text": "<p>Beautiful baby gifts<\/p>",
         "enlarge_text": true,
         "button_label_1": "Shop",
         "button_url_1": "shopify:\/\/collections\/natural-organic-baby-collection",
@@ -235,7 +235,7 @@
     "7c42fd46-c8e5-4fec-a984-6272364acf27": {
       "type": "featured-collection",
       "settings": {
-        "title": "Most Loved Gifts",
+        "title": "Most loved gifts",
         "subtitle": "",
         "collection": "organic-baby-clothing-gifts",
         "show_vendor": false,
@@ -258,7 +258,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "For Kids",
+            "button_label": "For kids",
             "link": "shopify:\/\/collections\/kids-gifts"
           }
         },
@@ -270,7 +270,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "For Newborns",
+            "button_label": "For newborns",
             "link": "shopify:\/\/collections\/newborn-baby-clothes-gift-set"
           }
         },
@@ -282,7 +282,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "Gift E-Cards",
+            "button_label": "Gift e-cards",
             "link": "shopify:\/\/products\/gift-card"
           }
         }
@@ -293,7 +293,7 @@
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2"
       ],
       "settings": {
-        "title": "Gift Suggestions",
+        "title": "Gift suggestions",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -308,7 +308,7 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Gift Wrapping Service",
+        "title": "Gift wrapping service",
         "heading_max_width": 600,
         "title_size": 50,
         "title_size_mobile": 46,
