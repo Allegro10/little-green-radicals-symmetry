@@ -12,14 +12,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/AW19-Lookbook-5_3024x_bdcea376-e612-4603-973b-ea7e7cd3e244.jpg",
         "height": "fixed",
-        "height_desktop": 420,
-        "height_mobile": 460,
+        "height_desktop": 460,
+        "height_mobile": 200,
         "image_link": "",
         "subheading": "",
-        "title": "Size Guide",
+        "title": "Size guide",
         "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
+        "title_size": 60,
+        "title_size_mobile": 30,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
@@ -88,7 +88,7 @@
           "type": "html",
           "settings": {
             "width": "two-thirds",
-            "code": "<div class=\"size-guide__table5\">\n<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr class=\"bg-black\">\n<td>\n<div><strong>Age<\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Height<\/span><\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Chest<\/span><\/strong><\/div>\n<\/td>\n<td><b>Arm Length<\/b><\/td>\n<\/tr>\n<tr>\n<td>newborn<\/td>\n<td>56cm<\/td>\n<td>41cm<\/td>\n<td>19cm<\/td>\n<\/tr>\n<tr>\n<td>0 - 3m<\/td>\n<td>62cm<\/td>\n<td>44cm<\/td>\n<td>22cm<\/td>\n<\/tr>\n<tr>\n<td>3 - 6m<\/td>\n<td>68cm<\/td>\n<td>45.5cm<\/td>\n<td>23.5cm<\/td>\n<\/tr>\n<tr>\n<td>6 - 9m<\/td>\n<td>74cm<\/td>\n<td>46cm<\/td>\n<td>25cm<\/td>\n<\/tr>\n<tr>\n<td>9 - 12m<\/td>\n<td>80cm<\/td>\n<td>50cm<\/td>\n<td>26.5cm<\/td>\n<\/tr>\n<tr>\n<td>12-18m<\/td>\n<td>86cm<\/td>\n<td>52cm<\/td>\n<td>29.5cm<\/td>\n<\/tr>\n<tr>\n<td>18-24m<\/td>\n<td>92cm<span data-type=\"inches\"><\/span><\/td>\n<td>54cm<\/td>\n<td>32cm<\/td>\n<\/tr>\n<tr>\n<td>2 - 3y<\/td>\n<td>98cm<\/td>\n<td>55cm<\/td>\n<td>34.5cm<\/td>\n<\/tr>\n<tr>\n<td>3 - 4y<\/td>\n<td>104cm<\/td>\n<td>57cm<\/td>\n<td>37cm<\/td>\n<\/tr>\n<tr>\n<td>4 - 5y<\/td>\n<td>110cm<\/td>\n<td>59cm<\/td>\n<td>39.5cm<\/td>\n<\/tr>\n<tr>\n<td>5 - 6y<\/td>\n<td>116cm<\/td>\n<td>61cm<\/td>\n<td>42cm<\/td>\n<\/tr>\n<tr>\n<td>6 - 7y<\/td>\n<td>122cm<\/td>\n<td>63cm<\/td>\n<td>44.5cm<\/td>\n<\/tr>\n<tr>\n<td>7 - 8y<\/td>\n<td>128cm<\/td>\n<td>66cm<\/td>\n<td>47cm<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+            "code": "<div class=\"size-guide__table5\">\n<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr class=\"bg-black\">\n<td>\n<div><strong>Age<\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Height<\/span><\/strong><\/div>\n<\/td>\n<td>\n<div><strong><span>Chest<\/span><\/strong><\/div>\n<\/td>\n<td><b>Arm length<\/b><\/td>\n<\/tr>\n<tr>\n<td>newborn<\/td>\n<td>56cm<\/td>\n<td>41cm<\/td>\n<td>19cm<\/td>\n<\/tr>\n<tr>\n<td>0 - 3m<\/td>\n<td>62cm<\/td>\n<td>44cm<\/td>\n<td>22cm<\/td>\n<\/tr>\n<tr>\n<td>3 - 6m<\/td>\n<td>68cm<\/td>\n<td>45.5cm<\/td>\n<td>23.5cm<\/td>\n<\/tr>\n<tr>\n<td>6 - 9m<\/td>\n<td>74cm<\/td>\n<td>46cm<\/td>\n<td>25cm<\/td>\n<\/tr>\n<tr>\n<td>9 - 12m<\/td>\n<td>80cm<\/td>\n<td>50cm<\/td>\n<td>26.5cm<\/td>\n<\/tr>\n<tr>\n<td>12-18m<\/td>\n<td>86cm<\/td>\n<td>52cm<\/td>\n<td>29.5cm<\/td>\n<\/tr>\n<tr>\n<td>18-24m<\/td>\n<td>92cm<span data-type=\"inches\"><\/span><\/td>\n<td>54cm<\/td>\n<td>32cm<\/td>\n<\/tr>\n<tr>\n<td>2 - 3y<\/td>\n<td>98cm<\/td>\n<td>55cm<\/td>\n<td>34.5cm<\/td>\n<\/tr>\n<tr>\n<td>3 - 4y<\/td>\n<td>104cm<\/td>\n<td>57cm<\/td>\n<td>37cm<\/td>\n<\/tr>\n<tr>\n<td>4 - 5y<\/td>\n<td>110cm<\/td>\n<td>59cm<\/td>\n<td>39.5cm<\/td>\n<\/tr>\n<tr>\n<td>5 - 6y<\/td>\n<td>116cm<\/td>\n<td>61cm<\/td>\n<td>42cm<\/td>\n<\/tr>\n<tr>\n<td>6 - 7y<\/td>\n<td>122cm<\/td>\n<td>63cm<\/td>\n<td>44.5cm<\/td>\n<\/tr>\n<tr>\n<td>7 - 8y<\/td>\n<td>128cm<\/td>\n<td>66cm<\/td>\n<td>47cm<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
           }
         }
       },
@@ -120,7 +120,7 @@
           "type": "html",
           "settings": {
             "width": "three-quarters",
-            "code": "<center><p>\n<span><strong>Height:<\/strong><br> Measure from the top of the head to the bottom of their feet when your child is standing up or lying down.<\/span><br>\n<span><strong>Chest:<\/strong><br> Measure around the chest just beneath your child's underarms.<\/span>\n<br> \n<span><strong>Waist:<\/strong><br> Measure the natural waist (the bit where it is curved in) with the child’s abdomen relaxed.<\/span>\n<br> \n<span><strong>Leg Length:<\/strong><br> Measure from the waist to bottom of the feet.<\/span>\n<br> \n<span><strong>Arm Length:<\/strong><br> Measure from the edge of the shoulder to the wrist when arm is straight. <\/span> \n<\/p><\/center>\n<\/div>"
+            "code": "<center><p>\n<span><strong>Height:<\/strong><br> Measure from the top of the head to the bottom of their feet when your child is standing up or lying down.<\/span><br>\n<span><strong>Chest:<\/strong><br> Measure around the chest just beneath your child's underarms.<\/span>\n<br> \n<span><strong>Waist:<\/strong><br> Measure the natural waist (the bit where it is curved in) with the child’s abdomen relaxed.<\/span>\n<br> \n<span><strong>Leg length:<\/strong><br> Measure from the waist to bottom of the feet.<\/span>\n<br> \n<span><strong>Arm length:<\/strong><br> Measure from the edge of the shoulder to the wrist when arm is straight. <\/span> \n<\/p><\/center>\n<\/div>"
           }
         }
       },
@@ -145,7 +145,7 @@
         "template--14362388168779__286e436e-85b5-4b9f-be7e-2ce1d5809b4e-16830415769285ae47-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer <strong>6 month free returns <\/strong>to the UK and EU so can replace your LGR style with another size if it’s not exactly what you’re looking for. <\/p><p>If you have any questions, please contact our Customer Service Team: <br\/><strong>+44 (0) 207 7335027<\/strong> or <strong>customer service@littlegreenradicals.co.uk<\/strong><\/p>",
+            "text": "<p>We offer <strong>6 month free returns <\/strong>to the UK and EU so can replace your LGR style with another size if it’s not exactly what you’re looking for. <\/p><p>If you have any questions, please contact our customer service team: <br\/><strong>+44 (0) 207 7335027<\/strong> or <strong>customerservice@littlegreenradicals.co.uk<\/strong><\/p>",
             "enlarge_text": false
           }
         }
