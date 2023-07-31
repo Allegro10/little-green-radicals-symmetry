@@ -9,12 +9,12 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Superloop",
+        "title": "Return & Earn",
         "heading_max_width": 800,
         "title_size": 84,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>wear it. return it free. get money to spend on new clothes.<\/p>",
+        "text": "<p>Wear, return, get money back. Join our SuperLoop!<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -30,7 +30,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>welcome to our pre-loved <br>clothing return service <\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Welcome to our pre-loved <br>clothing return service <\/b><\/font>\n<\/h2>\n<\/center>"
       }
     },
     "main": {
@@ -151,7 +151,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>how does it work?<\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>How it works<\/b><\/font>\n<\/h2>\n<\/center>"
       }
     },
     "d3c5aab1-b93e-4825-9aea-3ca272ef6514": {
@@ -167,7 +167,7 @@
         "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>1. Return your pre-loved, but wearable, Little Green Radicals clothes to our friends SuperLooper for <strong>FREE!<\/strong> <\/p><p>2. Your clothes will be checked and graded based on their condition by SuperLooper, an independent third party social enterprise. <\/p><p>3. Based on the grade given, we’ll send you a voucher to spend when you next order from us. <\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to enjoy.<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address!<\/p>",
+            "text": "<p>1. Fill in this form to let us know what you'll be sending back<\/p><p>2. Return your pre-loved, but wearable, Little Green Radicals clothes using our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\" target=\"_blank\" title=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\">FREE  post service<\/a><\/p><p>3. Receive a voucher for 15% of the original item value (sent to you via email)<\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to rent and enjoy<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address with your return. <\/p>",
             "enlarge_text": false
           }
         }
@@ -187,7 +187,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">Download FREE Return Label<\/button><\/a><\/center><br><br>"
+        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">SuperLoop returns form<\/button><\/a><\/center><br><br>"
       }
     },
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
@@ -244,7 +244,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>what will I get? <\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">Free post label<\/button><\/a><\/center><br><br>"
       }
     },
     "fd63e45b-dea7-486b-976e-b92eb77951fe": {
