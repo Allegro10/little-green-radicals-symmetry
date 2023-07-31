@@ -30,7 +30,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Welcome to our pre-loved <br>clothing return service <\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Welcome to our UK pre-loved <br>clothing return service <\/b><\/font>\n<\/h2>\n<\/center>"
       }
     },
     "main": {
@@ -167,7 +167,7 @@
         "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>1. Fill in this form to let us know what you'll be sending back<\/p><p>2. Return your pre-loved, but wearable, Little Green Radicals clothes using our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\" target=\"_blank\" title=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\">FREE  post service<\/a><\/p><p>3. Receive a voucher for 15% of the original item value (sent to you via email)<\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to rent and enjoy<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address with your return. <\/p>",
+            "text": "<p>1. Fill in<a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\" target=\"_blank\" title=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\"> our SuperLoop returns form <\/a>to let us know what you'll be sending back<\/p><p>2. Return your pre-loved, but wearable, Little Green Radicals clothes using our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\" target=\"_blank\" title=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\">FREE postage service<\/a><\/p><p>3. Receive a voucher for 15% of the original item value (sent to you via email once you fill in SuperLoop returns form)<\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to rent and enjoy<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address in your clothing returns package. SuperLoop is only available in the UK. <\/p>",
             "enlarge_text": false
           }
         }
@@ -188,6 +188,13 @@
       "settings": {
         "full_width": true,
         "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">SuperLoop returns form<\/button><\/a><\/center><br><br>"
+      }
+    },
+    "87f1ac1e-3510-4d11-bc42-38d85722ef3d": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">Download free postage label<\/button><\/a><\/center><br><br>"
       }
     },
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e": {
@@ -240,34 +247,19 @@
         "button_style": "primary"
       }
     },
-    "cca2acba-c36c-4392-ba33-6bd4536b0fbe": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "code": "<center><a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\"><button type=\"button\" class=\"btn\">Free post label<\/button><\/a><\/center><br><br>"
-      }
-    },
     "fd63e45b-dea7-486b-976e-b92eb77951fe": {
       "type": "rich-text",
       "blocks": {
         "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "",
+            "title": "Voucher value per cateogory",
             "use_h1": false
-          }
-        },
-        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Once SuperLooper have graded your clothes, we'll send you a voucher based on the grade and the average category price of the product (not individual product prices). You can spend this voucher on your next Little Green Radicals purchase, with no minimum order value!<\/p><p>This table below shows the voucher value you'd receive per category and grade.<\/p>",
-            "enlarge_text": false
           }
         }
       },
       "block_order": [
-        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-heading-1",
-        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-text-1"
+        "template--14385451663435__fd63e45b-dea7-486b-976e-b92eb77951fe-heading-1"
       ],
       "settings": {
         "height": "medium",
@@ -280,7 +272,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<table style=\"width: 100%\" border=\"1\" bordercolor=\"#000000\">\n<tr style=\"font-family: sofia-pro; font-weight: 600\">\n<td style=\"width: 19%\"><\/td>\n<td style=\"width: 23%; text-align:center\" colspan=\"2\">Grade<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro; font-weight: 600;\">\n<td style=\"width: 19%;\">Product Categories<\/td>\n<td style=\"width: 10%\">Super Voucher Value<\/td>\n<td style=\"width: 13%\">Good Voucher Value<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Raincoats<\/td>\n<td style=\"width: 10%\">£7.80<\/td>\n<td style=\"width: 20%\">£5.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snowsuits<\/td>\n<td style=\"width: 10%\">£7.20<\/td>\n<td style=\"width: 20%\">£4.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snug As A Bug Suits & Winter Jackets <\/td>\n<td style=\"width: 10%\">£5.85<\/td>\n<td style=\"width: 20%\">£3.90<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Blanket & Corduroy Trousers<\/td>\n<td style=\"width: 10%\">£5.40<\/td>\n<td style=\"width: 20%\">£3.60<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Spring Jackets & Hoodies<\/td>\n<td style=\"width: 10%\">£5.10<\/td>\n<td style=\"width: 20%\">£3.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Dresses & Dungarees <\/td>\n<td style=\"width: 10%\">£4.80<\/td>\n<td style=\"width: 20%\">£3.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Jumpsuits & Pyjamas<\/td>\n<td style=\"width: 10%\">£4.20<\/td>\n<td style=\"width: 20%\">£2.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Blanket - Interlock, Playsets, Shorts Twill, Trousers<\/td>\n<td style=\"width: 10%\">£3.75<\/td>\n<td style=\"width: 20%\">£2.50<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Interlock Dresses & Dungarees, Sweatshirts, Shirts<\/td>\n<td style=\"width: 10%\">£3.60<\/td>\n<td style=\"width: 20%\">£2.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Babygrows<\/td>\n<td style=\"width: 10%\">£3.15<\/td>\n<td style=\"width: 20%\">£2.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Accessories<\/td>\n<td style=\"width: 10%\">£2.85<\/td>\n<td style=\"width: 20%\">£1.90<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Joggers & Tops<\/td>\n<td style=\"width: 10%\">£2.70<\/td>\n<td style=\"width: 20%\">£1.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Rib Baby Body, Rib Leggings, Shorts, Sun Hats, T-Shirts, Vests<\/td>\n<td style=\"width: 10%\">£2.25<\/td>\n<td style=\"width: 20%\">£1.50<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Body, Interlock Leggings<\/td>\n<td style=\"width: 10%\">£1.65<\/td>\n<td style=\"width: 20%\">£1.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Cap<\/td>\n<td style=\"width: 10%\">£1.35<\/td>\n<td style=\"width: 20%\">£0.90<\/td>\n<\/tr>\n<\/table>\n<\/center>"
+        "code": "<center>\n<table style=\"width: 100%\" border=\"1\" bordercolor=\"#000000\">\n<tr style=\"font-family: sofia-pro; font-weight: 600\">\n<td style=\"width: 19%\"><\/td>\n<td style=\"width: 23%; text-align:center\" colspan=\"2\">\n<\/tr>\n<tr style=\"font-family: sofia-pro; font-weight: 600;\">\n<td style=\"width: 19%;\">Product Categories<\/td>\n<td style=\"width: 10%\"> Voucher Value<\/td>\n\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Raincoats<\/td>\n<td style=\"width: 10%\">£7.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snowsuits<\/td>\n<td style=\"width: 10%\">£7.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snug As A Bug Suits & Winter Jackets <\/td>\n<td style=\"width: 10%\">£5.85<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Blanket & Corduroy Trousers<\/td>\n<td style=\"width: 10%\">£5.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Spring Jackets & Hoodies<\/td>\n<td style=\"width: 10%\">£5.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Dresses & Dungarees <\/td>\n<td style=\"width: 10%\">£4.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Jumpsuits & Pyjamas<\/td>\n<td style=\"width: 10%\">£4.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Blanket - Interlock, Playsets, Shorts Twill, Trousers<\/td>\n<td style=\"width: 10%\">£3.75<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Interlock Dresses & Dungarees, Sweatshirts, Shirts<\/td>\n<td style=\"width: 10%\">£3.60<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Babygrows<\/td>\n<td style=\"width: 10%\">£3.15<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Accessories<\/td>\n<td style=\"width: 10%\">£2.85<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Joggers & Tops<\/td>\n<td style=\"width: 10%\">£2.70<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Rib Baby Body, Rib Leggings, Shorts, Sun Hats, T-Shirts, Vests<\/td>\n<td style=\"width: 10%\">£2.25<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Body, Interlock Leggings<\/td>\n<td style=\"width: 10%\">£1.65<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Cap<\/td>\n<td style=\"width: 10%\">£1.35<\/td>\n<\/tr>\n<\/table>\n<\/center>"
       }
     },
     "d2f75e90-a84d-4683-bf00-ae92c978f204": {
@@ -296,7 +288,7 @@
         "template--14385451663435__d2f75e90-a84d-4683-bf00-ae92c978f204-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>It will take around 3 weeks from sending your pre-loved clothes back to receiving your voucher. <\/p>",
+            "text": "",
             "enlarge_text": false
           }
         }
@@ -316,7 +308,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>what happens to my pre-loved clothes?<\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>What happens to my pre-loved clothes?<\/b><\/font>\n<\/h2>\n<\/center>"
       }
     },
     "77c30262-845e-4acc-80f6-b857241d82d0": {
@@ -416,7 +408,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>terms & conditions<\/b><\/font>\n<\/h2>\n<\/center>"
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Terms & Conditions<\/b><\/font>\n<\/h2>\n<\/center>"
       }
     },
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
@@ -432,7 +424,7 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>+ The Little Green Radicals SuperLoop is currently only available to UK residents <br\/>+ This free post service is separate from our the Little Green Radicals standard free post returns for newly purchased product <br\/>+ The money back percentage is an introductory offer and may change in the future <br\/>+ SuperLooper grading decision is independent of Little Green Radicals <br\/>+ There is no minimum order value that needs to be met to use your vouchers <br\/>+ Vouchers are based on the average full price per category<strong> (see table above)<\/strong> <br\/>+ Vouchers are not dependent on the exact price paid <br\/>+ If you end up with more than one voucher code, please email customerservice@littlegreenradicals.co.uk to consolidate them<\/p>",
+            "text": "<p>+ SuperLoop is currently only available to UK residents <br\/>+ This free post service is separate from our the Little Green Radicals standard free post returns for newly purchased product  <br\/>+ There is no minimum order value that needs to be met to use your vouchers <br\/>+ Vouchers are based on the average full price per category<strong> (see table above)<\/strong> <br\/>+ Vouchers are not dependent on the exact price paid <br\/>+ If you end up with more than one voucher code, please email customerservice@littlegreenradicals.co.uk to consolidate them<\/p>",
             "enlarge_text": false
           }
         }
@@ -487,8 +479,8 @@
     "6a2a7eac-b128-4e7e-8895-0825e47e6c5a",
     "d3c5aab1-b93e-4825-9aea-3ca272ef6514",
     "2c1edc27-28f0-4987-b986-bc32a6b0a18d",
+    "87f1ac1e-3510-4d11-bc42-38d85722ef3d",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
-    "cca2acba-c36c-4392-ba33-6bd4536b0fbe",
     "fd63e45b-dea7-486b-976e-b92eb77951fe",
     "f08e03fd-682a-449e-b06b-6b4f773a2f42",
     "d2f75e90-a84d-4683-bf00-ae92c978f204",
