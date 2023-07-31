@@ -5,14 +5,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/TMitchell_190516_9471_3024x_bcb026f4-cc96-4239-9f9b-067bb2c3563f.jpg",
         "height": "fixed",
-        "height_desktop": 400,
-        "height_mobile": 300,
+        "height_desktop": 460,
+        "height_mobile": 200,
         "image_link": "",
         "subheading": "",
         "title": "Delivery & Returns",
         "heading_max_width": 800,
-        "title_size": 52,
-        "title_size_mobile": 46,
+        "title_size": 60,
+        "title_size_mobile": 30,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
@@ -32,7 +32,7 @@
         "template--14383109636171__e5706251-903d-4ec7-b32a-a8f2e83d233d-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Delivery Information",
+            "title": "Delivery information",
             "use_h1": false
           }
         },
