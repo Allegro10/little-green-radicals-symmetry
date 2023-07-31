@@ -9,10 +9,10 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Contact Us",
+        "title": "Contact us",
         "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
+        "title_size": 70,
+        "title_size_mobile": 50,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
@@ -68,8 +68,8 @@
           "settings": {
             "enable_image": false,
             "image_width": 700,
-            "title": "Customer Service",
-            "text": "<p>Office hours:<br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email Customer Service<\/a><\/p><p><\/p>",
+            "title": "Customer service",
+            "text": "<p>Office hours:<br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email customer service<\/a><\/p><p><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -103,7 +103,7 @@
         "template--14357811134539__b8f31b27-7498-4172-b7a2-488c5e50c75a-text_block-3"
       ],
       "settings": {
-        "title": "Contact Details",
+        "title": "Contact us",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -115,7 +115,7 @@
         "template--14357811134539__ca93b145-5ac0-496c-914e-a2c52c912045-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Become a Stockist",
+            "title": "Become a stockist",
             "use_h1": false
           }
         },
@@ -136,14 +136,14 @@
         "f056b773-40b6-452b-adfa-406b21303e5d": {
           "type": "heading",
           "settings": {
-            "title": "Become an Affiliate",
+            "title": "Become an affiliate",
             "use_h1": false
           }
         },
         "3258f78b-0ca3-423c-be63-e21ad4e43d7f": {
           "type": "text",
           "settings": {
-            "text": "<p>Do you have a blog, website or social media account and want to earn money by sharing the things you love? We are looking for inspiring people who want to celebrate beautiful, long-lasting, organic clothes for kids. By partnering with us and joining our Affiliate Program, you can earn money simply by sharing your favourite Little Green Radicals products. It really is that easy! All you need to do is add a link to our website when you feature us and for every sale made via this code, you'll receive a percentage commission based on the full order value.<\/p><p><a href=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\" target=\"_blank\" title=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\">Sign Up<\/a><\/p>",
+            "text": "<p>Do you have a blog, website or social media account and want to earn money by sharing the things you love? We are looking for inspiring people who want to celebrate beautiful, long-lasting, organic clothes for kids. By partnering with us and joining our Affiliate Program, you can earn money simply by sharing your favourite Little Green Radicals products. It really is that easy! All you need to do is add a link to our website when you feature us and for every sale made via this code, you'll receive a percentage commission based on the full order value.<\/p><p><a href=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\" target=\"_blank\" title=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\">Sign up<\/a><\/p>",
             "enlarge_text": false
           }
         }
