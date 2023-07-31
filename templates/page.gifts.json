@@ -13,14 +13,14 @@
         "image": "shopify:\/\/shop_images\/Gifts_Main_Image.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Gifts_Main_Image.jpg",
         "height": "fixed",
-        "height_desktop": 600,
-        "height_mobile": 460,
+        "height_desktop": 460,
+        "height_mobile": 200,
         "image_link": "",
         "subheading": "",
-        "title": "Gift Ideas",
+        "title": "Gift ideas",
         "heading_max_width": 800,
-        "title_size": 84,
-        "title_size_mobile": 46,
+        "title_size": 60,
+        "title_size_mobile": 30,
         "use_h1": false,
         "text": "<p>Beautiful organic cotton gifts for babies, toddlers & kids<\/p>",
         "enlarge_text": true,
@@ -48,7 +48,7 @@
         "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special.<\/p>",
+            "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a gift e-card if you just can't decide! For a finishing touch, use our gift wrapping service to make your gift extra special.<\/p>",
             "enlarge_text": false
           }
         }
@@ -94,14 +94,14 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Gift Sets",
+        "title": "Gift sets",
         "heading_max_width": 800,
         "title_size": 84,
         "title_size_mobile": 46,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
-        "button_label_1": "Shop Now",
+        "button_label_1": "Shop now",
         "button_url_1": "https:\/\/littlegreenradicals.com\/collections\/gift-sets",
         "button_label_2": "",
         "button_url_2": "",
@@ -122,7 +122,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "Baby Showers",
+            "button_label": "Baby showers",
             "link": "shopify:\/\/collections\/baby-shower-clothing-gifts"
           }
         },
@@ -134,7 +134,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "Christenings & Naming Ceremonies",
+            "button_label": "Christenings & naming ceremonies",
             "link": "shopify:\/\/collections\/naming-ceremony-christening-gifts"
           }
         },
@@ -161,7 +161,7 @@
         ".btn:hover {background-color: #a5958b; border-color: #a5958b;}"
       ],
       "settings": {
-        "title": "Gifts by Occasion",
+        "title": "Gifts by occasion",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -190,7 +190,7 @@
             "image_width": 700,
             "title": "",
             "text": "",
-            "button_label": "Gifts Under £50",
+            "button_label": "Gifts under £50",
             "link": "shopify:\/\/collections\/gifts-under-50"
           }
         }
