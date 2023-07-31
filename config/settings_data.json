@@ -1261,7 +1261,7 @@
           ".btn.btn--secondary:hover {border: none; color: #fff; background-color: #000 !important;}"
         ],
         "settings": {
-          "lower_menu": "",
+          "lower_menu": "footer",
           "show_payment_icons": true,
           "show_country_selector": false,
           "show_language_selector": true
