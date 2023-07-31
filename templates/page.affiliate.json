@@ -265,7 +265,7 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<br><center><span style=\"font-size:18px;\">Any questions?<\/span><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:social@littlegreenradicals.co.uk\" style=\"color: white\">Email Us<\/a><\/button><\/center><br>"
+        "code": "<br><center><span style=\"font-size:18px;\">Any questions?<\/span><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:social@littlegreenradicals.co.uk\" style=\"color: white\">Email us<\/a><\/button><\/center><br>"
       }
     },
     "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d": {
