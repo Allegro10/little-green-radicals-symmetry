@@ -207,22 +207,13 @@
     "2349e42f-57ef-4dda-860a-2fff0828382d": {
       "type": "logo-list",
       "blocks": {
-        "3c8bc425-93a3-46a8-9c40-90862f58de47": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_1_752365a9-94c0-4f50-af6e-6553199cd8b2.png",
-            "image_width": 150,
-            "link": "",
-            "title": "Fairtrade"
-          }
-        },
         "6843e9f0-47d1-4949-93eb-42c108bdbe34": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Artboard_8.png",
             "image_width": 150,
             "link": "",
-            "title": "Lux Life"
+            "title": ""
           }
         },
         "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
@@ -231,12 +222,11 @@
             "image": "shopify:\/\/shop_images\/Artboard_9.png",
             "image_width": 150,
             "link": "",
-            "title": "Junior Design Awards"
+            "title": ""
           }
         }
       },
       "block_order": [
-        "3c8bc425-93a3-46a8-9c40-90862f58de47",
         "6843e9f0-47d1-4949-93eb-42c108bdbe34",
         "8ab75100-e97a-4129-bb7d-b0f32b8977e1"
       ],
@@ -244,7 +234,7 @@
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
       ],
       "settings": {
-        "title": "Our super awards  & certifications",
+        "title": "Our super awards",
         "image_opacity": 75,
         "use_alt_bg": true
       }
@@ -291,7 +281,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Guardina_Logo-1.png",
-            "image_width": 120,
+            "image_width": 170,
             "link": "",
             "title": ""
           }
@@ -300,7 +290,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Mother_and_Baby_8.png",
-            "image_width": 120,
+            "image_width": 150,
             "link": "",
             "title": ""
           }
@@ -309,7 +299,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Good_On_you_7.png",
-            "image_width": 120,
+            "image_width": 150,
             "link": "",
             "title": ""
           }
@@ -327,7 +317,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/MB_Logo_copy.png",
-            "image_width": 90,
+            "image_width": 80,
             "link": "",
             "title": ""
           }
@@ -366,7 +356,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Soil_Association_1.png",
-            "image_width": 160,
+            "image_width": 280,
             "link": "",
             "title": ""
           }
@@ -375,7 +365,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/FM_Cotton_BW_NEW_1.png",
-            "image_width": 120,
+            "image_width": 80,
             "link": "",
             "title": ""
           }
@@ -384,7 +374,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/gots-logo-_copy.png",
-            "image_width": 160,
+            "image_width": 100,
             "link": "",
             "title": ""
           }
