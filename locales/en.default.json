@@ -102,7 +102,7 @@
       "agreement_html": "I agree to the <a href=\"{{ terms_url }}\" target=\"_blank\">terms and refund policy<\/a>"
     },
     "general": {
-      "quantity_too_high": "You can only have {{ quantity }} in your cart",
+      "quantity_too_high": "You can only have {{ quantity }} in your bag",
       "title": "Shopping Bag",
       "subtotal": "Subtotal",
       "taxes_included_and_shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout. Add discount code at checkout.",
@@ -110,7 +110,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout",
       "taxes_and_shipping_at_checkout": "Shipping calculated at checkout",
       "checkout": "Check out",
-      "update": "Update cart",
+      "update": "Update bag",
       "or": "or",
       "continue": "Continue shopping",
       "backorder": "Product is backordered and will ship as soon as it is back in stock.",
