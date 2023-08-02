@@ -355,8 +355,8 @@
         "c563b886-a03a-4fa9-9968-4ec84ffa7832": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Soil_Association_1.png",
-            "image_width": 280,
+            "image": "shopify:\/\/shop_images\/Soil-Association.png",
+            "image_width": 80,
             "link": "",
             "title": ""
           }
@@ -364,7 +364,7 @@
         "0868494b-8a5c-4f86-ab46-e989da1c8f58": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FM_Cotton_BW_NEW_1.png",
+            "image": "shopify:\/\/shop_images\/Fairtrade_46239e42-842a-4310-8ebe-affce03a786a.png",
             "image_width": 80,
             "link": "",
             "title": ""
@@ -373,8 +373,8 @@
         "6470c6f9-1e85-4b69-b376-0d8a776323eb": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/gots-logo-_copy.png",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/GOTS.png",
+            "image_width": 80,
             "link": "",
             "title": ""
           }
@@ -387,7 +387,7 @@
       ],
       "settings": {
         "title": "Our super certifications",
-        "image_opacity": 75,
+        "image_opacity": 100,
         "use_alt_bg": true
       }
     },
