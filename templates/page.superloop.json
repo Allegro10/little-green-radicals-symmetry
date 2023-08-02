@@ -47,9 +47,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/LGR_SuperLooper_Icon_1.png",
-            "image_width": 700,
-            "title": "",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Send.png",
+            "image_width": 250,
+            "title": "Send clothes back",
             "text": "",
             "button_label": "",
             "link": ""
@@ -59,9 +59,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/LGR_SuperLooper_Icon_2.png",
-            "image_width": 700,
-            "title": "",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Get.png",
+            "image_width": 240,
+            "title": "Get money back",
             "text": "",
             "button_label": "",
             "link": ""
@@ -71,9 +71,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/LGR_SuperLooper_Icon_4.png",
-            "image_width": 700,
-            "title": "",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Help.png",
+            "image_width": 250,
+            "title": "Help the planet",
             "text": "",
             "button_label": "",
             "link": ""
