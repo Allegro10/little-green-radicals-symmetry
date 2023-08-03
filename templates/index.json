@@ -68,25 +68,25 @@
         "16359279164ff7d3f3-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220510_0868.jpg",
+            "image": "shopify:\/\/shop_images\/Rectangle_877_830811e8-8899-44ff-a34b-3561b35416e2.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Baby & Toddler",
+            "title": "Kids",
             "description": "",
-            "button_label": "Shop Baby",
-            "link": "shopify:\/\/collections\/all-baby-clothes",
+            "button_label": "Shop Kids",
+            "link": "shopify:\/\/collections\/all-kids-clothes",
             "text_alignment": "bottom left"
           }
         },
         "16359279164ff7d3f3-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220607_5000.jpg",
+            "image": "shopify:\/\/shop_images\/Rectangle_753.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Kids",
+            "title": "Baby & Toddler",
             "description": "",
-            "button_label": "Shop Kids",
+            "button_label": "Shop Baby",
             "link": "shopify:\/\/collections\/baby-sweatshirts",
             "text_alignment": "bottom left"
           }
@@ -94,13 +94,13 @@
         "16359279164ff7d3f3-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220607_4946.jpg",
+            "image": "shopify:\/\/shop_images\/Rectangle_754.jpg",
             "enlarge_image": false,
-            "subheading": "New In",
-            "title": "Bottoms",
+            "subheading": "",
+            "title": "Joggers",
             "description": "",
             "button_label": "Shop Knitwear",
-            "link": "",
+            "link": "https:\/\/littlegreenradicals.com\/collections\/kids-trousers",
             "text_alignment": "bottom left"
           }
         }
