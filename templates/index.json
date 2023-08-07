@@ -164,9 +164,9 @@
         "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-1"
       ],
       "custom_css": [
-        ".button,a.button,.btn,a.btn,button,input[type=\"submit\"],input[type=\"reset\"],input[type=\"button\"] {background: #e2a121; color: white; font-weight: 600;}",
-        ".overlay-text__title {font-size: 30px; color: #a64e2b; font-weight: bold;}",
-        ".subheading {font-size: 0.8em; font-weight: 500; line-height: 1.3em; letter-spacing: 0.1em; text-transform: inherit; color: #dea62c;}",
+        ".button,a.button,.btn,a.btn,button,input[type=\"submit\"],input[type=\"reset\"],input[type=\"button\"] {background: #15425a; color: white; font-weight: 600;}",
+        ".overlay-text__title {font-size: 30px; color: #15425a; font-weight: bold;}",
+        ".subheading {font-size: 1em; font-weight: 500; line-height: 0em; letter-spacing: 0.05em; text-transform: inherit; color: #00c7e6;}",
         ".overlay-text__inner {padding: 60px;}"
       ],
       "settings": {
