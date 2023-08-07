@@ -166,7 +166,7 @@
       "custom_css": [
         ".button,a.button,.btn,a.btn,button,input[type=\"submit\"],input[type=\"reset\"],input[type=\"button\"] {background: #15425a; color: white; font-weight: 600;}",
         ".overlay-text__title {font-size: 30px; color: #15425a; font-weight: bold;}",
-        ".subheading {font-size: 1em; font-weight: 500; line-height: 0em; letter-spacing: 0.05em; text-transform: inherit; color: #00c7e6;}",
+        ".subheading {font-size: 1em; font-weight: 500; line-height: 0em; letter-spacing: 0.075em; text-transform: inherit; color: #00c7e6;}",
         ".overlay-text__inner {padding: 60px;}"
       ],
       "settings": {
