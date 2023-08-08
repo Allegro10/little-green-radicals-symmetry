@@ -1220,7 +1220,7 @@
             "settings": {
               "title": "Fancy 10% off your order?",
               "text": "<p>Sign up to get your code, exclusive discounts, new styles & feel-good news. Discount applies to all products!<\/p>",
-              "button_label": "Sign Up",
+              "button_label": "Sign up",
               "button_link": "shopify:\/\/pages\/newsletter-sign-up",
               "button_style": "secondary",
               "image_width": 100,
