@@ -235,7 +235,7 @@
       ],
       "settings": {
         "title": "Our awards & partners",
-        "image_opacity": 75,
+        "image_opacity": 100,
         "use_alt_bg": true
       }
     },
@@ -345,7 +345,7 @@
       ],
       "settings": {
         "title": "As featured in",
-        "image_opacity": 75,
+        "image_opacity": 100,
         "use_alt_bg": true
       }
     },
