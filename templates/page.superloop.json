@@ -47,7 +47,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/SuperLoop-Send_2.png",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Send_5f288f33-7f11-410c-aceb-b3aa75255ea2.png",
             "image_width": 200,
             "title": "Send clothes back",
             "text": "",
@@ -59,7 +59,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/SuperLoop-Get_1.png",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Get_490b9c43-82f5-43ed-beb9-efe713e648e1.png",
             "image_width": 200,
             "title": "Get money back",
             "text": "",
@@ -71,7 +71,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/SuperLoop-Help_1.png",
+            "image": "shopify:\/\/shop_images\/SuperLoop-Help_f48c1b73-358b-4d0f-bcbb-8f1782df692a.png",
             "image_width": 200,
             "title": "Help the planet",
             "text": "",
