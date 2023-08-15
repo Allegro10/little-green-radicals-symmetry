@@ -170,6 +170,50 @@
 	{{ shop.metafields.loox["global_html_body"] }}
 
   {% include 'swymSnippet' %}
+
+  <script src="https://a.klaviyo.com/media/js/onsite/onsite.js"></script>
+<script>
+    var klaviyo = klaviyo || [];
+    klaviyo.init({
+      account: "HBFmkf",
+      list: 'W3ZBsD',
+      platform: "shopify",
+      include_on_tags: 'back in stock 2',
+      display_on_policy_continue: true
+    });
+    klaviyo.enable("backinstock",{ 
+    trigger: {
+      product_page_text: "notify me when available",
+      product_page_class: "btn btn--full add-to-cart",
+      product_page_text_align: "center",
+      product_page_margin: "0px",
+      product_page_width: "100%",
+      replace_anchor: false 
+    },
+    modal: {
+     headline: "{product_name}",
+     body_content: "Register to receive a notification when this item comes back in stock.",
+     email_field_label: "Email",
+     newsletter_subscribe_label: "Add me to your email list. Plus if this is your first time signing up, you'll recieve a 10% off code!",
+     subscribe_checked: true,
+     button_label: "notify me when available",
+     subscription_success_label: "You're in! We'll let you know when it's back.",
+     footer_content: '',
+     additional_styles: "@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue');",
+     drop_background_color: "#000",
+     background_color: "#fff",
+     text_color: "#222",
+     button_text_color: "#fff",
+     button_background_color: "#DA960E",
+     close_button_color: "#ccc",
+     error_background_color: "#fcd6d7",
+     error_text_color: "#C72E2F",
+     success_background_color: "#d3efcd",
+     success_text_color: "#1B9500"
+    }
+  });
+</script>  
+  
   
 </body>
 </html>
