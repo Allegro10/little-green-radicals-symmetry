@@ -231,7 +231,7 @@
         "34d2f6c0-dbe3-4378-8b22-45542c5cc3be": {
           "type": "accordion",
           "settings": {
-            "title": "Brand",
+            "title": "About us",
             "icon": "",
             "content": "<p>{{ product.metafields.custom.brand.value }}<\/p>",
             "page": "",
@@ -323,7 +323,6 @@
     },
     "ee3964ce-f894-4ebd-b648-07b11a91185d": {
       "type": "multi-column",
-      "disabled": true,
       "blocks": {
         "template--14340524507211__ee3964ce-f894-4ebd-b648-07b11a91185d-1678714416e270d2e1-0": {
           "type": "text_block",
@@ -388,6 +387,7 @@
         "fc1c8617-def4-4138-aac9-98834dfc8a6c",
         "879bb5f9-3038-434e-a8da-a989d9aebb27"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multi-column",
         "text_alignment": "center",
