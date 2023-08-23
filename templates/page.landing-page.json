@@ -241,7 +241,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Recycled-Green.png",
+            "image": "shopify:\/\/shop_images\/Recycled-Green_4df524d9-4918-416a-9c54-ade7d172b4dc.png",
             "image_width": 150,
             "title": "Planet friendly recycled fabric",
             "text": "<p>Whilst most of our clothing is made from Fairtrade, organic cotton, there are some products that simply don’t work as well in this material. And we only want to make long-lasting clothes that perfom brilliantly. So, we found a fantastic partner who recycles post-consumer plastic bottles into fabric and voila, we have waterproof outerwear and swimwear!<br\/><br\/>So far, we’ve saved over 290,000 post-consumer plastic bottles from landfill!<\/p>",
@@ -280,7 +280,7 @@
         "f77aabbc-4cce-4e4a-8342-de118d8ce152"
       ],
       "custom_css": [
-
+        "img {padding-bottom: 50px;}"
       ],
       "settings": {
         "title": "",
