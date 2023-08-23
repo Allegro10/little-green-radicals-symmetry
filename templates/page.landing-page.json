@@ -273,6 +273,17 @@
             "link": ""
           }
         },
+        "47247f17-a8eb-43e5-86ab-8c8184d02252": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 150,
+            "title": "Rent, repair & renew",
+            "text": "<p>Let's keep clothes out of landfill. Join our SuperLoop! Here's how it works:<br\/>Return your pre-loved Little Green Radicals clothes for free. Get 15% back to spend on your next order. Easy peasy. <br\/>Your pre-loved clothes will be rented out by SuperLooper for other families to enjoy. If your child's clothes still fit but just need a little TLC, take a look at our repair tips to keep them lovely for longer. <\/p>",
+            "button_label": "Return + Earn",
+            "link": ""
+          }
+        },
         "e1d444a2-c3fe-401d-b126-627ec3b9b55f": {
           "type": "text_block",
           "settings": {
@@ -300,6 +311,7 @@
         "3cb28deb-4f16-47e5-94ed-0247680daacb",
         "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
         "f77aabbc-4cce-4e4a-8342-de118d8ce152",
+        "47247f17-a8eb-43e5-86ab-8c8184d02252",
         "e1d444a2-c3fe-401d-b126-627ec3b9b55f",
         "9f530da6-8fe6-4db6-acb0-f4433e016bea"
       ],
