@@ -1264,7 +1264,7 @@
           "lower_menu": "footer",
           "show_payment_icons": true,
           "show_country_selector": false,
-          "show_language_selector": true
+          "show_language_selector": false
         }
       },
       "popup": {
