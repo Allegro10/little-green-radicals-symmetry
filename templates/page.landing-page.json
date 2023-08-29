@@ -234,6 +234,41 @@
         "alignment": "middle"
       }
     },
+    "61a737e5-2353-476f-9780-1618b83cf4b3": {
+      "type": "gallery",
+      "blocks": {
+        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 40,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
       "type": "multi-column",
       "blocks": {
@@ -324,41 +359,6 @@
         "button_style": "primary",
         "use_alt_bg": false
       }
-    },
-    "61a737e5-2353-476f-9780-1618b83cf4b3": {
-      "type": "gallery",
-      "blocks": {
-        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1"
-      ],
-      "settings": {
-        "grid": 2,
-        "height": "fixed",
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
-        "title_size": 40,
-        "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
-        "full_width": false,
-        "use_alt_bg": false,
-        "enable_carousel": true,
-        "overlay_style": "full",
-        "button_style": "primary"
-      }
     }
   },
   "order": [
@@ -368,7 +368,7 @@
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
     "9867cef7-5835-45e3-814d-67db9221dfcd",
-    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
-    "61a737e5-2353-476f-9780-1618b83cf4b3"
+    "61a737e5-2353-476f-9780-1618b83cf4b3",
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c"
   ]
 }
