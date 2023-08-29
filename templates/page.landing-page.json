@@ -39,7 +39,7 @@
         "full_width": false,
         "use_alt_bg": false,
         "enable_carousel": true,
-        "overlay_style": "full",
+        "overlay_style": "no_background",
         "button_style": "primary"
       }
     },
