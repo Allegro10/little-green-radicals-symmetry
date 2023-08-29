@@ -49,12 +49,13 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
           "type": "heading",
           "settings": {
-            "title": "“Nothing is truly beautiful unless it is made the right way.”",
+            "title": "Our certifications",
             "use_h1": false
           }
         },
         "4895c0b3-d74d-42e9-b8ab-3e6ae29a5cfa": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "subheading": "Nick Pecorelli, Founder"
           }
@@ -62,7 +63,7 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Little Green Radicals we’re on a mission to make the world better. We believe that how we do business, and the choices that you, our wonderful customers, make have the power to change the world.<\/p>",
+            "text": "<p>All the cotton we use is Fairtrade and GOTs certified, and all our clothing is made by producers who meet the Fairtrade Standard. <\/p>",
             "enlarge_text": true
           }
         }
