@@ -39,7 +39,7 @@
         "full_width": false,
         "use_alt_bg": false,
         "enable_carousel": true,
-        "overlay_style": "full",
+        "overlay_style": "no_background",
         "button_style": "primary"
       }
     },
@@ -111,7 +111,7 @@
             "width": "half",
             "subheading": "",
             "title": "Always organic cotton",
-            "text": "<p>Pesticides? No thanks. We only use organic cotton to protect growers, their families and the land they live on from harmful chemicals. Plus, organic cotton is super soft, long-lasting and and gentle on your child’s delicate skin. What’s not to love?!<\/p>",
+            "text": "<p>In a nutshell Fairtrade certification gives farmers the following benefits:<br\/><br\/>A guaranteed minimim price<br\/><br\/>Extra money for a community fund<br\/><br\/>Co-operative support network & improved borrowing power <br\/><br\/>Sustainability training on carbon reduction, water managment & bio-diversity<br\/><br\/>Promotion of gender equality<br\/><br\/>Plus the Fairtrade Textile Standards means:<br\/><br\/>No child labour<br\/><br\/>No synthetic pesticides or fertilizers <br\/><br\/>Social and environmental sustainability<br\/><br\/>Find out more<br\/>(link to Fairtrade page)<\/p>",
             "button_label": "Why we love organic",
             "button_link": "",
             "button_style": "primary",
@@ -278,8 +278,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Recycled-Green-20_78ea1a5b-d5c8-4dec-901c-c26ae7897709.png",
             "image_width": 150,
-            "title": "Planet friendly recycled fabric",
-            "text": "<p>Whilst most of our clothing is made from Fairtrade, organic cotton, there are some products that simply don’t work as well in this material. And we only want to make long-lasting clothes that perfom brilliantly. So, we found a fantastic partner who recycles post-consumer plastic bottles into fabric and voila, we have waterproof outerwear and swimwear!<br\/><br\/>So far, we’ve saved over 290,000 post-consumer plastic bottles from landfill!<\/p>",
+            "title": "Fairtrade Certification",
+            "text": "<p>In a nutshell Fairtrade certification gives farmers the following benefits:<br\/><br\/>• A guaranteed minimim price<br\/>• Extra money for a community fund<br\/>• Co-operative support network & improved borrowing power <br\/>• Sustainability training on carbon reduction, water managment & bio-diversity<br\/>• Promotion of gender equality<br\/>• Plus the Fairtrade Textile Standards means:<br\/>• No child labour<br\/>• No synthetic pesticides or fertilizers <br\/>• Social and environmental sustainability<br\/><br\/>Find out more<br\/>(link to Fairtrade page)<\/p>",
             "button_label": "Shop recycled outerwear",
             "link": ""
           }
@@ -290,65 +290,16 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Earth-Green-20.png",
             "image_width": 150,
-            "title": "Treading lightly on the earth",
-            "text": "<p>We are always looking at ways we can reduce our impact on the planet. All our clothing bags are now 100% compostable, made from natural cereals and all our packaging is recycled and recyclable. We work closely withour producers to minimise waste and turn ‘rescued fabric’ into new products, including soft toys, bibs and baby booties.<br\/><br\/>We’ve replaced over 565,000 plastic bags (and counting).<\/p>",
+            "title": "The Global Organic Textile Standard (GOTS)",
+            "text": "<p>GOTs look at the whole of our clothing production, from cotton growing, to the inks and dyes we use, right through to the fair treatment of the people who make our clothes. <br\/><br\/>Organic cotton<br\/>Simply put, pesticide free organic cotton is better for farmers, for the environment and for us.<br\/> <br\/>• Crops aren't intensely sprayed with chemicals that can damage farmers health<br\/>• GM seeds are banned<br\/>• Rivers, lakes and drinking water are cleaner<br\/>• 46% less greenhouse gas emissions are used.* <br\/>• Toxin free so organic won't irritate your child's skin <br\/>• What's not to love!<br\/><br\/>Organic Certified Inks<br\/>GOTS is the leading standard for textiles made from organic fibres worldwide. They commit to the highest level in environmental standards across our whole supply chain including the inks we use!<br\/><br\/>*https:\/\/www.soilassociation.org\/media\/11662\/coolcotton.pdf<\/p>",
             "button_label": "Shop adaptive collection",
-            "link": ""
-          }
-        },
-        "f77aabbc-4cce-4e4a-8342-de118d8ce152": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Life-Green-20.png",
-            "image_width": 150,
-            "title": "Made to last",
-            "text": "<p>We pride ourselves in not following trends, but instead focussing on making timeless, high quality, long-lasting clothing that will be loved by one child, and then passed on to another.<br\/><br\/>And don't just take our word for it! Here are some of the design awards we're delighted to have won.<\/p>",
-            "button_label": "Shop new collection",
-            "link": ""
-          }
-        },
-        "47247f17-a8eb-43e5-86ab-8c8184d02252": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 150,
-            "title": "Rent, repair & renew",
-            "text": "<p>Let's keep clothes out of landfill. Join our SuperLoop! Here's how it works:<br\/>Return your pre-loved Little Green Radicals clothes for free. Get 15% back to spend on your next order. Easy peasy. <br\/>Your pre-loved clothes will be rented out by SuperLooper for other families to enjoy. If your child's clothes still fit but just need a little TLC, take a look at our repair tips to keep them lovely for longer. <\/p>",
-            "button_label": "Return + Earn",
-            "link": ""
-          }
-        },
-        "e1d444a2-c3fe-401d-b126-627ec3b9b55f": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 150,
-            "title": "Designed for Life",
-            "text": "<p>After a member of our community got in touch to say how hard it is to find affordable, organic, colourful clothes for her daughter who has disabilities, our production team created an 8 piece adaptive collection in collaboration with a group of parents and leading disability charity Purple Tuesday.<\/p>",
-            "button_label": "Read more",
-            "link": ""
-          }
-        },
-        "9f530da6-8fe6-4db6-acb0-f4433e016bea": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 150,
-            "title": "Our community",
-            "text": "<p>Be part of it <br\/><br\/>Meet the team<\/p>",
-            "button_label": "Read more",
             "link": ""
           }
         }
       },
       "block_order": [
         "3cb28deb-4f16-47e5-94ed-0247680daacb",
-        "9369f3b2-5f69-4897-8401-e0ecd9942d1f",
-        "f77aabbc-4cce-4e4a-8342-de118d8ce152",
-        "47247f17-a8eb-43e5-86ab-8c8184d02252",
-        "e1d444a2-c3fe-401d-b126-627ec3b9b55f",
-        "9f530da6-8fe6-4db6-acb0-f4433e016bea"
+        "9369f3b2-5f69-4897-8401-e0ecd9942d1f"
       ],
       "custom_css": [
         "img {padding-bottom: 50px;}"
