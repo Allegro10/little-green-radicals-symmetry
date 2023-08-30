@@ -407,14 +407,14 @@
         "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Rich text",
+            "title": "Qualiance",
             "use_h1": false
           }
         },
         "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Qualiance produce our wonderful rainwear which uses a high performance fabric made by Recyclatex from recycled post-consumer plastic bottles. Finding the right fabric and producer, and working with them to make a technical, high performance product that also looked beautiful was 10 years in the making, and we were led by our Founders Nick’s philosophy that, “It is not just ‘what’ we make but ‘how’ we make it.”<br\/><br\/>rcm-organic.com<\/p>",
             "enlarge_text": true
           }
         }
