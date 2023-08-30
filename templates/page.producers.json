@@ -322,9 +322,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Logotech-2.jpg",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "Fabric Innovation",
+            "text": "<p>Logotech are absolutely wonderful at developing new organic cotton fabrics which let’s us bring new ideas and designs to life.<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -333,9 +334,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Logotech-3.jpg",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "Skilled Tailors",
+            "text": "<p>Logotech employ highly skilled staff who can stictch beautiful, long-lasting, fantastic pieces of clothing using many different fabric types.<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -345,8 +347,8 @@
           "settings": {
             "enable_image": true,
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "",
+            "text": "",
             "button_label": "",
             "link": ""
           }
