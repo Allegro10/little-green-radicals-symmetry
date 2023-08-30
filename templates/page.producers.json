@@ -304,6 +304,10 @@
         "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-heading-1",
         "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-text-1"
       ],
+      "custom_css": [
+        "h2 {font-size: 24px;}",
+        "p {font-size: 20px;}"
+      ],
       "settings": {
         "height": "medium",
         "text_alignment": "center",
