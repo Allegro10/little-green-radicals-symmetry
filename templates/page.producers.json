@@ -125,12 +125,132 @@
         "button_style": "primary",
         "use_alt_bg": false
       }
+    },
+    "820ecc76-0f9a-4b83-a6fa-337c3e23c4ad": {
+      "type": "gallery",
+      "blocks": {
+        "template--14395657715787__820ecc76-0f9a-4b83-a6fa-337c3e23c4ad-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Deeps-1.jpg",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__820ecc76-0f9a-4b83-a6fa-337c3e23c4ad-image-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "687bed44-b10d-40e3-8503-5211c9333622": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Deeps Textiles",
+            "use_h1": false
+          }
+        },
+        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve been working with this family run business based in the beautiful countryside around Kolkata, India since… They’re are a leading light in ethical manufacturing and we hugely value their expertise.<br\/><br\/>deepstexstyles.com<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-heading-1",
+        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "f97596ae-fd31-4ca8-9b21-1b1bfafa9c68": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Deeps-2.jpg",
+            "image_width": 700,
+            "title": "Equality & Empowerment",
+            "text": "<p>Deeps collaborate with Swadhina, who work to improve the lives of women and children in rural India Deeps also provide specialist training, healthcare and steady wage for female employees.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Deeps-3.jpg",
+            "image_width": 700,
+            "title": "Zero Waste Projects",
+            "text": "<p>They operate a zero textile wastage policy to reduce their environmental impact. Scraps of fabric are reused and made into new products including our soft toys, or recycled.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Deeps-4.jpg",
+            "image_width": 700,
+            "title": "Expert Hand Screen-Printers",
+            "text": "<p>The skilled team print each colour onto our organic fabrics by hand. No easy task with some of our multi-colour designs!<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-1",
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-2",
+        "template--14395657715787__f97596ae-fd31-4ca8-9b21-1b1bfafa9c68-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
     }
   },
   "order": [
     "main",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
-    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c"
+    "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
+    "820ecc76-0f9a-4b83-a6fa-337c3e23c4ad",
+    "687bed44-b10d-40e3-8503-5211c9333622",
+    "f97596ae-fd31-4ca8-9b21-1b1bfafa9c68"
   ]
 }
