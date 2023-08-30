@@ -236,23 +236,6 @@
     },
     "61a737e5-2353-476f-9780-1618b83cf4b3": {
       "type": "gallery",
-      "blocks": {
-        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1": {
-          "type": "image",
-          "settings": {
-            "enlarge_image": true,
-            "subheading": "",
-            "title": "Tell your story",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14385066868811__61a737e5-2353-476f-9780-1618b83cf4b3-image-1"
-      ],
       "settings": {
         "grid": 2,
         "height": "fixed",
