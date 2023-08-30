@@ -336,7 +336,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 150,
+            "image": "shopify:\/\/shop_images\/Sun-Green.png",
+            "image_width": 200,
             "title": "Our community",
             "text": "<p>Be part of it <br\/><br\/>Meet the team<\/p>",
             "button_label": "Read more",
