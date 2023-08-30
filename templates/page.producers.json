@@ -242,7 +242,91 @@
       ],
       "settings": {
         "title": "",
-        "text_alignment": "center",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "ec1a4d6b-9e3b-4992-8bfe-c076c04485e0": {
+      "type": "gallery",
+      "blocks": {
+        "template--14395657715787__ec1a4d6b-9e3b-4992-8bfe-c076c04485e0-image-1": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__ec1a4d6b-9e3b-4992-8bfe-c076c04485e0-image-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "7ce47f28-451f-4e7b-8892-da697c27f067": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-1",
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-2",
+        "template--14395657715787__7ce47f28-451f-4e7b-8892-da697c27f067-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
         "button_style": "primary",
         "use_alt_bg": false
       }
@@ -255,6 +339,8 @@
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
     "820ecc76-0f9a-4b83-a6fa-337c3e23c4ad",
     "687bed44-b10d-40e3-8503-5211c9333622",
-    "f97596ae-fd31-4ca8-9b21-1b1bfafa9c68"
+    "f97596ae-fd31-4ca8-9b21-1b1bfafa9c68",
+    "ec1a4d6b-9e3b-4992-8bfe-c076c04485e0",
+    "7ce47f28-451f-4e7b-8892-da697c27f067"
   ]
 }
