@@ -442,8 +442,8 @@
           "settings": {
             "enable_image": true,
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "Eco-friendly",
+            "text": "<p>Qualiance harvest rainwater at their factory and use solar panels to create part of the energy they use. They are have over 10 certifications to their name!<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -452,9 +452,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Qualiance-2.jpg",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "High Performance",
+            "text": "<p>Qualiance are at the cutting edge of performance wear. They heat-seal seam so no water can get through and use advanced garment technology to reduce waste when cutting patterns..<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -463,9 +464,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Qualiance-3.jpg",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "Children’s Rights",
+            "text": "<p>This producer works with several NGOs to support the fight against child labour in global supply chains and work to uplift children from marginalised area of society.<br\/>https:\/\/vyfngo.com\/, Vavipalayam Manavalakalai Mandra Trust, https:\/\/www.savengo.org\/<br\/>                     <\/p>",
             "button_label": "",
             "link": ""
           }
