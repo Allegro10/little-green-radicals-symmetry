@@ -282,6 +282,35 @@
         "button_style": "primary"
       }
     },
+    "374a8ed4-1b81-43ca-8d48-f59af30203a4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Logotech",
+            "use_h1": false
+          }
+        },
+        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Logotech are a long-term partner whose knowledge and experience is invaluable to us. With their attention to detail, fabric expertise and careful stitching, Logotech are a joy to work with and we hugly look forward to seeing their beautifully pieces when they arrive.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-heading-1",
+        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
     "7ce47f28-451f-4e7b-8892-da697c27f067": {
       "type": "multi-column",
       "blocks": {
@@ -341,6 +370,7 @@
     "687bed44-b10d-40e3-8503-5211c9333622",
     "f97596ae-fd31-4ca8-9b21-1b1bfafa9c68",
     "ec1a4d6b-9e3b-4992-8bfe-c076c04485e0",
+    "374a8ed4-1b81-43ca-8d48-f59af30203a4",
     "7ce47f28-451f-4e7b-8892-da697c27f067"
   ]
 }
