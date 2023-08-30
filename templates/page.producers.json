@@ -84,6 +84,23 @@
         "use_alt_bg": false
       }
     },
+    "9e49c227-c83c-4fac-ab38-1c7e0a793a09": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Fairtrade_1_1dcb832e-e606-4a38-80a9-6803ff7e2b0e.png",
+        "image_width": 200,
+        "subheading": "",
+        "title": "Fairtrade Certification",
+        "use_h1": false,
+        "text": "<p>In a nutshell Fairtrade certification gives farmers the following benefits:<br\/><br\/>• A guaranteed minimim price<br\/>• Extra money for a community fund<br\/>• Co-operative support network & improved borrowing power <br\/>• Sustainability training on carbon reduction, water managment & bio-diversity<br\/>• Promotion of gender equality<br\/>• Plus the Fairtrade Textile Standards means:<br\/>• No child labour<br\/>• No synthetic pesticides or fertilizers <br\/>• Social and environmental sustainability<br\/><br\/>Find out more<br\/>(link to Fairtrade page)<\/p>",
+        "button_label": "Read more",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
       "type": "multi-column",
       "blocks": {
@@ -490,6 +507,7 @@
     "main",
     "3f4eb2ef-40a3-4bb1-9cff-574407c27f5e",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
+    "9e49c227-c83c-4fac-ab38-1c7e0a793a09",
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c",
     "820ecc76-0f9a-4b83-a6fa-337c3e23c4ad",
     "687bed44-b10d-40e3-8503-5211c9333622",
