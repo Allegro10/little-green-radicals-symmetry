@@ -184,6 +184,10 @@
         "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-heading-1",
         "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-text-1"
       ],
+      "custom_css": [
+        "h2 {font-size: 24px;}",
+        "p {font-size: 20px;}"
+      ],
       "settings": {
         "height": "medium",
         "text_alignment": "center",
