@@ -100,7 +100,7 @@
             "title": "Kids",
             "description": "",
             "button_label": "Shop Kids",
-            "link": "",
+            "link": "shopify:\/\/collections\/all-kids-clothes",
             "text_alignment": "bottom left"
           }
         }
