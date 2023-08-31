@@ -6,19 +6,19 @@
         "16359276425da8ce46-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_Image_d10a9b99-3020-4624-a653-780d256fd7ba.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Hero_Image_d10a9b99-3020-4624-a653-780d256fd7ba.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_220607_5981_61514872-3344-4125-aa44-3ed1f9c8ea1f.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TMitchell_220607_5981_61514872-3344-4125-aa44-3ed1f9c8ea1f.jpg",
             "slide_link": "",
             "subheading": "",
-            "title": "Back to school",
+            "title": "Into the wild",
             "heading_max_width": 800,
             "title_size": 34,
             "title_size_mobile": 22,
             "use_h1": false,
-            "text": "<p>New adventure essentials<\/p>",
+            "text": "<p>Outerwear made for adventure<\/p>",
             "enlarge_text": true,
             "button_label_1": "Shop now",
-            "button_url_1": "shopify:\/\/collections\/back-to-school",
+            "button_url_1": "https:\/\/littlegreenradicals.com\/collections\/kids-outerwear",
             "button_label_2": "",
             "button_url_2": "",
             "text_alignment": "bottom left"
@@ -447,7 +447,6 @@
     },
     "621f0644-4515-4a21-803b-a2b20d423c1d": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "template--14322409603147__621f0644-4515-4a21-803b-a2b20d423c1d-16732024587ad26a95-0": {
           "type": "testimonial",
@@ -474,6 +473,7 @@
         "template--14322409603147__621f0644-4515-4a21-803b-a2b20d423c1d-16732024587ad26a95-0",
         "template--14322409603147__621f0644-4515-4a21-803b-a2b20d423c1d-16732024587ad26a95-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "Customer reviews",
         "layout": "image-right",
