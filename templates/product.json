@@ -222,8 +222,8 @@
           "settings": {
             "title": "Awards & Certifications",
             "icon": "",
-            "content": "<p>{{ product.metafields.custom.awards_certification.value }}<\/p>",
-            "page": "",
+            "content": "",
+            "page": "awards-certifications",
             "open": false,
             "show_in_quickbuy": false
           }
