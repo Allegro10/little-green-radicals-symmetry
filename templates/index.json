@@ -73,7 +73,7 @@
             "subheading": "",
             "title": "Baby & Toddler",
             "description": "",
-            "button_label": "Shop Baby & Toddler",
+            "button_label": "Shop Baby",
             "link": "shopify:\/\/collections\/all-baby-clothes",
             "text_alignment": "bottom left"
           }
@@ -135,7 +135,7 @@
         "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/A22-862-NAV--1_195d07c6-0fc6-4384-a705-fb61de8545ee.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_220607_6289.jpg",
             "enlarge_image": false,
             "subheading": "",
             "title": "",
@@ -151,10 +151,10 @@
             "image": "shopify:\/\/shop_images\/bg_Right_1cb9b164-d506-48df-bea6-48ef0866fcc7.jpg",
             "enlarge_image": false,
             "subheading": "Made from recycled bottles",
-            "title": "Planet friendly rainwear",
+            "title": "Planet friendly outerwear",
             "description": "We’ve saved almost 90,000 post-consumer plastic bottles from landfill by using recycled fabric for our 100% waterproof outerwear.",
-            "button_label": "Shop Rainwear",
-            "link": "shopify:\/\/collections\/recycled-raincoats",
+            "button_label": "Shop outerwear",
+            "link": "shopify:\/\/collections\/kids-outerwear",
             "text_alignment": "center left"
           }
         }
