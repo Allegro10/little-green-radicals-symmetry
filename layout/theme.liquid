@@ -112,6 +112,11 @@
   {{ content_for_header }}
 
 	{{ shop.metafields.loox["global_html_head"] }}
+
+  {% if handle contains 'awards-certifications' %}
+<meta name="robots" content="noindex">
+{% endif %}
+
 </head>
 
 <body class="template-{{ template | split: '.' | first | handle }}
