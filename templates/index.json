@@ -48,7 +48,7 @@
           "type": "html",
           "settings": {
             "width": "half",
-            "code": "<center><h1><b><span style=\"letter-spacing: 0px;\">Clothes for babies & kids 0-8y,\n<br>Made using certified organic & Fairtrade cotton<\/span><\/b><\/h1><\/center>"
+            "code": "<center><h1><b><span style=\"letter-spacing: 0px;\">Organic & Fairtrade clothes for\n <br>babies & kids,designed for life<\/span><\/b><\/h1><\/center>"
           }
         }
       },
@@ -71,7 +71,7 @@
             "image": "shopify:\/\/shop_images\/TMitchell_211209_6411.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Baby & Toddler",
+            "title": "Cosy knits",
             "description": "",
             "button_label": "Shop Baby",
             "link": "shopify:\/\/collections\/all-baby-clothes",
@@ -84,7 +84,7 @@
             "image": "shopify:\/\/shop_images\/TMitchell_220607_6034.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Outerwear",
+            "title": "Adventure ready",
             "description": "",
             "button_label": "Shop outerwear",
             "link": "shopify:\/\/collections\/kids-outerwear",
@@ -97,7 +97,7 @@
             "image": "shopify:\/\/shop_images\/TMitchell_211209_6589.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Kids",
+            "title": "Winter warmers",
             "description": "",
             "button_label": "Shop Kids",
             "link": "shopify:\/\/collections\/all-kids-clothes",
@@ -152,7 +152,7 @@
             "enlarge_image": false,
             "subheading": "Made from recycled bottles",
             "title": "Planet friendly outerwear",
-            "description": "We’ve saved almost 90,000 post-consumer plastic bottles from landfill by using recycled fabric for our 100% waterproof outerwear.",
+            "description": "We’ve saved over 290,000 post-consumer plastic bottles from landfill by using recycled fabric for our 100% waterproof outerwear.",
             "button_label": "Shop outerwear",
             "link": "shopify:\/\/collections\/kids-outerwear",
             "text_alignment": "center left"
@@ -193,8 +193,8 @@
       ],
       "settings": {
         "title": "For wild, wet & windy days",
-        "subtitle": "100% waterproof raincoats lined with organic cotton for outdoor explorers, whatever the weather",
-        "collection": "back-to-school",
+        "subtitle": "100% waterproof styles made for outdoor adventures, whatever the weather",
+        "collection": "kids-outerwear",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
