@@ -250,30 +250,6 @@
         "code": "<div class=\"klaviyo-form-VpbP7X\"><\/div>"
       }
     },
-    "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b": {
-      "type": "background-video",
-      "settings": {
-        "video_shopify": "shopify:\/\/files\/videos\/SS22_Homepage_Video_Colour_Only_Square_no_Sound.mp4",
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "",
-        "title": "Your impact",
-        "heading_max_width": 800,
-        "title_size": 24,
-        "title_size_mobile": 20,
-        "use_h1": false,
-        "text": "<p><strong>290,000<\/strong><br\/>plastic bottles saved from landfill<\/p><p><strong>18 Years<br\/><\/strong>supporting Fairtrade & organic farming<\/p><p><strong>565,000<\/strong><br\/>plastic bags replaced with corn starch bags<\/p>",
-        "enlarge_text": false,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "height_desktop": 460,
-        "height_mobile": 400,
-        "full_width": true,
-        "overlay_style": "shadow"
-      }
-    },
     "867dc1d6-bdec-4ec2-bfb1-91151b89572e": {
       "type": "logo-list",
       "blocks": {
@@ -314,6 +290,30 @@
         "title": "Our super certifications",
         "image_opacity": 100,
         "use_alt_bg": true
+      }
+    },
+    "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/SS22_Homepage_Video_Colour_Only_Square_no_Sound.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "",
+        "title": "Your impact",
+        "heading_max_width": 800,
+        "title_size": 24,
+        "title_size_mobile": 20,
+        "use_h1": false,
+        "text": "<p><strong>290,000<\/strong><br\/>plastic bottles saved from landfill<\/p><p><strong>18 Years<br\/><\/strong>supporting Fairtrade & organic farming<\/p><p><strong>565,000<\/strong><br\/>plastic bags replaced with corn starch bags<\/p>",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "height_desktop": 460,
+        "height_mobile": 400,
+        "full_width": true,
+        "overlay_style": "shadow"
       }
     },
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6": {
@@ -523,8 +523,8 @@
     "16359278676808bea5",
     "2349e42f-57ef-4dda-860a-2fff0828382d",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
-    "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "867dc1d6-bdec-4ec2-bfb1-91151b89572e",
+    "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
     "167088407055c4622b",
