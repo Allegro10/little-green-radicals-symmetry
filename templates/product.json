@@ -50,7 +50,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Web-2.0_Product_Awards.png",
             "image_width": 70,
             "url": "",
             "open_in_new_tab": false,
@@ -419,7 +418,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "title": "Because you viewed our  {{ product.title }} you may also like",
+        "title": "Like our  {{ product.title }}? Come and take a look at these!",
         "show_vendor": false,
         "grid": 4
       }
