@@ -251,9 +251,44 @@
         "c563b886-a03a-4fa9-9968-4ec84ffa7832",
         "6470c6f9-1e85-4b69-b376-0d8a776323eb"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "Our super certifications",
         "image_opacity": 100,
+        "use_alt_bg": true
+      }
+    },
+    "6de5571f-c511-480a-a800-d43dc738ee2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All our cotton products are GOTS certified organic & Fairtrade certified.<br\/>Organic Soil Association Certification Ltd 30075<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-heading-1",
+        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-text-1"
+      ],
+      "custom_css": [
+        "div {padding-top: 0px; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
         "use_alt_bg": true
       }
     },
@@ -523,6 +558,7 @@
     "16359278676808bea5",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "867dc1d6-bdec-4ec2-bfb1-91151b89572e",
+    "6de5571f-c511-480a-a800-d43dc738ee2c",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "2349e42f-57ef-4dda-860a-2fff0828382d",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
