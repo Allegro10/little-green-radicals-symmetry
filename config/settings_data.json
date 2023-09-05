@@ -982,7 +982,7 @@
     "image_overlay_opacity": 10,
     "image_overlay_shadow_opacity": 15,
     "image_overlay_box_opacity": 90,
-    "alt_bg_col": "#faf7f2",
+    "alt_bg_col": "#faf6eb",
     "alt_bg_head_col": "#1b2121",
     "alt_bg_text_col": "#707173",
     "alt_bg_link_col": "#c16452",
