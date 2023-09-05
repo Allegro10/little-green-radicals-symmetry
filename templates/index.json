@@ -559,6 +559,14 @@
       "settings": {
         "full_width": false
       }
+    },
+    "6825123e-59cf-445c-b9dd-44b9e20bfa9c": {
+      "type": "logo-list",
+      "settings": {
+        "title": "Our super awards & ccertifications",
+        "image_opacity": 100,
+        "use_alt_bg": true
+      }
     }
   },
   "order": [
@@ -577,6 +585,7 @@
     "167088407055c4622b",
     "25970f93-544a-47ed-bda9-9b5c9a664c73",
     "621f0644-4515-4a21-803b-a2b20d423c1d",
-    "16825053370681838e"
+    "16825053370681838e",
+    "6825123e-59cf-445c-b9dd-44b9e20bfa9c"
   ]
 }
