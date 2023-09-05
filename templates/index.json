@@ -562,6 +562,60 @@
     },
     "6825123e-59cf-445c-b9dd-44b9e20bfa9c": {
       "type": "logo-list",
+      "blocks": {
+        "b06f0058-f802-42a4-b4ad-333263346aff": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marie-Claire.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1adc3e48-204d-446e-8f94-4765eed2d0ca": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Junior-Awards.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "a46d91cc-346f-41ca-ae0a-fb83c25525f2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New-GOTS.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Soil-Association_1.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "6e78a621-37b5-42fa-a845-fcb6f87afa4f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fairtrade_1_1dcb832e-e606-4a38-80a9-6803ff7e2b0e.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "b06f0058-f802-42a4-b4ad-333263346aff",
+        "1adc3e48-204d-446e-8f94-4765eed2d0ca",
+        "a46d91cc-346f-41ca-ae0a-fb83c25525f2",
+        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa",
+        "6e78a621-37b5-42fa-a845-fcb6f87afa4f"
+      ],
       "settings": {
         "title": "Our super awards & ccertifications",
         "image_opacity": 100,
