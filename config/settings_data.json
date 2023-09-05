@@ -1326,11 +1326,11 @@
         "custom_css": [
           ".footer-social-icons {margin: 3rem 0 -5rem; text-align: center;}",
           ".socio {max-width: 3rem; width: 100%; height: auto;}",
-          ".h2 {color: #000; font-size: 22px; margin-bottom: 5px}"
+          ".h2 {color: #000; font-size: 22px; margin-bottom: 5px;}"
         ],
         "settings": {
           "full_width": true,
-          "code": "<p style=\"padding-top: 1px\"><\/p>\n<div class=\"klaviyo-form-SrgWGQ\"><\/div>\n<div class=\"klaviyo-form-XPB62x\"><\/div>\n\n    <div class=\"footer-social-icons\">\n        <div>\n          <p class=\"h2\">Be part of it<\/p><br\/>\n            <a href=\"https:\/\/www.facebook.com\/littlegreenradicals\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/facebook.png?2703\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/instagram.com\/littlegreenradicals\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/instagram.png?2703\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/www.twitter.com\/littlegreenrads\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/twitter.png?2691\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/www.pinterest.com\/littlegreenrads\/\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/pinterest.png?2703\" class=\"socio\" \/><\/a>\n        <\/div>\n    <\/div>"
+          "code": "<div class=\"footer-social-icons\">\n        <div>\n          <p class=\"h2\">Be part of it<\/p><br\/>\n            <a href=\"https:\/\/www.facebook.com\/littlegreenradicals\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/facebook.png?2703\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/instagram.com\/littlegreenradicals\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/instagram.png?2703\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/www.twitter.com\/littlegreenrads\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/twitter.png?2691\" class=\"socio\" \/><\/a>\n            <a href=\"http:\/\/www.pinterest.com\/littlegreenrads\/\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0258\/8147\/7195\/files\/pinterest.png?2703\" class=\"socio\" \/><\/a>\n        <\/div>\n    <\/div>"
         }
       }
     },
