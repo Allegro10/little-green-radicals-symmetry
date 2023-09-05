@@ -204,41 +204,6 @@
         "full_width": true
       }
     },
-    "2349e42f-57ef-4dda-860a-2fff0828382d": {
-      "type": "logo-list",
-      "blocks": {
-        "6843e9f0-47d1-4949-93eb-42c108bdbe34": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_8.png",
-            "image_width": 140,
-            "link": "",
-            "title": ""
-          }
-        },
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_9.png",
-            "image_width": 140,
-            "link": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "6843e9f0-47d1-4949-93eb-42c108bdbe34",
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1"
-      ],
-      "custom_css": [
-        ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
-      ],
-      "settings": {
-        "title": "Our awards & partners",
-        "image_opacity": 100,
-        "use_alt_bg": true
-      }
-    },
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654": {
       "type": "custom-liquid",
       "disabled": true,
@@ -314,6 +279,41 @@
         "height_mobile": 400,
         "full_width": true,
         "overlay_style": "shadow"
+      }
+    },
+    "2349e42f-57ef-4dda-860a-2fff0828382d": {
+      "type": "logo-list",
+      "blocks": {
+        "6843e9f0-47d1-4949-93eb-42c108bdbe34": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_8.png",
+            "image_width": 140,
+            "link": "",
+            "title": ""
+          }
+        },
+        "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_9.png",
+            "image_width": 140,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "6843e9f0-47d1-4949-93eb-42c108bdbe34",
+        "8ab75100-e97a-4129-bb7d-b0f32b8977e1"
+      ],
+      "custom_css": [
+        ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
+      ],
+      "settings": {
+        "title": "Our awards & partners",
+        "image_opacity": 100,
+        "use_alt_bg": true
       }
     },
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6": {
@@ -521,10 +521,10 @@
     "16359279164ff7d3f3",
     "f2b5b578-d007-418b-bf56-18fb78b08b4b",
     "16359278676808bea5",
-    "2349e42f-57ef-4dda-860a-2fff0828382d",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "867dc1d6-bdec-4ec2-bfb1-91151b89572e",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
+    "2349e42f-57ef-4dda-860a-2fff0828382d",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
     "167088407055c4622b",
