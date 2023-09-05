@@ -149,6 +149,7 @@
 
   {%- if request.path != '/challenge' -%}
     <div id="pagefooter">
+      {% section 'custom-liquid' %}
       {% section 'cross-page-promos' %}
       {% section 'footer' %}
     </div>
