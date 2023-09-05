@@ -332,8 +332,17 @@
         "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_9.png",
-            "image_width": 140,
+            "image": "shopify:\/\/shop_images\/Junior-Awards.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "3cc8d1ea-ba75-4cc0-95b1-2929c2f8adcb": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marie-Claire.png",
+            "image_width": 80,
             "link": "",
             "title": ""
           }
@@ -341,7 +350,8 @@
       },
       "block_order": [
         "6843e9f0-47d1-4949-93eb-42c108bdbe34",
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1"
+        "8ab75100-e97a-4129-bb7d-b0f32b8977e1",
+        "3cc8d1ea-ba75-4cc0-95b1-2929c2f8adcb"
       ],
       "custom_css": [
         ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
