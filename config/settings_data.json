@@ -1324,7 +1324,7 @@
       "custom-liquid": {
         "type": "custom-liquid",
         "custom_css": [
-          ".footer-social-icons {margin: 3rem 0 5rem; text-align: center;}",
+          ".footer-social-icons {margin: 3rem 0 -5rem; text-align: center;}",
           ".socio {max-width: 3rem; width: 100%; height: auto;}",
           ".h2 {color: #000; font-size: 22px;}"
         ],
