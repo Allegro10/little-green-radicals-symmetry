@@ -283,7 +283,8 @@
         "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-text-1"
       ],
       "custom_css": [
-        "div {padding-top: 0px; padding-bottom: 10px;}"
+        "div {padding-top: 0px; padding-bottom: 10px;}",
+        "p {font-size: 14px;}"
       ],
       "settings": {
         "height": "medium",
