@@ -297,7 +297,7 @@
         "text_alignment": "center center",
         "height_desktop": 460,
         "height_mobile": 400,
-        "full_width": true,
+        "full_width": false,
         "overlay_style": "shadow"
       }
     },
