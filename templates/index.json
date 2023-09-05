@@ -215,31 +215,49 @@
         "code": "<div class=\"klaviyo-form-VpbP7X\"><\/div>"
       }
     },
-    "867dc1d6-bdec-4ec2-bfb1-91151b89572e": {
+    "6825123e-59cf-445c-b9dd-44b9e20bfa9c": {
       "type": "logo-list",
       "blocks": {
-        "0868494b-8a5c-4f86-ab46-e989da1c8f58": {
+        "b06f0058-f802-42a4-b4ad-333263346aff": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fairtrade_46239e42-842a-4310-8ebe-affce03a786a.png",
+            "image": "shopify:\/\/shop_images\/Marie-Claire.png",
             "image_width": 80,
             "link": "",
             "title": ""
           }
         },
-        "c563b886-a03a-4fa9-9968-4ec84ffa7832": {
+        "1adc3e48-204d-446e-8f94-4765eed2d0ca": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Soil-Association.png",
+            "image": "shopify:\/\/shop_images\/Junior-Awards.png",
             "image_width": 80,
             "link": "",
             "title": ""
           }
         },
-        "6470c6f9-1e85-4b69-b376-0d8a776323eb": {
+        "a46d91cc-346f-41ca-ae0a-fb83c25525f2": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GOTS.png",
+            "image": "shopify:\/\/shop_images\/GOTS-text.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Soil-Association_1.png",
+            "image_width": 80,
+            "link": "",
+            "title": ""
+          }
+        },
+        "6e78a621-37b5-42fa-a845-fcb6f87afa4f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fairtrade_1_1dcb832e-e606-4a38-80a9-6803ff7e2b0e.png",
             "image_width": 80,
             "link": "",
             "title": ""
@@ -247,49 +265,15 @@
         }
       },
       "block_order": [
-        "0868494b-8a5c-4f86-ab46-e989da1c8f58",
-        "c563b886-a03a-4fa9-9968-4ec84ffa7832",
-        "6470c6f9-1e85-4b69-b376-0d8a776323eb"
-      ],
-      "custom_css": [
-
+        "b06f0058-f802-42a4-b4ad-333263346aff",
+        "1adc3e48-204d-446e-8f94-4765eed2d0ca",
+        "a46d91cc-346f-41ca-ae0a-fb83c25525f2",
+        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa",
+        "6e78a621-37b5-42fa-a845-fcb6f87afa4f"
       ],
       "settings": {
-        "title": "Our super certifications",
+        "title": "Our super awards & certifications",
         "image_opacity": 100,
-        "use_alt_bg": true
-      }
-    },
-    "6de5571f-c511-480a-a800-d43dc738ee2c": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "",
-            "use_h1": false
-          }
-        },
-        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All our cotton products are GOTS certified organic & Fairtrade certified.<br\/>Organic Soil Association Certification Ltd 30075<\/p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-heading-1",
-        "template--14357810872395__6de5571f-c511-480a-a800-d43dc738ee2c-text-1"
-      ],
-      "custom_css": [
-        "div {padding-top: 0px; padding-bottom: 10px;}",
-        "p {font-size: 14px;}"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
         "use_alt_bg": true
       }
     },
@@ -315,51 +299,6 @@
         "height_mobile": 400,
         "full_width": true,
         "overlay_style": "shadow"
-      }
-    },
-    "2349e42f-57ef-4dda-860a-2fff0828382d": {
-      "type": "logo-list",
-      "blocks": {
-        "6843e9f0-47d1-4949-93eb-42c108bdbe34": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_8.png",
-            "image_width": 140,
-            "link": "",
-            "title": ""
-          }
-        },
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Junior-Awards.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        },
-        "3cc8d1ea-ba75-4cc0-95b1-2929c2f8adcb": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marie-Claire.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "6843e9f0-47d1-4949-93eb-42c108bdbe34",
-        "8ab75100-e97a-4129-bb7d-b0f32b8977e1",
-        "3cc8d1ea-ba75-4cc0-95b1-2929c2f8adcb"
-      ],
-      "custom_css": [
-        ".fully-padded-row--medium {padding-top: 60px; padding-bottom: 60px;}"
-      ],
-      "settings": {
-        "title": "Our awards & partners",
-        "image_opacity": 100,
-        "use_alt_bg": true
       }
     },
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6": {
@@ -559,68 +498,6 @@
       "settings": {
         "full_width": false
       }
-    },
-    "6825123e-59cf-445c-b9dd-44b9e20bfa9c": {
-      "type": "logo-list",
-      "blocks": {
-        "b06f0058-f802-42a4-b4ad-333263346aff": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marie-Claire.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        },
-        "1adc3e48-204d-446e-8f94-4765eed2d0ca": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Junior-Awards.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        },
-        "a46d91cc-346f-41ca-ae0a-fb83c25525f2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GOTS-text.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        },
-        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Soil-Association_1.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        },
-        "6e78a621-37b5-42fa-a845-fcb6f87afa4f": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fairtrade_1_1dcb832e-e606-4a38-80a9-6803ff7e2b0e.png",
-            "image_width": 80,
-            "link": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "b06f0058-f802-42a4-b4ad-333263346aff",
-        "1adc3e48-204d-446e-8f94-4765eed2d0ca",
-        "a46d91cc-346f-41ca-ae0a-fb83c25525f2",
-        "7a5d9113-114b-4bd9-b2bf-9b56f64bb4fa",
-        "6e78a621-37b5-42fa-a845-fcb6f87afa4f"
-      ],
-      "settings": {
-        "title": "Our super awards & certifications",
-        "image_opacity": 100,
-        "use_alt_bg": true
-      }
     }
   },
   "order": [
@@ -630,16 +507,13 @@
     "f2b5b578-d007-418b-bf56-18fb78b08b4b",
     "16359278676808bea5",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
-    "867dc1d6-bdec-4ec2-bfb1-91151b89572e",
-    "6de5571f-c511-480a-a800-d43dc738ee2c",
+    "6825123e-59cf-445c-b9dd-44b9e20bfa9c",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
-    "2349e42f-57ef-4dda-860a-2fff0828382d",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
     "167088407055c4622b",
     "25970f93-544a-47ed-bda9-9b5c9a664c73",
     "621f0644-4515-4a21-803b-a2b20d423c1d",
-    "16825053370681838e",
-    "6825123e-59cf-445c-b9dd-44b9e20bfa9c"
+    "16825053370681838e"
   ]
 }
