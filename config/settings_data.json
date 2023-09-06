@@ -1060,7 +1060,7 @@
     "cart_currency_code_enabled": true,
     "checkout_body_background_color": "#ffffff",
     "checkout_sidebar_background_color": "#ffffff",
-    "checkout_accent_color": "#2f865c",
+    "checkout_accent_color": "#1b2121",
     "checkout_button_color": "#2f865c",
     "sections": {
       "announcement-bar": {
