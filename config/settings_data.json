@@ -1058,6 +1058,7 @@
     "free_shipping_bar_col_met": "#2f865c",
     "product_currency_code_enabled": true,
     "cart_currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/LGR_Logo_Black.svg",
     "checkout_body_background_color": "#ffffff",
     "checkout_sidebar_background_color": "#ffffff",
     "checkout_accent_color": "#1b2121",
