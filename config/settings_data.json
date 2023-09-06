@@ -1054,8 +1054,13 @@
     "after_add_to_cart": "drawer",
     "show_free_shipping_bar": true,
     "free_shipping_amounts": "US:USD:10000\nUK:GBP:5000",
+    "free_shipping_bar_col_under": "#2f865c",
+    "free_shipping_bar_col_met": "#2f865c",
     "product_currency_code_enabled": true,
     "cart_currency_code_enabled": true,
+    "checkout_sidebar_background_color": "#faf6eb",
+    "checkout_accent_color": "#2f865c",
+    "checkout_button_color": "#2f865c",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -1326,7 +1331,7 @@
         "custom_css": [
           ".footer-social-icons {margin: 3rem 0 -5rem; text-align: center;}",
           ".socio {max-width: 3rem; width: 100%; height: auto;}",
-          ".h2 {color: #000; font-size: 22px; margin-bottom: 5px}"
+          ".h2 {color: #000; font-size: 22px; margin-bottom: 5px;}"
         ],
         "settings": {
           "full_width": true,
