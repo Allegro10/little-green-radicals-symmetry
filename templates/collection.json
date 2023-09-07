@@ -88,7 +88,8 @@
     "main": {
       "type": "main-collection",
       "custom_css": [
-        ".product-label--new-in {margin-right: 2.5px;}"
+        ".product-label--new-in {margin-right: 2.5px;}",
+        ".reading-width {margin-top: 15px;}"
       ],
       "settings": {
         "show_title": false,
@@ -126,7 +127,6 @@
     },
     "457462c9-a6a3-40c3-92d9-cf8826aab024": {
       "type": "gallery",
-      "disabled": true,
       "blocks": {
         "template--14322409570379__457462c9-a6a3-40c3-92d9-cf8826aab024-167111967641cee857-0": {
           "type": "image",
@@ -183,6 +183,7 @@
         "template--14322409570379__457462c9-a6a3-40c3-92d9-cf8826aab024-167111967641cee857-2",
         "template--14322409570379__457462c9-a6a3-40c3-92d9-cf8826aab024-167111967641cee857-3"
       ],
+      "disabled": true,
       "settings": {
         "grid": 2,
         "height": "fixed",
@@ -201,7 +202,6 @@
     },
     "11ce3850-62e3-474a-90ef-751714f32ade": {
       "type": "custom-row",
-      "disabled": true,
       "blocks": {
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-0": {
           "type": "image",
@@ -239,6 +239,7 @@
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-0",
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-1"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "middle"
       }
