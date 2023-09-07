@@ -3,7 +3,7 @@
     "main": {
       "type": "main-search",
       "custom_css": [
-        ".product-label--new-in {margin-right:2.5px}"
+
       ],
       "settings": {
         "show_vendor": false,

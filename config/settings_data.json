@@ -1381,7 +1381,9 @@
       ".underline {color: #707173;}",
       ".reading-width {margin-left: auto; margin-right: auto; max-width: fit-content;}",
       ".page-header--with-upper-spacing {margin-top: 0px;}",
-      ".product-label--new-in {padding-right: 2.5px;}"
+      ".product-label--new-in {padding-right: 2.5px;}",
+      ".product-label--new-in {margin-right: 2.5px;}",
+      ".product-label {display: block; margin-right: 2.5px;}"
     ]
   }
 }
