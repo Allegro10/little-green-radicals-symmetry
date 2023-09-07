@@ -89,7 +89,8 @@
       "type": "main-collection",
       "custom_css": [
         ".product-label--new-in {margin-right: 2.5px;}",
-        ".reading-width {margin-top: 15px;}"
+        ".reading-width {margin-top: 15px;}",
+        ".Sort-by {padding-bottom: 2px;}"
       ],
       "settings": {
         "show_title": false,
