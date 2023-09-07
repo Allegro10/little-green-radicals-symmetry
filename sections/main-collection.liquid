@@ -267,7 +267,7 @@
           <span class="utility-bar__item desktop-only">
             <div class="link-dropdown link-dropdown--right-aligned">
               <div class="visually-hidden" id="sort-dropdown-heading">{{ 'collections.sorting.title' | t | escape }}</div>
-              <div class="sort-by">Sort by:</div> <button class="link-dropdown__button notabutton" aria-expanded="false" aria-controls="sort-dropdown-options" aria-describedby="sort-dropdown-heading">
+              Sort by: <button class="link-dropdown__button notabutton" aria-expanded="false" aria-controls="sort-dropdown-options" aria-describedby="sort-dropdown-heading">
                 <span class="link-dropdown__button-text">
                   {%- for option in collection.sort_options -%}
                     {%- if current_sort == option.value -%}
