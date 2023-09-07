@@ -3,7 +3,8 @@
     "main": {
       "type": "main-article",
       "custom_css": [
-        ".majortitle {font-size: 40px;}"
+        ".majortitle {font-size: 36px; text-align: left;}",
+        ".container {max-width: 800px;}"
       ],
       "settings": {
         "show_date": false,
