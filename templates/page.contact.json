@@ -161,32 +161,12 @@
         "full_width": false,
         "use_alt_bg": false
       }
-    },
-    "a64c2411-c3f4-43f3-b7be-9dd7ab956f41": {
-      "type": "multi-column",
-      "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
-    "fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c": {
-      "type": "multi-column",
-      "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
     }
   },
   "order": [
     "0acb8b11-fcf0-4f74-b565-095da0c1d168",
     "main",
     "b8f31b27-7498-4172-b7a2-488c5e50c75a",
-    "ca93b145-5ac0-496c-914e-a2c52c912045",
-    "a64c2411-c3f4-43f3-b7be-9dd7ab956f41",
-    "fe87f7e0-48b5-46dc-8e9e-1e53bf5d584c"
+    "ca93b145-5ac0-496c-914e-a2c52c912045"
   ]
 }

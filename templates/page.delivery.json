@@ -221,17 +221,6 @@
         "use_alt_bg": false
       }
     },
-    "main": {
-      "type": "faq-header",
-      "settings": {
-        "title": "FAQs",
-        "use_h1": false,
-        "text": "",
-        "show_search": true,
-        "show_index": true,
-        "index_heading": "Can we help?"
-      }
-    },
     "faq-content-1": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -290,51 +279,6 @@
       "settings": {
         "title": "Shipping, Returns & Exchanges"
       }
-    },
-    "contact": {
-      "type": "rich-text",
-      "blocks": {
-        "icon": {
-          "type": "icon",
-          "settings": {
-            "icon": "chat_bubble"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Get in touch",
-            "use_h1": false
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact us",
-            "button_link": "",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "icon",
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": true
-      }
     }
   },
   "order": [
@@ -344,9 +288,7 @@
     "15778ece-a584-4cfa-9854-5221c9ec94f1",
     "7f695673-9b15-4dcf-bb1e-b088791834ce",
     "a7adbb86-1350-4310-b369-d957e99b1a2f",
-    "main",
     "faq-content-1",
-    "faq-content-2",
-    "contact"
+    "faq-content-2"
   ]
 }
