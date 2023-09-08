@@ -69,7 +69,7 @@
             "enable_image": false,
             "image_width": 700,
             "title": "Customer service",
-            "text": "<p>Office hours:<br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email customer service<\/a><\/p><p><\/p>",
+            "text": "<p><strong>Office hours:<\/strong><br\/>Monday to Friday<br\/>9.30am till 5.30 pm<\/p><p><\/p><p>+44 (0) 7826 098872<br\/><a href=\"mailto:customerservice@littlegreenradicals.co.uk\" title=\"mailto:customerservice@littlegreenradicals.co.uk\">Email customer service<\/a><\/p><p><\/p>",
             "button_label": "",
             "link": ""
           }
@@ -80,7 +80,7 @@
             "enable_image": false,
             "image_width": 700,
             "title": "Press \/ Marketing",
-            "text": "<p>For Press enquiries please contact: rebecca@littlegreenradicals.co.uk<\/p><p>For Social Media collaborations please contact: social@littlegreenradicaos.co.uk<\/p><p><\/p>",
+            "text": "<p>For Press enquiries please contact: rebecca@littlegreenradicals.co.uk<\/p><p>For Social Media collaborations please contact: social@littlegreenradicals.co.uk<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -103,7 +103,7 @@
         "template--14357811134539__b8f31b27-7498-4172-b7a2-488c5e50c75a-text_block-3"
       ],
       "settings": {
-        "title": "Contact us",
+        "title": "",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
