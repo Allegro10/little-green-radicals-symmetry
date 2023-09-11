@@ -57,6 +57,9 @@
     },
     "ab72ca87-6831-44da-8919-28029e932b8a": {
       "type": "faq-header",
+      "custom_css": [
+        ".faq-index__heading {font-size: 19px; color: #000; font-weight: 700;}"
+      ],
       "settings": {
         "title": "",
         "use_h1": false,
@@ -128,6 +131,10 @@
         "19bd7287-9e70-435b-b6b2-adf41e4bcf52",
         "777b7e9e-f00d-4e73-8356-5887fe0cd6be"
       ],
+      "custom_css": [
+        ".collapsible-tabs__heading {margin-top: 40px; margin-bottom: 20px; font-weight: 700 !important;}",
+        ".h3 {font-weight: 400 !important;}"
+      ],
       "settings": {
         "title": "Order FAQs"
       }
@@ -162,6 +169,10 @@
         "268a139d-714a-4295-ad43-fe45f8f5f3ad",
         "bf3a3a13-1257-45da-8edb-18d680e0f2c8"
       ],
+      "custom_css": [
+        ".collapsible-tabs__heading {margin-top: 40px; margin-bottom: 20px; font-weight: 700 !important;}",
+        ".h3 {font-weight: 400 !important;}"
+      ],
       "settings": {
         "title": "Delivery FAQs"
       }
@@ -195,6 +206,10 @@
         "609e11b0-be5c-46e8-9bfd-5886d7a1a2f8",
         "d9eeb6b9-e01a-4119-ac7c-de3990bdf5cd",
         "7fee9ee5-cc65-4001-89ed-88b6097d8aa0"
+      ],
+      "custom_css": [
+        ".collapsible-tabs__heading {margin-top: 40px; margin-bottom: 20px; font-weight: 700 !important;}",
+        ".h3 {font-weight: 400 !important;}"
       ],
       "settings": {
         "title": "Returns and Exchanges FAQs"
@@ -310,6 +325,10 @@
         "d8599564-7487-4c98-8bcc-c04e26add0c3",
         "ade984b8-96c3-4fb8-87eb-134b9a5a3335"
       ],
+      "custom_css": [
+        ".collapsible-tabs__heading {margin-top: 40px; margin-bottom: 20px; font-weight: 700 !important;}",
+        ".h3 {font-weight: 400 !important;}"
+      ],
       "settings": {
         "title": "General FAQs"
       }
@@ -335,6 +354,10 @@
       "block_order": [
         "question-1",
         "question-2"
+      ],
+      "custom_css": [
+        ".collapsible-tabs__heading {margin-top: 40px; margin-bottom: 20px; font-weight: 700 !important;}",
+        ".h3 {font-weight: 400 !important;}"
       ],
       "settings": {
         "title": "Order FAQs"
