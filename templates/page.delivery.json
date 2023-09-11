@@ -90,28 +90,28 @@
           "type": "question",
           "settings": {
             "title": "USA",
-            "answer": "<p>- Courier Delivery (orders under £75): <strong>£9.50<\/strong> (up to 7 working days)<br\/>- Courier Delivery (orders over £75): <strong>FREE<\/strong> (up to 7 working days)<\/p>"
+            "answer": "<ul><li>Courier Delivery (orders under £75): <strong>£9.50<\/strong> (up to 7 working days)<\/li><li>Courier Delivery (orders over £75): <strong>FREE<\/strong> (up to 7 working days)<\/li><\/ul>"
           }
         },
         "bce58bef-6b04-497a-9518-c7be27b18333": {
           "type": "question",
           "settings": {
             "title": "Canada",
-            "answer": "<p>- Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<br\/><br\/>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+            "answer": "<ul><li>Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<\/li><\/ul><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
           }
         },
         "f0c36747-200a-46ec-a59d-e9c68f76790c": {
           "type": "question",
           "settings": {
             "title": "Australia",
-            "answer": "<p>- Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<\/p>"
+            "answer": "<ul><li>Express Courier Delivery: <strong>£15.00<\/strong> (up to 7 working days)<\/li><\/ul>"
           }
         },
         "59b32750-2449-4925-9806-042962693eb6": {
           "type": "question",
           "settings": {
             "title": "Rest of World",
-            "answer": "<p>- Standard Delivery (orders under £100): <strong>£7.50<\/strong> (up to 15 working days)<br\/>- Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 15 working days)<br\/>- Express Courier Delivery (orders under £75): <strong>£15.00<\/strong> (up to 7 working days)<\/p><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
+            "answer": "<ul><li>Standard Delivery (orders under £100): <strong>£7.50<\/strong> (up to 15 working days)<\/li><li>Standard Delivery (orders under £100): <strong>FREE<\/strong> (up to 15 working days)<\/li><li>Express Courier Delivery (orders under £75): <strong>£15.00<\/strong> (up to 7 working days)<\/li><\/ul><p>You may be charged local taxes (VAT) when your order arrives. For more information, please get in touch and check with us before ordering. Little Green Radicals are not responsible for any additional duties charged.<\/p>"
           }
         }
       },
