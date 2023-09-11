@@ -32,19 +32,38 @@
         "template--14357810675787__510a8fdc-9044-496e-a42e-afc49eee506b-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Need a hand with anything? Here are the answers to some frequently asked questions:",
+            "title": "Need a hand with anything?",
             "use_h1": false
+          }
+        },
+        "fb908e67-eb10-4111-ade5-40a93276d837": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here are the answers to some frequently asked questions:<\/p>",
+            "enlarge_text": false
           }
         }
       },
       "block_order": [
-        "template--14357810675787__510a8fdc-9044-496e-a42e-afc49eee506b-heading-1"
+        "template--14357810675787__510a8fdc-9044-496e-a42e-afc49eee506b-heading-1",
+        "fb908e67-eb10-4111-ade5-40a93276d837"
       ],
       "settings": {
         "height": "medium",
         "text_alignment": "center",
         "full_width": false,
         "use_alt_bg": false
+      }
+    },
+    "ab72ca87-6831-44da-8919-28029e932b8a": {
+      "type": "faq-header",
+      "settings": {
+        "title": "",
+        "use_h1": false,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
       }
     },
     "4566c753-222d-4348-bdf9-e4392d2146a8": {
@@ -403,6 +422,7 @@
   "order": [
     "heading",
     "510a8fdc-9044-496e-a42e-afc49eee506b",
+    "ab72ca87-6831-44da-8919-28029e932b8a",
     "4566c753-222d-4348-bdf9-e4392d2146a8",
     "22d7c530-32d9-488f-a8fd-a3c6b3d13a44",
     "91457f17-9dff-4de4-9443-e88daf4f2ef5",
