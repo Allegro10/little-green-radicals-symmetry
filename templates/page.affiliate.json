@@ -265,43 +265,17 @@
       "type": "custom-liquid",
       "settings": {
         "full_width": true,
-        "code": "<br><center><span style=\"font-size:18px;\">Any questions?<\/span><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:social@littlegreenradicals.co.uk\" style=\"color: white\">Email us<\/a><\/button><\/center><br>"
+        "code": "<br><center><h2>Any questions?<\/h2><\/center><br>\n<center><button class=\"btn\"><a href=\"mailto:social@littlegreenradicals.co.uk\" style=\"color: white\">Email us<\/a><\/button><\/center><br>"
       }
     },
     "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d": {
       "type": "custom-liquid",
+      "custom_css": [
+        "{margin-bottom: -50px}"
+      ],
       "settings": {
         "full_width": true,
-        "code": "<br><br><center>\n<a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/affiliate-terms-conditions\"> <span style=\"color: grey\">Affiliate terms & conditions<\/span><\/a>        <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/little-green-radicals-privacy-notice\"> <span style=\"color: grey\">Privacy policy<\/span> <\/a>        <a href=\"mailto:elise@littlegreenradicals.co.uk?subject=Affiliate%20Program%20Query\"> <span style=\"color: grey\">Contact us<\/span> <\/a>\n<\/center><br>"
-      }
-    },
-    "f94a21db-6880-4911-a434-3c12bc39f920": {
-      "type": "slideshow",
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow",
-        "slide_transition": "fade",
-        "slide_navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 7
-      }
-    },
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79": {
-      "type": "testimonials",
-      "settings": {
-        "title": "Customer reviews",
-        "layout": "image-right",
-        "text_caps": false,
-        "quote_text_size": 30,
-        "quote_text_size_mobile": 20,
-        "image_shape": "square",
-        "use_alt_bg": false,
-        "autoplay": true,
-        "autoplay_speed": 5
+        "code": "<br><center>\n<a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/affiliate-terms-conditions\"> <span style=\"color: grey\">Affiliate terms & conditions<\/span><\/a>        <a href=\"https:\/\/littlegreenradicals.co.uk\/pages\/little-green-radicals-privacy-notice\"> <span style=\"color: grey\">Privacy policy<\/span> <\/a>        <a href=\"mailto:elise@littlegreenradicals.co.uk?subject=Affiliate%20Program%20Query\"> <span style=\"color: grey\">Contact us<\/span> <\/a>\n<\/center>"
       }
     }
   },
@@ -316,8 +290,6 @@
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
     "ba09ac7f-779c-4942-a279-83b9c7675e99",
     "5319eb92-6f6c-449b-b4c5-277b54be41ab",
-    "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d",
-    "f94a21db-6880-4911-a434-3c12bc39f920",
-    "7fb67205-5ec8-47b6-a1c2-b06bcc225f79"
+    "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d"
   ]
 }
