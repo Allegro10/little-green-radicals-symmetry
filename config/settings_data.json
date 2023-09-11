@@ -1383,7 +1383,9 @@
       ".page-header--with-upper-spacing {margin-top: 0px;}",
       ".product-label--new-in {padding-right: 2.5px;}",
       ".product-label--new-in {margin-right: 2.5px; font-weight: 900;}",
-      ".product-label {display: block; margin-right: 2.5px;}"
+      ".product-label {display: block; margin-right: 2.5px;}",
+      ".ql-font-libre-baskerville {font-size: 18px !important; font-family: sofia-pro, \"Century Gothic\", CenturyGothic, AppleGothic, sans-serif !important; font-weight: 400 !important; color: #707173bf !important;}",
+      ".go3176171171 span {font-size: 18px !important; font-family: sofia-pro, \"Century Gothic\", CenturyGothic, AppleGothic, sans-serif !important; font-weight: 400 !important; color: #707173bf !important;}"
     ]
   }
 }
