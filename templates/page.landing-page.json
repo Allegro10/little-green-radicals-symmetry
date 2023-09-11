@@ -234,24 +234,6 @@
         "alignment": "middle"
       }
     },
-    "61a737e5-2353-476f-9780-1618b83cf4b3": {
-      "type": "gallery",
-      "settings": {
-        "grid": 2,
-        "height": "fixed",
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
-        "title_size": 40,
-        "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
-        "full_width": false,
-        "use_alt_bg": false,
-        "enable_carousel": true,
-        "overlay_style": "full",
-        "button_style": "primary"
-      }
-    },
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c": {
       "type": "multi-column",
       "blocks": {
@@ -259,7 +241,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Recycled-Green.png",
+            "image": "shopify:\/\/shop_images\/Recycled-Dark.png",
             "image_width": 200,
             "title": "Planet friendly recycled fabric",
             "text": "<p>Whilst most of our clothing is made from Fairtrade, organic cotton, there are some products that simply don’t work as well in this material. And we only want to make long-lasting clothes that perfom brilliantly. So, we found a fantastic partner who recycles post-consumer plastic bottles into fabric and voila, we have waterproof outerwear and swimwear!<br\/><br\/>So far, we’ve saved over 290,000 post-consumer plastic bottles from landfill!<\/p>",
@@ -271,7 +253,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Earth-Green.png",
+            "image": "shopify:\/\/shop_images\/Earth-Dark.png",
             "image_width": 200,
             "title": "Treading lightly on the earth",
             "text": "<p>We are always looking at ways we can reduce our impact on the planet. All our clothing bags are now 100% compostable, made from natural cereals and all our packaging is recycled and recyclable. We work closely withour producers to minimise waste and turn ‘rescued fabric’ into new products, including soft toys, bibs and baby booties.<br\/><br\/>We’ve replaced over 565,000 plastic bags (and counting).<\/p>",
@@ -283,7 +265,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Made-to-last-Green.png",
+            "image": "shopify:\/\/shop_images\/Made-Dark.png",
             "image_width": 200,
             "title": "Made to last",
             "text": "<p>We pride ourselves in not following trends, but instead focussing on making timeless, high quality, long-lasting clothing that will be loved by one child, and then passed on to another.<br\/><br\/>And don't just take our word for it! Here are some of the design awards we're delighted to have won.<\/p>",
@@ -295,7 +277,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Return-Preloved-Green.png",
+            "image": "shopify:\/\/shop_images\/Return-Dark.png",
             "image_width": 200,
             "title": "Rent, repair & renew",
             "text": "<p>Let's keep clothes out of landfill. Join our SuperLoop! Here's how it works:<br\/>Return your pre-loved Little Green Radicals clothes for free. Get 15% back to spend on your next order. Easy peasy. <br\/>Your pre-loved clothes will be rented out by SuperLooper for other families to enjoy. If your child's clothes still fit but just need a little TLC, take a look at our repair tips to keep them lovely for longer. <\/p>",
@@ -307,7 +289,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Life-Green.png",
+            "image": "shopify:\/\/shop_images\/Life-Dark.png",
             "image_width": 200,
             "title": "Designed for Life",
             "text": "<p>After a member of our community got in touch to say how hard it is to find affordable, organic, colourful clothes for her daughter who has disabilities, our production team created an 8 piece adaptive collection in collaboration with a group of parents and leading disability charity Purple Tuesday.<\/p>",
@@ -319,7 +301,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Sun-Green.png",
+            "image": "shopify:\/\/shop_images\/Sun-Dark.png",
             "image_width": 200,
             "title": "Our community",
             "text": "<p>Be part of it <br\/><br\/>Meet the team<\/p>",
@@ -354,7 +336,6 @@
     "46395198-bd8f-48c5-8039-f81cb94d9d0a",
     "8e820b60-9470-42cb-b94e-dfd26cae6285",
     "9867cef7-5835-45e3-814d-67db9221dfcd",
-    "61a737e5-2353-476f-9780-1618b83cf4b3",
     "6d2d8b5a-f452-4dfc-bc44-0839ec38fc8c"
   ]
 }
