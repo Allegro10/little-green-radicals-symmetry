@@ -57,7 +57,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
@@ -219,7 +219,7 @@
       ],
       "settings": {
         "title": "FAQ's",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "button_style": "primary",
         "use_alt_bg": false
       }
@@ -256,7 +256,7 @@
       ],
       "settings": {
         "title": "",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "button_style": "primary",
         "use_alt_bg": false
       }
@@ -271,7 +271,7 @@
     "9bbe8f2a-56b3-4caf-9bd3-0dc7096acb2d": {
       "type": "custom-liquid",
       "custom_css": [
-        "{margin-bottom: -50px}"
+        "{margin-bottom: -50px;}"
       ],
       "settings": {
         "full_width": true,
