@@ -70,7 +70,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Affiliate-Sign-up.png",
-            "image_width": 140,
+            "image_width": 120,
             "title": "1. Sign up",
             "text": "<p>Sign up to join our Affiliate Programme <a href=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\" target=\"_blank\" title=\"https:\/\/affiliate.littlegreenradicals.co.uk\/create-account?ref=vlo20owtkvevc\">here<\/a><\/p>",
             "button_label": "",
@@ -82,7 +82,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/SuperLoop-Help.png",
-            "image_width": 140,
+            "image_width": 120,
             "title": "2. Recommend",
             "text": "<p>Share your favourite Little Green Radicals products using a unique referral link<\/p>",
             "button_label": "",
@@ -94,7 +94,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/SuperLoop-Get.png",
-            "image_width": 140,
+            "image_width": 120,
             "title": "3. Earn",
             "text": "<p>Earn commission on orders <br\/>made via your unique link<\/p>",
             "button_label": "",
