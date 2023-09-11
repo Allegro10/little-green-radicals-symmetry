@@ -79,18 +79,19 @@
         "template--14357810708555__a291df66-c0dc-4f31-8188-45283031e5ec-image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Meettheteam_1080x_a1a1a1d5-bbc5-403a-8916-226bf24a7176.jpg",
             "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
+            "subheading": "",
+            "title": "",
             "heading_max_width": 800,
             "title_size": 84,
             "title_size_mobile": 46,
             "use_h1": false,
-            "text": "<p>And optional subtext<\/p>",
+            "text": "",
             "enlarge_text": true,
-            "button_label_1": "Shop this",
+            "button_label_1": "",
             "button_url_1": "",
-            "button_label_2": "Shop all",
+            "button_label_2": "",
             "button_url_2": "",
             "text_alignment": "center center"
           }
@@ -102,7 +103,7 @@
       ],
       "settings": {
         "height": "fixed",
-        "height_desktop": 480,
+        "height_desktop": 540,
         "height_mobile": 480,
         "full_width": true,
         "mobile_overlay_under": false,
