@@ -253,6 +253,7 @@
         "template--14395657715787__ec1a4d6b-9e3b-4992-8bfe-c076c04485e0-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Logotech-3_8cefb3a1-c4f1-4096-b68c-3c10992e5320.jpg",
             "enlarge_image": true,
             "subheading": "",
             "title": "",
@@ -261,10 +262,24 @@
             "link": "",
             "text_alignment": "bottom left"
           }
+        },
+        "187e7830-3825-4067-8db8-5c5f3e66dde4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
-        "template--14395657715787__ec1a4d6b-9e3b-4992-8bfe-c076c04485e0-image-1"
+        "template--14395657715787__ec1a4d6b-9e3b-4992-8bfe-c076c04485e0-image-1",
+        "187e7830-3825-4067-8db8-5c5f3e66dde4"
       ],
       "settings": {
         "grid": 2,
@@ -373,6 +388,7 @@
         "template--14395657715787__61f9a5f7-f739-461d-a2ae-a696eaf1d57b-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Qualiance-3_f1193f67-76b3-47a2-981e-ee9b456ad724.jpg",
             "enlarge_image": true,
             "subheading": "",
             "title": "",
