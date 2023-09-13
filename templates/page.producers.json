@@ -13,7 +13,7 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Journey.jpg",
+            "image": "shopify:\/\/shop_images\/Deeps-2_0fa7eab1-7da0-4a10-8ac3-c704a701ac01.jpg",
             "enlarge_image": false,
             "subheading": "",
             "title": "",
@@ -203,7 +203,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Deeps-2.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "Equality & Empowerment",
             "text": "<p>Deeps collaborate with Swadhina, who work to improve the lives of women and children in rural India Deeps also provide specialist training, healthcare and steady wage for female employees.<\/p>",
             "button_label": "",
@@ -214,8 +214,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Deeps-3.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Deeps-3_9d37c367-733c-4bf0-b64d-4ab7ca185657.jpg",
+            "image_width": 500,
             "title": "Zero Waste Projects",
             "text": "<p>They operate a zero textile wastage policy to reduce their environmental impact. Scraps of fabric are reused and made into new products including our soft toys, or recycled.<\/p>",
             "button_label": "",
@@ -227,7 +227,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Deeps-4.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "Expert Hand Screen-Printers",
             "text": "<p>The skilled team print each colour onto our organic fabrics by hand. No easy task with some of our multi-colour designs!<\/p>",
             "button_label": "",
@@ -338,7 +338,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Logotech-2.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "Fabric Innovation",
             "text": "<p>Logotech are absolutely wonderful at developing new organic cotton fabrics which let’s us bring new ideas and designs to life.<\/p>",
             "button_label": "",
@@ -350,7 +350,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Logotech-3.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "Skilled Tailors",
             "text": "<p>Logotech employ highly skilled staff who can stictch beautiful, long-lasting, fantastic pieces of clothing using many different fabric types.<\/p>",
             "button_label": "",
@@ -458,7 +458,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Qualiance-3.jpg",
+            "image_width": 500,
             "title": "Eco-friendly",
             "text": "<p>Qualiance harvest rainwater at their factory and use solar panels to create part of the energy they use. They are have over 10 certifications to their name!<\/p>",
             "button_label": "",
@@ -470,7 +471,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Qualiance-2.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "High Performance",
             "text": "<p>Qualiance are at the cutting edge of performance wear. They heat-seal seam so no water can get through and use advanced garment technology to reduce waste when cutting patterns..<\/p>",
             "button_label": "",
@@ -479,10 +480,11 @@
         },
         "template--14395657715787__8dd18629-da98-403b-9428-9f3073097fbb-text_block-3": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Qualiance-3.jpg",
-            "image_width": 700,
+            "image_width": 500,
             "title": "Children’s Rights",
             "text": "<p>This producer works with several NGOs to support the fight against child labour in global supply chains and work to uplift children from marginalised area of society.<br\/>https:\/\/vyfngo.com\/, Vavipalayam Manavalakalai Mandra Trust, https:\/\/www.savengo.org\/<br\/>                     <\/p>",
             "button_label": "",
