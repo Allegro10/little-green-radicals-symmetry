@@ -1103,7 +1103,6 @@
         "blocks": {
           "e826fad3-4456-473e-8a12-b87c82cf99f9": {
             "type": "menu-promotion-small",
-            "disabled": true,
             "settings": {
               "dropdown_link_title": "",
               "title": "",
@@ -1112,10 +1111,9 @@
           },
           "de45bdc6-ffc0-4a07-83dc-fc37ee67f77e": {
             "type": "menu-promotion-large",
-            "disabled": true,
             "settings": {
               "dropdown_link_title": "",
-              "desktop_image": "shopify:\/\/shop_images\/TMitchell_220510_9659.jpg",
+              "desktop_image": "shopify:\/\/shop_images\/Work-with-us.-jpg.jpg",
               "enable_fade": false,
               "subheading": "Tell your story",
               "title": "Wide menu promotion",

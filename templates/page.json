@@ -1,5 +1,31 @@
 {
   "sections": {
+    "a27beecd-8954-456c-9d34-a07e2651f21f": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Work-with-us.-jpg.jpg",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "heading_max_width": 800,
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -8,11 +34,12 @@
     },
     "d5803445-37c0-40b4-8004-236b1065f574": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/nick3_180x_180x_9e294015-1359-4b83-b63a-dfab9a7f11b0.jpg",
+        "image": "shopify:\/\/shop_images\/Work-with-us.-jpg.jpg",
         "image_width": 700,
-        "subheading": "Little Green Radicals Founder",
-        "title": "Nick Pecorelli",
+        "subheading": "",
+        "title": "",
         "use_h1": true,
         "text": "",
         "button_label": "",
@@ -35,6 +62,7 @@
         },
         "template--14357810708555__da8d7b8e-b928-432f-a174-0e15cb63e5c9-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Most people set up fashion companies because they want to make things that look beautiful. I started Little Green Radicals because for me nothing is truly beautiful unless it is made the right way. From the beginning our clothes have always been organic and Fairtrade, and I am energised by a desire to improve what we make, the way we treat the people who make it and our impact on the environment. <\/p><p><\/p><p>Back in 2005 I designed a set of humorous eco slogan t-shirts and playsuits that gave birth to the company we are today. Not long afterwards, and thankfully for all concerned, I relinquished control of design to the very talented Josie Bragg, who has given Little Green Radicals something that no one else could have imagined. <\/p><p><\/p><p>As we have grown so have I, and I have learned the value of nurturing an inclusive business which encourages work life balance and promotes the ambition of all. My ambition remains for Little Green Radicals to blaze a trail for an ethical fashion revolution. <\/p>",
             "enlarge_text": false
@@ -51,11 +79,30 @@
         "full_width": false,
         "use_alt_bg": false
       }
+    },
+    "61cf1b8b-8ef2-4eab-ac23-19caa7f39531": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subheading": "",
+        "title": "Image with text",
+        "use_h1": false,
+        "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
+        "button_label": "Read more",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
     }
   },
   "order": [
+    "a27beecd-8954-456c-9d34-a07e2651f21f",
     "main",
     "d5803445-37c0-40b4-8004-236b1065f574",
-    "da8d7b8e-b928-432f-a174-0e15cb63e5c9"
+    "da8d7b8e-b928-432f-a174-0e15cb63e5c9",
+    "61cf1b8b-8ef2-4eab-ac23-19caa7f39531"
   ]
 }
