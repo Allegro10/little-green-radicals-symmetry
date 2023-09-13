@@ -142,7 +142,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
@@ -178,7 +178,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
@@ -271,7 +271,7 @@
     "f08e03fd-682a-449e-b06b-6b4f773a2f42": {
       "type": "custom-liquid",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "code": "<center>\n<table style=\"width: 100%\" border=\"1\" bordercolor=\"#000000\">\n<tr style=\"font-family: sofia-pro; font-weight: 600\">\n<td style=\"width: 19%\"><\/td>\n<td style=\"width: 23%; text-align:center\" colspan=\"2\">\n<\/tr>\n<tr style=\"font-family: sofia-pro; font-weight: 600;\">\n<td style=\"width: 19%;\">Product Categories<\/td>\n<td style=\"width: 10%\"> Voucher Value<\/td>\n\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Raincoats<\/td>\n<td style=\"width: 10%\">£7.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snowsuits<\/td>\n<td style=\"width: 10%\">£7.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Snug As A Bug Suits & Winter Jackets <\/td>\n<td style=\"width: 10%\">£5.85<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Blanket & Corduroy Trousers<\/td>\n<td style=\"width: 10%\">£5.40<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Spring Jackets & Hoodies<\/td>\n<td style=\"width: 10%\">£5.10<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Dresses & Dungarees <\/td>\n<td style=\"width: 10%\">£4.80<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Jumpsuits & Pyjamas<\/td>\n<td style=\"width: 10%\">£4.20<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Blanket - Interlock, Playsets, Shorts Twill, Trousers<\/td>\n<td style=\"width: 10%\">£3.75<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Interlock Dresses & Dungarees, Sweatshirts, Shirts<\/td>\n<td style=\"width: 10%\">£3.60<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Babygrows<\/td>\n<td style=\"width: 10%\">£3.15<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Sherpa Accessories<\/td>\n<td style=\"width: 10%\">£2.85<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Joggers & Tops<\/td>\n<td style=\"width: 10%\">£2.70<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Rib Baby Body, Rib Leggings, Shorts, Sun Hats, T-Shirts, Vests<\/td>\n<td style=\"width: 10%\">£2.25<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Body, Interlock Leggings<\/td>\n<td style=\"width: 10%\">£1.65<\/td>\n<\/tr>\n<tr style=\"font-family: sofia-pro\">\n<td style=\"width: 10%\">Baby Cap<\/td>\n<td style=\"width: 10%\">£1.35<\/td>\n<\/tr>\n<\/table>\n<\/center>"
       }
     },
@@ -345,6 +345,7 @@
       "blocks": {
         "template--14385451663435__cf71ea40-c10e-45d4-9a5a-417ab6c34de5-image-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/What_We_Do_Community_3e396e09-8140-46a1-a201-0dbb38857243.jpg",
             "enlarge_image": false,
@@ -435,7 +436,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
