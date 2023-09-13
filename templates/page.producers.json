@@ -346,6 +346,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Logotech-2_4d79a621-4f8e-4b2a-b208-348c5bc02e40.jpg",
             "image_width": 700,
             "title": "",
             "text": "",
