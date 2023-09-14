@@ -42,15 +42,15 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/cotton_540x_28a48aec-5549-4060-b9a8-8289c23d001e.jpg",
             "height": "adapt",
-            "height_desktop": 600,
+            "height_desktop": 400,
             "height_mobile": 500,
             "subheading": "",
             "title": "Fairtrade cotton only",
             "text": "<p>Why we do business a little differently<\/p>",
-            "enlarge_text": false,
+            "enlarge_text": true,
             "button_label": "",
             "image_link": "",
-            "text_alignment": "center center",
+            "text_alignment": "center left",
             "mobile_overlay_under": false,
             "overlay_style": "shadow"
           }
@@ -65,7 +65,7 @@
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
-            "text_alignment": "center"
+            "text_alignment": "left"
           }
         }
       },
