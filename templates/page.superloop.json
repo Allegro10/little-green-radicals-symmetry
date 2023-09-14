@@ -8,13 +8,13 @@
         "height_desktop": 460,
         "height_mobile": 200,
         "image_link": "",
-        "subheading": "",
+        "subheading": "Wear. Return. Get money back.",
         "title": "Return & Earn",
         "heading_max_width": 800,
         "title_size": 60,
         "title_size_mobile": 30,
         "use_h1": false,
-        "text": "<p>Wear. Return. Get money back. Join our pre-loved SuperLoop!<\/p>",
+        "text": "<p>Join our pre-loved SuperLoop!<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -31,6 +31,35 @@
       "settings": {
         "full_width": true,
         "code": "<center>\n<h2>\n<font size=\"+2\"><b>Welcome to our UK pre-loved <br>clothing return service <\/b><\/font>\n<\/h2>\n<\/center>"
+      }
+    },
+    "a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Little Green Radicals have joined forces with pre-loved baby and children’s clothing library SuperLooper to keep our clothes in circulation for longer. <\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-text-1",
+        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-heading-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
       }
     },
     "main": {
@@ -118,35 +147,6 @@
         "title": "FAQ"
       }
     },
-    "a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "",
-            "use_h1": false
-          }
-        },
-        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Little Green Radicals have joined forces with pre-loved baby and children’s clothing library SuperLooper to keep our clothes in circulation for longer. <\/p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-heading-1",
-        "template--14385451663435__a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b-text-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "left",
-        "full_width": false,
-        "use_alt_bg": false
-      }
-    },
     "6a2a7eac-b128-4e7e-8895-0825e47e6c5a": {
       "type": "custom-liquid",
       "settings": {
@@ -167,7 +167,7 @@
         "template--14385451663435__d3c5aab1-b93e-4825-9aea-3ca272ef6514-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>1. Fill in<a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\" target=\"_blank\" title=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\"> our SuperLoop returns form <\/a>to let us know what you'll be sending back<\/p><p>2. Return your pre-loved, but wearable, Little Green Radicals clothes using our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\" target=\"_blank\" title=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\">FREE postage service<\/a><\/p><p>3. Receive a voucher for 15% of the original item value (sent to you via email once you fill in SuperLoop returns form)<\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to rent and enjoy<\/p><p>Simple as that!<\/p><p>Don't forget to include your name and email address in your clothing returns package. SuperLoop is only available in the UK. <\/p>",
+            "text": "<p>1. Fill in<a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\" target=\"_blank\" title=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeX0dh0VCp-ztPVKDBYfUbSpu4_J7IW7Zm4oit_kjqjspoXIw\/viewform\"> our SuperLoop returns form <\/a>to let us know what you'll be sending back<\/p><p>2. Return your pre-loved, but wearable, Little Green Radicals clothes using our <a href=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\" target=\"_blank\" title=\"https:\/\/www.royalmail.com\/track-my-return\/create\/5123\">FREE postage service<\/a><\/p><p>3. Receive a voucher for 15% of the original item value (sent to you via email once you fill in SuperLoop returns form)<\/p><p>4. Your lovely clothes will be added to the SuperLooper library for other families to rent and enjoy<\/p><p>Don't forget to include your name and email address in your clothing returns package. SuperLoop is only available in the UK. <\/p>",
             "enlarge_text": false
           }
         }
@@ -473,10 +473,10 @@
   "order": [
     "0ec52567-1590-4317-8772-ad42429e5d2d",
     "4e475ea8-b31f-47d3-9d71-72f50c6a1944",
+    "a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b",
     "main",
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50",
-    "a7fd3b40-8b93-4a51-b3ab-d8fcf8aee52b",
     "6a2a7eac-b128-4e7e-8895-0825e47e6c5a",
     "d3c5aab1-b93e-4825-9aea-3ca272ef6514",
     "2c1edc27-28f0-4987-b986-bc32a6b0a18d",
