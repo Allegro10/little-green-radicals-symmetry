@@ -79,6 +79,7 @@
     },
     "7c42fd46-c8e5-4fec-a984-6272364acf27": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "subtitle": "All the cotton we use is Fairtrade certified",
@@ -135,6 +136,7 @@
         "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1",
         "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multi-column",
         "text_alignment": "center",
@@ -182,6 +184,7 @@
         "94268db8-3c17-4ee5-a490-684324712bc7",
         "49a5817f-b686-4b75-a36b-7219f83854de"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "middle"
       }
@@ -192,10 +195,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fairtrade_3024x_542b829d-f789-460a-bf6c-c11cf7b899a8.jpg",
+            "image": "shopify:\/\/shop_images\/Fairtrade_Cotton.jpg",
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "Only Fairtrade cotton",
             "description": "",
             "button_label": "",
             "link": "",
@@ -205,9 +208,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Deeps-3_9d37c367-733c-4bf0-b64d-4ab7ca185657.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -217,9 +221,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Qualiance-3_f1193f67-76b3-47a2-981e-ee9b456ad724.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -229,9 +234,10 @@
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Logotech-2_4d79a621-4f8e-4b2a-b208-348c5bc02e40.jpg",
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -263,6 +269,7 @@
     },
     "420c2c4a-7323-440f-a2b5-c77c61db0042": {
       "type": "background-video",
+      "disabled": true,
       "settings": {
         "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "subheading": "Tell your story",
@@ -287,8 +294,8 @@
     "f44b372d-4336-4c78-9632-eb7c6ea9266a": {
       "type": "featured-blog",
       "settings": {
-        "title": "Blog posts",
-        "blog": "",
+        "title": "More from our Fairtrade world",
+        "blog": "news",
         "post_limit": 3,
         "show_author": true,
         "show_date": true,
@@ -298,7 +305,6 @@
     },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
       "type": "collapsible-tabs",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-0": {
           "type": "question",
@@ -319,6 +325,7 @@
         "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-0",
         "template--14340524408907__80617fa1-c978-47d2-b75e-fcc0b28c6f50-167664602933f507db-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "FAQ"
       }
@@ -336,7 +343,6 @@
     },
     "e824b5e5-2f0b-4c25-bc9b-5ec0271a7918": {
       "type": "contact-form",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__e824b5e5-2f0b-4c25-bc9b-5ec0271a7918-1676655933d0618f80-0": {
           "type": "name_input",
@@ -362,6 +368,7 @@
         "template--14340524408907__e824b5e5-2f0b-4c25-bc9b-5ec0271a7918-1676655933d0618f80-1",
         "template--14340524408907__e824b5e5-2f0b-4c25-bc9b-5ec0271a7918-1676655933d0618f80-2"
       ],
+      "disabled": true,
       "settings": {
         "contact_title": "Contact us",
         "contact_text": ""
@@ -381,7 +388,6 @@
     },
     "3dca99fe-2094-4164-9dc1-17065c467cbc": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-0": {
           "type": "title",
@@ -443,6 +449,7 @@
         "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-5",
         "template--14340524408907__3dca99fe-2094-4164-9dc1-17065c467cbc-16766559746b103af5-6"
       ],
+      "disabled": true,
       "settings": {
         "product": "",
         "inventory_transfers_enable": true,
@@ -533,6 +540,7 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "medium",
         "text_alignment": "center",
@@ -542,7 +550,6 @@
     },
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d": {
       "type": "scrolling-banner",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0": {
           "type": "text",
@@ -559,6 +566,7 @@
       "block_order": [
         "template--14340524408907__8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d-1676656149cc619bce-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "use_alt_bg": false,
@@ -572,7 +580,6 @@
     },
     "f94a21db-6880-4911-a434-3c12bc39f920": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0": {
           "type": "image",
@@ -617,6 +624,7 @@
         "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-0",
         "template--14340524408907__f94a21db-6880-4911-a434-3c12bc39f920-16766562106bc96aa2-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "fixed",
         "height_desktop": 600,
@@ -632,7 +640,6 @@
     },
     "45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1": {
       "type": "compact-messages",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0": {
           "type": "message",
@@ -655,6 +662,7 @@
         "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-0",
         "template--14340524408907__45e661b2-f4b4-4988-9ae3-4a4ab6a67fa1-1676656234cc5dbb75-1"
       ],
+      "disabled": true,
       "settings": {
         "head_not_col_bg": "#f4f6f8",
         "head_not_col_txt1": "#171717",
@@ -666,7 +674,6 @@
     },
     "7fb67205-5ec8-47b6-a1c2-b06bcc225f79": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0": {
           "type": "testimonial",
@@ -693,6 +700,7 @@
         "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-0",
         "template--14340524408907__7fb67205-5ec8-47b6-a1c2-b06bcc225f79-1676656249a8f1f483-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "Customer reviews",
         "layout": "image-right",
