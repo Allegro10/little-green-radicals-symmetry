@@ -129,6 +129,30 @@
         "button_style": "secondary"
       }
     },
+    "8c09bebd-c294-4dc7-839d-4c21fd4d4455": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/AW23-RAINWEAR-15sec-MASTER copy.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "",
+        "title": "Stormy seas",
+        "heading_max_width": 600,
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "<p>Jump in with us <\/p>",
+        "enlarge_text": true,
+        "button_label_1": "Shop Outerwear",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "height_desktop": 600,
+        "height_mobile": 400,
+        "full_width": false,
+        "overlay_style": "shadow"
+      }
+    },
     "f2b5b578-d007-418b-bf56-18fb78b08b4b": {
       "type": "gallery",
       "blocks": {
@@ -275,30 +299,6 @@
         "title": "Our super awards & certifications",
         "image_opacity": 100,
         "use_alt_bg": true
-      }
-    },
-    "8c09bebd-c294-4dc7-839d-4c21fd4d4455": {
-      "type": "background-video",
-      "settings": {
-        "video_shopify": "shopify:\/\/files\/videos\/AW23-RAINWEAR-15sec-MASTER copy.mp4",
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "subheading": "",
-        "title": "Stormy seas",
-        "heading_max_width": 600,
-        "title_size": 50,
-        "title_size_mobile": 32,
-        "use_h1": false,
-        "text": "<p>and starry skies<\/p>",
-        "enlarge_text": true,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "bottom left",
-        "height_desktop": 600,
-        "height_mobile": 400,
-        "full_width": false,
-        "overlay_style": "shadow"
       }
     },
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b": {
@@ -529,11 +529,11 @@
     "16359276425da8ce46",
     "6cbf772f-3a95-49fb-9935-6cd3faf0e345",
     "16359279164ff7d3f3",
+    "8c09bebd-c294-4dc7-839d-4c21fd4d4455",
     "f2b5b578-d007-418b-bf56-18fb78b08b4b",
     "16359278676808bea5",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "6825123e-59cf-445c-b9dd-44b9e20bfa9c",
-    "8c09bebd-c294-4dc7-839d-4c21fd4d4455",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
