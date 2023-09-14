@@ -89,7 +89,7 @@
         "title": "",
         "text_alignment": "center",
         "button_style": "primary",
-        "use_alt_bg": false
+        "use_alt_bg": true
       }
     },
     "80617fa1-c978-47d2-b75e-fcc0b28c6f50": {
