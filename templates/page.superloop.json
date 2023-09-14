@@ -335,7 +335,43 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "9079bfa8-e321-49c5-9ba1-3c33c4ee3fec": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Terms & Conditions<\/b><\/font>\n<\/h2>\n<\/center>"
+      }
+    },
+    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>+ SuperLoop is currently only available to UK residents <br\/>+ This free post service is separate from our the Little Green Radicals standard free post returns for newly purchased product  <br\/>+ There is no minimum order value that needs to be met to use your vouchers <br\/>+ Vouchers are based on the average full price per category<strong> (see table above)<\/strong> <br\/>+ Vouchers are not dependent on the exact price paid <br\/>+ If you end up with more than one voucher code, please email customerservice@littlegreenradicals.co.uk to consolidate them<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
+        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
@@ -396,49 +432,13 @@
         "mobile_image_height": 400,
         "title_size": 30,
         "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
+        "enable_margin": false,
+        "enable_row_spacing": false,
         "full_width": false,
         "use_alt_bg": false,
         "enable_carousel": true,
         "overlay_style": "full",
         "button_style": "primary"
-      }
-    },
-    "9079bfa8-e321-49c5-9ba1-3c33c4ee3fec": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "code": "<center>\n<h2>\n<font size=\"+2\"><b>Terms & Conditions<\/b><\/font>\n<\/h2>\n<\/center>"
-      }
-    },
-    "1db0134d-6880-4d6d-8fba-7aac9a2b25ab": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
-          "type": "heading",
-          "settings": {
-            "title": "",
-            "use_h1": false
-          }
-        },
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>+ SuperLoop is currently only available to UK residents <br\/>+ This free post service is separate from our the Little Green Radicals standard free post returns for newly purchased product  <br\/>+ There is no minimum order value that needs to be met to use your vouchers <br\/>+ Vouchers are based on the average full price per category<strong> (see table above)<\/strong> <br\/>+ Vouchers are not dependent on the exact price paid <br\/>+ If you end up with more than one voucher code, please email customerservice@littlegreenradicals.co.uk to consolidate them<\/p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0",
-        "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "left",
-        "full_width": false,
-        "use_alt_bg": false
       }
     },
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d": {
@@ -487,9 +487,9 @@
     "d2f75e90-a84d-4683-bf00-ae92c978f204",
     "9d4e7964-dc9a-4069-8b8c-bad1f6d7fd1c",
     "77c30262-845e-4acc-80f6-b857241d82d0",
-    "cf71ea40-c10e-45d4-9a5a-417ab6c34de5",
     "9079bfa8-e321-49c5-9ba1-3c33c4ee3fec",
     "1db0134d-6880-4d6d-8fba-7aac9a2b25ab",
+    "cf71ea40-c10e-45d4-9a5a-417ab6c34de5",
     "8e7b1ed6-33b7-48b8-bc7a-a4da27756b6d",
     "f94a21db-6880-4911-a434-3c12bc39f920"
   ]
