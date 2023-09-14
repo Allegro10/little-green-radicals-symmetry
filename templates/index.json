@@ -277,8 +277,33 @@
         "use_alt_bg": true
       }
     },
+    "8c09bebd-c294-4dc7-839d-4c21fd4d4455": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/AW23-RAINWEAR-15sec-MASTER copy.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "",
+        "title": "Stormy seas",
+        "heading_max_width": 600,
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "<p>and starry skies<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "height_desktop": 600,
+        "height_mobile": 400,
+        "full_width": false,
+        "overlay_style": "shadow"
+      }
+    },
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b": {
       "type": "background-video",
+      "disabled": true,
       "settings": {
         "video_shopify": "shopify:\/\/files\/videos\/SS22_Homepage_Video_Colour_Only_Square_no_Sound.mp4",
         "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -508,6 +533,7 @@
     "16359278676808bea5",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "6825123e-59cf-445c-b9dd-44b9e20bfa9c",
+    "8c09bebd-c294-4dc7-839d-4c21fd4d4455",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
