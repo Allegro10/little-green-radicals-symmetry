@@ -153,62 +153,6 @@
         "overlay_style": "shadow"
       }
     },
-    "f2b5b578-d007-418b-bf56-18fb78b08b4b": {
-      "type": "gallery",
-      "blocks": {
-        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220607_6289.jpg",
-            "enlarge_image": false,
-            "subheading": "",
-            "title": "",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bg_Right_1cb9b164-d506-48df-bea6-48ef0866fcc7.jpg",
-            "enlarge_image": false,
-            "subheading": "Made from recycled bottles",
-            "title": "Planet friendly outerwear",
-            "description": "We’ve saved over 290,000 post-consumer plastic bottles from landfill by using recycled fabric for our 100% waterproof outerwear.",
-            "button_label": "Shop outerwear",
-            "link": "shopify:\/\/collections\/kids-outerwear",
-            "text_alignment": "center left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-0",
-        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-1"
-      ],
-      "custom_css": [
-        ".button,a.button,.btn,a.btn,button,input[type=\"submit\"],input[type=\"reset\"],input[type=\"button\"] {background: #15425a; color: white; font-weight: 600;}",
-        ".overlay-text__title {font-size: 30px; color: #15425a; font-weight: bold;}",
-        ".subheading {font-size: 1em; font-weight: 500; line-height: 0em; letter-spacing: 0.075em; text-transform: inherit; color: #00c7e6;}",
-        ".overlay-text__inner {padding: 60px;}"
-      ],
-      "settings": {
-        "grid": 2,
-        "height": "adapt",
-        "desktop_image_height": 560,
-        "mobile_image_height": 280,
-        "title_size": 30,
-        "title_size_mobile": 22,
-        "enable_margin": false,
-        "enable_row_spacing": false,
-        "full_width": false,
-        "use_alt_bg": false,
-        "enable_carousel": false,
-        "overlay_style": "no_background",
-        "button_style": "primary"
-      }
-    },
     "16359278676808bea5": {
       "type": "featured-collection",
       "custom_css": [
@@ -299,6 +243,62 @@
         "title": "Our super awards & certifications",
         "image_opacity": 100,
         "use_alt_bg": true
+      }
+    },
+    "f2b5b578-d007-418b-bf56-18fb78b08b4b": {
+      "type": "gallery",
+      "blocks": {
+        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TMitchell_220607_6289.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bg_Right_1cb9b164-d506-48df-bea6-48ef0866fcc7.jpg",
+            "enlarge_image": false,
+            "subheading": "Made from recycled bottles",
+            "title": "Planet friendly outerwear",
+            "description": "We’ve saved over 290,000 post-consumer plastic bottles from landfill by using recycled fabric for our 100% waterproof outerwear.",
+            "button_label": "Shop outerwear",
+            "link": "shopify:\/\/collections\/kids-outerwear",
+            "text_alignment": "center left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-0",
+        "template--14322409603147__f2b5b578-d007-418b-bf56-18fb78b08b4b-16708806220938aa21-1"
+      ],
+      "custom_css": [
+        ".button,a.button,.btn,a.btn,button,input[type=\"submit\"],input[type=\"reset\"],input[type=\"button\"] {background: #15425a; color: white; font-weight: 600;}",
+        ".overlay-text__title {font-size: 30px; color: #15425a; font-weight: bold;}",
+        ".subheading {font-size: 1em; font-weight: 500; line-height: 0em; letter-spacing: 0.075em; text-transform: inherit; color: #00c7e6;}",
+        ".overlay-text__inner {padding: 60px;}"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "adapt",
+        "desktop_image_height": 560,
+        "mobile_image_height": 280,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "primary"
       }
     },
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b": {
@@ -530,10 +530,10 @@
     "6cbf772f-3a95-49fb-9935-6cd3faf0e345",
     "16359279164ff7d3f3",
     "8c09bebd-c294-4dc7-839d-4c21fd4d4455",
-    "f2b5b578-d007-418b-bf56-18fb78b08b4b",
     "16359278676808bea5",
     "b4f83ea5-8c9c-497b-ab1c-b7da76297654",
     "6825123e-59cf-445c-b9dd-44b9e20bfa9c",
+    "f2b5b578-d007-418b-bf56-18fb78b08b4b",
     "e358fd41-6b0c-4de3-92ba-215b1eaf6f6b",
     "1e0933e6-3d00-4dd5-bbb2-3097195c02b6",
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9",
