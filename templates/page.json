@@ -114,8 +114,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Team-1.jpg",
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "Come work with us",
             "description": "",
             "button_label": "",
             "link": "",
@@ -127,8 +127,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Team-2.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -140,8 +140,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Team-5.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -153,8 +153,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Team-3.jpg",
             "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -171,7 +171,7 @@
       "settings": {
         "grid": 2,
         "height": "fixed",
-        "desktop_image_height": 460,
+        "desktop_image_height": 300,
         "mobile_image_height": 400,
         "title_size": 30,
         "title_size_mobile": 22,
