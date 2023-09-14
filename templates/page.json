@@ -160,16 +160,30 @@
             "link": "",
             "text_alignment": "bottom left"
           }
+        },
+        "28d2ddbb-af69-48ec-a219-ba6af17c11eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Team-6.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-1",
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-2",
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-3",
-        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4"
+        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4",
+        "28d2ddbb-af69-48ec-a219-ba6af17c11eb"
       ],
       "settings": {
-        "grid": 2,
+        "grid": 3,
         "height": "fixed",
         "desktop_image_height": 300,
         "mobile_image_height": 400,
