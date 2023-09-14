@@ -243,26 +243,40 @@
             "link": "",
             "text_alignment": "bottom left"
           }
+        },
+        "76f4989f-142d-4bb8-9b8e-31435c561862": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cotton_2.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3",
+        "76f4989f-142d-4bb8-9b8e-31435c561862"
       ],
       "settings": {
-        "grid": 2,
+        "grid": 3,
         "height": "fixed",
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
+        "desktop_image_height": 350,
+        "mobile_image_height": 340,
         "title_size": 30,
         "title_size_mobile": 22,
         "enable_margin": true,
         "enable_row_spacing": true,
         "full_width": false,
         "use_alt_bg": false,
-        "enable_carousel": true,
+        "enable_carousel": false,
         "overlay_style": "full",
         "button_style": "primary"
       }
