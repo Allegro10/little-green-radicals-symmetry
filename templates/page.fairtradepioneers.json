@@ -41,17 +41,17 @@
           "settings": {
             "width": "half",
             "image": "shopify:\/\/shop_images\/cotton_540x_28a48aec-5549-4060-b9a8-8289c23d001e.jpg",
-            "height": "adapt",
+            "height": "fixed",
             "height_desktop": 400,
-            "height_mobile": 500,
+            "height_mobile": 340,
             "subheading": "",
             "title": "Fairtrade cotton only",
             "text": "<p>Why we do business a little differently<\/p>",
-            "enlarge_text": true,
+            "enlarge_text": false,
             "button_label": "",
             "image_link": "",
             "text_alignment": "center left",
-            "mobile_overlay_under": false,
+            "mobile_overlay_under": true,
             "overlay_style": "shadow"
           }
         },
@@ -61,7 +61,7 @@
             "width": "half",
             "subheading": "",
             "title": "",
-            "text": "<p>When we started out back in 2005, Little Green Radicals become one of the first companies to use Fairtrade certified cotton alongside some other wonderful UK brands. Simply put, this means we pay more for the cotton we use, which gives more to the farmers, their families and the communities who grow it. We’re privileged to work with fantastic cotton growers like <a href=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\" title=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\">Chetna Organics<\/a> from Yavatmal in India, who now have nearly 36,000 cotton farmers who work together, sharing their knowledge and experience. Of course, it also means decent working standards throughout the supply chain, including the places where the cotton is spun into thread, turned into fabric and made into clothes, and all the cotton we use is organic too. This is particularly important because intensive pesticide use to grow cotton is harmful to farmers and their families.<\/p>",
+            "text": "<p>When we started out back in 2005, Little Green Radicals become one of the first companies to use Fairtrade certified cotton alongside some other wonderful UK brands. Simply put, this means we pay more for the cotton we use, which gives more to the farmers, their families and the communities who grow it. <\/p><p>We’re privileged to work with fantastic cotton growers like <a href=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\" title=\"https:\/\/www.fairtrade.org.uk\/farmers-and-workers\/cotton\/chetna-organic-agriculture-producer-company-ltd\/\">Chetna Organics<\/a> from Yavatmal in India, who now have nearly 36,000 cotton farmers who work together, sharing their knowledge and experience. Of course, it also means decent working standards throughout the supply chain, including the places where the cotton is spun into thread, turned into fabric and made into clothes, and all the cotton we use is organic too. This is particularly important because intensive pesticide use to grow cotton is harmful to farmers and their families.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
@@ -74,7 +74,7 @@
         "template--14340524408907__d53601b5-2b3d-45be-92db-23ef2499bc15-16766559414615ce5a-1"
       ],
       "settings": {
-        "alignment": "middle"
+        "alignment": "top"
       }
     },
     "7c42fd46-c8e5-4fec-a984-6272364acf27": {
