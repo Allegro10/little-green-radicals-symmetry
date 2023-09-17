@@ -106,7 +106,7 @@
         "title": "",
         "text_alignment": "left",
         "button_style": "primary",
-        "use_alt_bg": false
+        "use_alt_bg": true
       }
     },
     "ca93b145-5ac0-496c-914e-a2c52c912045": {
