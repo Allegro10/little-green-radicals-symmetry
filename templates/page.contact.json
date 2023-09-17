@@ -157,7 +157,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
