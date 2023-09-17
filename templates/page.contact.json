@@ -104,7 +104,7 @@
       ],
       "settings": {
         "title": "",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "button_style": "primary",
         "use_alt_bg": false
       }
