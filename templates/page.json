@@ -301,6 +301,19 @@
             "text_alignment": "bottom left"
           }
         },
+        "7f0fbfc5-83f5-45e1-8152-d0e538902025": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-12.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
           "type": "image",
           "settings": {
@@ -331,11 +344,12 @@
       "block_order": [
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3",
+        "7f0fbfc5-83f5-45e1-8152-d0e538902025",
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2",
         "7a589d81-5ab2-49b8-805c-d87eaa476e00"
       ],
       "settings": {
-        "grid": 2,
+        "grid": 3,
         "height": "fixed",
         "desktop_image_height": 400,
         "mobile_image_height": 400,
