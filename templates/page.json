@@ -275,25 +275,26 @@
     "b3facc6a-281e-404c-8d8e-003c1a5ef2ea": {
       "type": "gallery",
       "blocks": {
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1": {
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3": {
           "type": "image",
           "settings": {
-            "enlarge_image": true,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "image": "shopify:\/\/shop_images\/Work-with-us-6.-jpg.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
           }
         },
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3": {
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Work-with-us-6.-jpg.jpg",
-            "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "image": "shopify:\/\/shop_images\/Work-with-us-11.jpg",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -303,9 +304,10 @@
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-8.jpg",
             "enlarge_image": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
+            "subheading": "",
+            "title": "",
             "description": "",
             "button_label": "",
             "link": "",
@@ -314,8 +316,8 @@
         }
       },
       "block_order": [
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3",
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2"
       ],
       "settings": {
