@@ -26,27 +26,32 @@
         "overlay_style": "shadow"
       }
     },
-    "main": {
-      "type": "main-page",
+    "7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14357810708555__7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet our team",
+            "use_h1": false
+          }
+        },
+        "template--14357810708555__7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Say hello to our lovely UK team! We’re based in Brixton, London but a lot of us often work from home; we encourage our team to have a good work - life balance through part-time, home and flexible working and believe in giving parents the opportunity to have a job they are passionate about, whilst having time to spend with their family. Bonnie is our longest standing team member who’s still with us three children and 17 years later!<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc-heading-1",
+        "template--14357810708555__7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc-text-1"
+      ],
       "settings": {
-        "full_width": false
-      }
-    },
-    "d5803445-37c0-40b4-8004-236b1065f574": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Work-with-us.-jpg.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "",
-        "use_h1": true,
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "left",
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
         "use_alt_bg": false
       }
     },
@@ -86,6 +91,31 @@
         "height": "medium",
         "text_alignment": "center",
         "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "d5803445-37c0-40b4-8004-236b1065f574": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Work-with-us.-jpg.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "",
+        "use_h1": true,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
         "use_alt_bg": false
       }
     },
@@ -212,14 +242,107 @@
         "overlay_style": "full",
         "button_style": "primary"
       }
+    },
+    "f077aef8-e5b2-4777-9adc-7b4e0effd04f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14357810708555__f077aef8-e5b2-4777-9adc-7b4e0effd04f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Our very own Little Green Radicals",
+            "use_h1": false
+          }
+        },
+        "template--14357810708555__f077aef8-e5b2-4777-9adc-7b4e0effd04f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our kids are also and important part of the team! They ‘test’ our clothes, feedback on their favourite styles and prints and often come with us to photoshoots. You may see lots of them popping up on social media and our website!<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__f077aef8-e5b2-4777-9adc-7b4e0effd04f-heading-1",
+        "template--14357810708555__f077aef8-e5b2-4777-9adc-7b4e0effd04f-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "b3facc6a-281e-404c-8d8e-003c1a5ef2ea": {
+      "type": "gallery",
+      "blocks": {
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": true,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3": {
+          "type": "image",
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2",
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3"
+      ],
+      "settings": {
+        "grid": 3,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
     }
   },
   "order": [
     "a27beecd-8954-456c-9d34-a07e2651f21f",
+    "7ffde6a8-0191-4d5f-a967-de7ecf6e3ddc",
+    "da8d7b8e-b928-432f-a174-0e15cb63e5c9",
     "main",
     "d5803445-37c0-40b4-8004-236b1065f574",
-    "da8d7b8e-b928-432f-a174-0e15cb63e5c9",
     "61cf1b8b-8ef2-4eab-ac23-19caa7f39531",
-    "dea09ee3-a1ac-405d-9db0-01ee35ff8c5e"
+    "dea09ee3-a1ac-405d-9db0-01ee35ff8c5e",
+    "f077aef8-e5b2-4777-9adc-7b4e0effd04f",
+    "b3facc6a-281e-404c-8d8e-003c1a5ef2ea"
   ]
 }
