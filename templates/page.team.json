@@ -178,11 +178,11 @@
             "text_alignment": "bottom left"
           }
         },
-        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4": {
+        "11e91f44-a001-4224-977c-597c34cb5422": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Team-3.jpg",
-            "enlarge_image": true,
+            "image": "shopify:\/\/shop_images\/TMitchell_230918_09412.jpg",
+            "enlarge_image": false,
             "subheading": "",
             "title": "",
             "description": "",
@@ -204,11 +204,11 @@
             "text_alignment": "bottom left"
           }
         },
-        "11e91f44-a001-4224-977c-597c34cb5422": {
+        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_230918_09412.jpg",
-            "enlarge_image": false,
+            "image": "shopify:\/\/shop_images\/Team-3.jpg",
+            "enlarge_image": true,
             "subheading": "",
             "title": "",
             "description": "",
@@ -222,9 +222,9 @@
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-1",
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-2",
         "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-3",
-        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4",
+        "11e91f44-a001-4224-977c-597c34cb5422",
         "28d2ddbb-af69-48ec-a219-ba6af17c11eb",
-        "11e91f44-a001-4224-977c-597c34cb5422"
+        "template--14357810708555__dea09ee3-a1ac-405d-9db0-01ee35ff8c5e-image-4"
       ],
       "settings": {
         "grid": 3,
