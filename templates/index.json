@@ -289,9 +289,9 @@
       ],
       "settings": {
         "grid": 2,
-        "height": "adapt",
+        "height": "fixed",
         "desktop_image_height": 560,
-        "mobile_image_height": 280,
+        "mobile_image_height": 400,
         "title_size": 30,
         "title_size_mobile": 22,
         "enable_margin": false,
