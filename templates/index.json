@@ -68,12 +68,12 @@
         "16359279164ff7d3f3-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_211209_6411.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_221116_1275_6fb08704-d8c9-4a4e-a4ad-003f0af8ce53.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Cosy knits",
+            "title": "Cosy cord",
             "description": "",
-            "button_label": "Shop Baby",
+            "button_label": "Shop Baby & Toddler",
             "link": "shopify:\/\/collections\/all-baby-clothes",
             "text_alignment": "bottom left"
           }
@@ -81,26 +81,26 @@
         "16359279164ff7d3f3-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220607_6034.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_230612_8454_542101d4-6df9-4c08-863d-2fa31d1c7020.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Adventure ready",
+            "title": "Autumn layers",
             "description": "",
-            "button_label": "Shop outerwear",
-            "link": "shopify:\/\/collections\/kids-outerwear",
+            "button_label": "Shop Kids",
+            "link": "shopify:\/\/collections\/all-kids-clothes",
             "text_alignment": "bottom left"
           }
         },
         "16359279164ff7d3f3-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_211209_6589.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_221116_1422.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "Winter warmers",
+            "title": "Wild adventures",
             "description": "",
-            "button_label": "Shop Kids",
-            "link": "shopify:\/\/collections\/all-kids-clothes",
+            "button_label": "Shop Outerwear",
+            "link": "shopify:\/\/collections\/kids-outerwear",
             "text_alignment": "bottom left"
           }
         }
