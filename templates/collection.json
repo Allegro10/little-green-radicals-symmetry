@@ -7,7 +7,6 @@
           "type": "image",
           "settings": {
             "image": "{{ collection.image }}",
-            "mobile_image": "shopify:\/\/shop_images\/TMitchell_220607_5720.jpg",
             "slide_link": "",
             "subheading": "",
             "title": "{{ collection.title }}",
