@@ -1,5 +1,65 @@
 {
   "sections": {
+    "c9461cda-1b53-43f2-94cf-be26162c7a86": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-17.jpg",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "heading_max_width": 800,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-2": {
+          "type": "image",
+          "settings": {
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "heading_max_width": 800,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext<\/p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-1",
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-2"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -8,6 +68,7 @@
     }
   },
   "order": [
+    "c9461cda-1b53-43f2-94cf-be26162c7a86",
     "main"
   ]
 }
