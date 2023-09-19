@@ -303,21 +303,9 @@
         },
         "7f0fbfc5-83f5-45e1-8152-d0e538902025": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Work-with-us-12.jpg",
-            "enlarge_image": false,
-            "subheading": "",
-            "title": "",
-            "description": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Work-with-us-8.jpg",
             "enlarge_image": false,
             "subheading": "",
             "title": "",
@@ -339,17 +327,30 @@
             "link": "",
             "text_alignment": "bottom left"
           }
+        },
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-8.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3",
         "7f0fbfc5-83f5-45e1-8152-d0e538902025",
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2",
-        "7a589d81-5ab2-49b8-805c-d87eaa476e00"
+        "7a589d81-5ab2-49b8-805c-d87eaa476e00",
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2"
       ],
       "settings": {
-        "grid": 3,
+        "grid": 2,
         "height": "fixed",
         "desktop_image_height": 400,
         "mobile_image_height": 400,
