@@ -6,19 +6,19 @@
         "16359276425da8ce46-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TMitchell_220607_5981_61514872-3344-4125-aa44-3ed1f9c8ea1f.jpg",
+            "image": "shopify:\/\/shop_images\/TMitchell_220607_5981_dea65ccc-aaf4-4db2-abb7-c27c77367c8f.jpg",
             "mobile_image": "shopify:\/\/shop_images\/TMitchell_220607_5981_61514872-3344-4125-aa44-3ed1f9c8ea1f.jpg",
             "slide_link": "",
             "subheading": "",
-            "title": "Into the wild",
+            "title": "Stormy seas and starry skies",
             "heading_max_width": 800,
             "title_size": 34,
             "title_size_mobile": 22,
             "use_h1": false,
-            "text": "<p>Outerwear made for adventure<\/p>",
+            "text": "<p>Our new collection is here!<\/p>",
             "enlarge_text": true,
             "button_label_1": "Shop now",
-            "button_url_1": "https:\/\/littlegreenradicals.com\/collections\/kids-outerwear",
+            "button_url_1": "shopify:\/\/collections\/new-in",
             "button_label_2": "",
             "button_url_2": "",
             "text_alignment": "bottom left"
