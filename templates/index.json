@@ -406,7 +406,7 @@
     "c8c3cbf6-4920-4f5d-a6f8-6384a38f7ce9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".fully-spaced-row--medium {margin-top: 50px; margin-bottom: -120px;}"
+        ".fully-spaced-row--medium {margin-top: 50px; margin-bottom: -100px;}"
       ],
       "settings": {
         "full_width": true,
