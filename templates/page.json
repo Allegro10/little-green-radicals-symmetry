@@ -287,9 +287,10 @@
             "text_alignment": "bottom left"
           }
         },
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-6.-jpg.jpg",
             "enlarge_image": false,
             "subheading": "Gallery",
             "title": "Tell your story",
@@ -299,7 +300,7 @@
             "text_alignment": "bottom left"
           }
         },
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3": {
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2": {
           "type": "image",
           "settings": {
             "enlarge_image": false,
@@ -314,13 +315,13 @@
       },
       "block_order": [
         "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-1",
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2",
-        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3"
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-3",
+        "template--14357810708555__b3facc6a-281e-404c-8d8e-003c1a5ef2ea-image-2"
       ],
       "settings": {
         "grid": 3,
         "height": "fixed",
-        "desktop_image_height": 460,
+        "desktop_image_height": 520,
         "mobile_image_height": 400,
         "title_size": 30,
         "title_size_mobile": 22,
