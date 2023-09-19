@@ -1087,7 +1087,8 @@
           "1478526632861"
         ],
         "custom_css": [
-          ".selectors-form__label {font-weight: 700;}"
+          ".selectors-form__label {font-weight: 700;}",
+          ".announcement-bar__announcements {color: #fff !important;}"
         ],
         "settings": {
           "announcement_bar_col": "#000000",
