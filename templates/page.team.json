@@ -230,7 +230,7 @@
       "settings": {
         "grid": 3,
         "height": "fixed",
-        "desktop_image_height": 500,
+        "desktop_image_height": 480,
         "mobile_image_height": 300,
         "title_size": 30,
         "title_size_mobile": 22,
