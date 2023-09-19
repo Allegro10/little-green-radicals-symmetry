@@ -1088,7 +1088,7 @@
         ],
         "custom_css": [
           ".selectors-form__label {font-weight: 700;}",
-          ".announcement-bar__announcements {color: #fff !important;}"
+          ".go3176171171 span {color: #fff !important;}"
         ],
         "settings": {
           "announcement_bar_col": "#000000",
