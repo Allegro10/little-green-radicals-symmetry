@@ -1,3 +1,7 @@
+{%- comment %}<locksmith:0120>{% endcomment -%}
+  {%- include 'locksmith' -%}
+{%- comment %}</locksmith:0120>{% endcomment -%}
+
 <!DOCTYPE html>
 {%- liquid
   assign rtl_langs = 'ar,arc,dv,fa,ha,he,khw,ks,ku,ps,ur,yi' | split: ','
@@ -10,6 +14,7 @@
 -%}
 <html lang="{{ request.locale.iso_code }}" dir="{{ lang_dir }}">
 <head>
+	{{ locksmith_initializations }}
 	{% include "pandectes-rules" %}
   <!-- Symmetry 6.0.0 -->
 

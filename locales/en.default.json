@@ -458,5 +458,11 @@
       "pick_up_currently_unavailable": "Pickup currently unavailable",
       "invalid_location_address": "Contact store to confirm address"
     }
+  },
+  "locksmith": {
+    "forms": {
+      "submit_button_text": "Continue",
+      "loading_text": "One moment..."
+    }
   }
 }
