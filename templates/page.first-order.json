@@ -87,7 +87,7 @@
         "template--14385451696203__7de05474-6e54-408f-a6aa-3c82ace07f9e-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "terms & conditions",
+            "title": "Terms & conditions",
             "use_h1": false
           }
         },
@@ -105,7 +105,7 @@
       ],
       "settings": {
         "height": "medium",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": false,
         "use_alt_bg": false
       }
