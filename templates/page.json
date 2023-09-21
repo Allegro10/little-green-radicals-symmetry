@@ -100,13 +100,27 @@
             "link": "",
             "text_alignment": "bottom left"
           }
+        },
+        "9eef220a-30d4-4900-9f71-d17d7085c21d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
         "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-2",
         "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-1",
         "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-4",
-        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-3"
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-3",
+        "9eef220a-30d4-4900-9f71-d17d7085c21d"
       ],
       "settings": {
         "grid": 2,
