@@ -464,5 +464,17 @@
       "submit_button_text": "Continue",
       "loading_text": "One moment..."
     }
+  },
+  "shopify": {
+    "errors": {
+      "shop_404": {
+        "title": "Oops, we can't seem to find the page you're looking for!",
+        "heros": {
+          "store_unavailable": "If you just clicked on a product, it might not be available in your country.",
+          "store_not_exist": "Please contact customerservice@littlegreenradicals.co.uk if you have any questions.",
+          "no_storefront": "You can use the menu above to go to another page."
+        }
+      }
+    }
   }
 }
