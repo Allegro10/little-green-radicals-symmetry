@@ -19,8 +19,8 @@
   },
   "general": {
     "404": {
-      "title": "404 Page Not Found",
-      "subtext_html": "You may want to return to the <a href=\"{{ root_url }}\">home page<\/a> or <a href=\"{{ search_url }}\">try a search<\/a>."
+      "title": "Oops, we can't seem to find the page you're looking for!",
+      "subtext_html": "If you just clicked on a product, it might not be available in your country. <p> Please contact customerservice@littlegreenradicals.co.uk if you have any questions.<\/p><p>You can use the menu above to go to another page.<\/p>"
     },
     "accessibility_labels": {
       "close": "Close",
