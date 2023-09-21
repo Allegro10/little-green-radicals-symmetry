@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "c9461cda-1b53-43f2-94cf-be26162c7a86": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TMitchell_230918_0935-4.jpg",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "heading_max_width": 800,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__c9461cda-1b53-43f2-94cf-be26162c7a86-image-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "2dab873c-fb2d-4968-ad11-e5fb65f5d034": {
+      "type": "gallery",
+      "blocks": {
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TMitchell_230918_0933.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Team-1.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Team-6.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "9eef220a-30d4-4900-9f71-d17d7085c21d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SS22_-_5.jpg",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work-with-us-17.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-2",
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-1",
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-4",
+        "9eef220a-30d4-4900-9f71-d17d7085c21d",
+        "template--14357810708555__2dab873c-fb2d-4968-ad11-e5fb65f5d034-image-3"
+      ],
+      "settings": {
+        "grid": 3,
+        "height": "fixed",
+        "desktop_image_height": 500,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "c9461cda-1b53-43f2-94cf-be26162c7a86",
+    "main",
+    "2dab873c-fb2d-4968-ad11-e5fb65f5d034"
+  ]
+}
