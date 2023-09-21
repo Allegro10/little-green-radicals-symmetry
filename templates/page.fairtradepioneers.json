@@ -218,11 +218,11 @@
             "text_alignment": "bottom left"
           }
         },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Qualiance-3_f1193f67-76b3-47a2-981e-ee9b456ad724.jpg",
-            "enlarge_image": false,
+            "image": "shopify:\/\/shop_images\/Logotech-2_4d79a621-4f8e-4b2a-b208-348c5bc02e40.jpg",
+            "enlarge_image": true,
             "subheading": "",
             "title": "",
             "description": "",
@@ -244,11 +244,11 @@
             "text_alignment": "bottom left"
           }
         },
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3": {
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logotech-2_4d79a621-4f8e-4b2a-b208-348c5bc02e40.jpg",
-            "enlarge_image": true,
+            "image": "shopify:\/\/shop_images\/Qualiance-3_f1193f67-76b3-47a2-981e-ee9b456ad724.jpg",
+            "enlarge_image": false,
             "subheading": "",
             "title": "",
             "description": "",
@@ -261,9 +261,9 @@
       "block_order": [
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-0",
         "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-1",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2",
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3",
         "76f4989f-142d-4bb8-9b8e-31435c561862",
-        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-3"
+        "template--14340524408907__3f4eb2ef-40a3-4bb1-9cff-574407c27f5e-1676656002071103c8-2"
       ],
       "settings": {
         "grid": 3,
