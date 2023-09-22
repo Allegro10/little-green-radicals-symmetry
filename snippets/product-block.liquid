@@ -241,6 +241,8 @@
               {%- endfor -%}
             {%- endif -%}
 
+              <div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div>
+
             {%- if settings.enable_product_reviews_collection and product.metafields.reviews.rating_count != blank -%}
               {%- assign rating_count = product.metafields.reviews.rating_count | plus: 0 -%}
               {%- if rating_count > 0 -%}
