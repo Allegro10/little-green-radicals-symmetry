@@ -16,7 +16,7 @@
             "image": "shopify:\/\/shop_images\/Deeps-2_0fa7eab1-7da0-4a10-8ac3-c704a701ac01.jpg",
             "enlarge_image": false,
             "subheading": "",
-            "title": "",
+            "title": "Our partners",
             "description": "",
             "button_label": "",
             "link": "",
@@ -49,7 +49,7 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-0": {
           "type": "heading",
           "settings": {
-            "title": "Our certifications",
+            "title": "Super certifications",
             "use_h1": false
           }
         },
@@ -63,7 +63,7 @@
         "template--14340524408907__1db0134d-6880-4d6d-8fba-7aac9a2b25ab-167665613419ac51df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>All the cotton we use is Fairtrade and GOTs certified, and all our clothing is made by producers who meet the Fairtrade Standard. <\/p>",
+            "text": "<p>Since the beginning, we've only used cotton that's Fairtrade and organic certified, so you can rest assured that the farmers and people who make our clothes are being treated and paid fairly. To be awarded GOTS and Fairtrade status, the whole production process is checked, from cotton farming, to the inks and dyes used, right through to cutting and stitching of our beautifully made clothing. <\/p>",
             "enlarge_text": true
           }
         }
@@ -94,9 +94,9 @@
             "image": "shopify:\/\/shop_images\/Fairtrade_1_1dcb832e-e606-4a38-80a9-6803ff7e2b0e.png",
             "image_width": 150,
             "title": "Fairtrade Certification",
-            "text": "<p>In a nutshell Fairtrade certification gives farmers the following benefits:<br\/><br\/>• A guaranteed minimim price<br\/>• Extra money for a community fund<br\/>• Co-operative support network & improved borrowing power <br\/>• Sustainability training on carbon reduction, water managment & bio-diversity<br\/>• Promotion of gender equality<br\/><\/p><p><strong>Plus the Fairtrade Textile Standards means:<\/strong><br\/>• No child labour<br\/>• No synthetic pesticides or fertilizers <br\/>• Social and environmental sustainability<\/p>",
+            "text": "<p>In a nutshell Fairtrade certification gives farmers the following benefits:<br\/><br\/>• A guaranteed minimim price<br\/>• Extra money for a community fund<br\/>• Co-operative support network & improved borrowing power <br\/>• Training on carbon reduction, water management and bio-diversity<br\/>• Promotion of gender equality<\/p><p><strong>Plus the Fairtrade Textile Standards means:<\/strong><br\/>• No child labour<br\/>• No synthetic pesticides or fertilizers <br\/>• Social and environmental sustainability<\/p>",
             "button_label": "Find out more",
-            "link": ""
+            "link": "https:\/\/littlegreenradicals.com\/pages\/fairtrade-pioneers"
           }
         },
         "9369f3b2-5f69-4897-8401-e0ecd9942d1f": {
@@ -106,9 +106,9 @@
             "image": "shopify:\/\/shop_images\/GOTS_1_57ab56a6-fbe8-4cee-9b17-954fa52d0b03.png",
             "image_width": 150,
             "title": "The Global Organic Textile Standard (GOTS)",
-            "text": "<p>GOTs look at the whole of our clothing production, from cotton growing, to the inks and dyes we use, right through to the fair treatment of the people who make our clothes. <br\/><br\/><strong>Organic cotton<\/strong><br\/>Simply put, pesticide free organic cotton is better for farmers, for the environment and for us.<br\/> <br\/>• Crops aren't intensely sprayed with chemicals that can damage farmers health<br\/>• GM seeds are banned<br\/>• Rivers, lakes and drinking water are cleaner<br\/>• 46% less greenhouse gas emissions are used.* <br\/>• Toxin free so organic won't irritate your child's skin <br\/>• What's not to love!<br\/><br\/><strong>Organic Certified Inks<\/strong><br\/>GOTS is the leading standard for textiles made from organic fibres worldwide. They commit to the highest level in environmental standards across our whole supply chain including the inks we use!<\/p>",
-            "button_label": "Find out more",
-            "link": ""
+            "text": "<p>Simply put, pesticide free organic cotton is better for farmers, for the environment and for us. Why is this?<br\/> <br\/>• Crops aren't intensely sprayed with pesticides that can damage farmers health<br\/>• GM seeds are banned<br\/>• Rivers, lakes and drinking water surrounding the cotton fields are cleaner<br\/>• Less greenhouse gas emissions are used<br\/>• No harmful toxins like phthalates, chemical bleaches, harmful heavy metals or chlorine are used so organic won't irritate your child's skin <\/p><p>What's not to love!<\/p>",
+            "button_label": "Read on",
+            "link": "https:\/\/littlegreenradicals.com\/blogs\/news\/tagged\/fairtrade-and-organic"
           }
         }
       },
@@ -135,10 +135,10 @@
             "image": "shopify:\/\/shop_images\/Deeps-1.jpg",
             "enlarge_image": true,
             "subheading": "",
-            "title": "",
+            "title": "Producer partner: Deeps Textiles",
             "description": "",
             "button_label": "",
-            "link": "",
+            "link": "https:\/\/deepstexstyles.com",
             "text_alignment": "bottom left"
           }
         }
@@ -165,23 +165,15 @@
     "687bed44-b10d-40e3-8503-5211c9333622": {
       "type": "rich-text",
       "blocks": {
-        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Deeps Textiles",
-            "use_h1": false
-          }
-        },
         "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’ve been working with this family run business based in the beautiful countryside around Kolkata, India since… They’re are a leading light in ethical manufacturing and we hugely value their expertise.<br\/><br\/>deepstexstyles.com<\/p>",
+            "text": "<p>We’ve been working with this family run business based in the luscious countryside around Kolkata, India for many years. They’re are a leading light in ethical manufacturing and we hugely value their expertise.<\/p>",
             "enlarge_text": true
           }
         }
       },
       "block_order": [
-        "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-heading-1",
         "template--14395657715787__687bed44-b10d-40e3-8503-5211c9333622-text-1"
       ],
       "custom_css": [
@@ -205,7 +197,7 @@
             "image": "shopify:\/\/shop_images\/Deeps-2.jpg",
             "image_width": 500,
             "title": "Equality & Empowerment",
-            "text": "<p>Deeps collaborate with Swadhina, who work to improve the lives of women and children in rural India Deeps also provide specialist training, healthcare and steady wage for female employees.<\/p>",
+            "text": "<p>Deeps collaborate with Swadhina, who work to improve the lives of women and children in rural India. They also provide training, healthcare and steady wages for female employees.<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -217,7 +209,7 @@
             "image": "shopify:\/\/shop_images\/Deeps-3.jpg",
             "image_width": 500,
             "title": "Zero Waste Projects",
-            "text": "<p>They operate a zero textile wastage policy to reduce their environmental impact. Scraps of fabric are reused and made into new products including our soft toys, or recycled.<\/p>",
+            "text": "<p>They operate a zero textile wastage policy to reduce their environmental impact. Scraps of fabric are reused and made into new products including our soft toys and accessories, or recycled.<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -229,7 +221,7 @@
             "image": "shopify:\/\/shop_images\/Deeps-4.jpg",
             "image_width": 500,
             "title": "Expert Hand Screen-Printers",
-            "text": "<p>The skilled team print each colour onto our organic fabrics by hand. No easy task with some of our multi-colour designs!<\/p>",
+            "text": "<p>The skilled team at Deeps print each colour onto our organic fabrics by hand to create our designs. Not an easy task with some of our multi-colour prints!<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -256,7 +248,7 @@
             "image": "shopify:\/\/shop_images\/Logotech-3_8cefb3a1-c4f1-4096-b68c-3c10992e5320.jpg",
             "enlarge_image": true,
             "subheading": "",
-            "title": "",
+            "title": "Producer partner: <br>Logotech",
             "description": "",
             "button_label": "",
             "link": "",
@@ -300,23 +292,15 @@
     "374a8ed4-1b81-43ca-8d48-f59af30203a4": {
       "type": "rich-text",
       "blocks": {
-        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Logotech",
-            "use_h1": false
-          }
-        },
         "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Logotech are a long-term partner whose knowledge and experience is invaluable to us. With their attention to detail, fabric expertise and careful stitching, Logotech are a joy to work with and we hugly look forward to seeing their beautifully pieces when they arrive.<\/p>",
+            "text": "<p>Logotech are a long-term partner whose knowledge and experience is invaluable to us. With their attention to detail, fabric expertise and careful stitching, Logotech are a joy to work with and we hugely look forward to seeing the clothes they make from each  new collection. <\/p>",
             "enlarge_text": true
           }
         }
       },
       "block_order": [
-        "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-heading-1",
         "template--14395657715787__374a8ed4-1b81-43ca-8d48-f59af30203a4-text-1"
       ],
       "custom_css": [
@@ -363,8 +347,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Logotech-2_4d79a621-4f8e-4b2a-b208-348c5bc02e40.jpg",
             "image_width": 700,
-            "title": "",
-            "text": "",
+            "title": "Sharing Experience",
+            "text": "<p>Bonnie and Josie learn from the team's extensive knowledge which helps us to innovate and grow every year. <\/p>",
             "button_label": "",
             "link": ""
           }
@@ -391,10 +375,10 @@
             "image": "shopify:\/\/shop_images\/Qualiance-3_f1193f67-76b3-47a2-981e-ee9b456ad724.jpg",
             "enlarge_image": true,
             "subheading": "",
-            "title": "",
+            "title": "Producer partner: <br>Qualiance",
             "description": "",
             "button_label": "",
-            "link": "",
+            "link": "https:\/\/rcm-organic.com",
             "text_alignment": "bottom left"
           }
         }
@@ -421,23 +405,15 @@
     "3020a1c9-35d5-4ab1-910b-6d09a1112668": {
       "type": "rich-text",
       "blocks": {
-        "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Qualiance",
-            "use_h1": false
-          }
-        },
         "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Qualiance produce our wonderful rainwear which uses a high performance fabric made by Recyclatex from recycled post-consumer plastic bottles. Finding the right fabric and producer, and working with them to make a technical, high performance product that also looked beautiful was 10 years in the making, and we were led by our Founders Nick’s philosophy that, “It is not just ‘what’ we make but ‘how’ we make it.”<br\/><br\/>rcm-organic.com<\/p>",
+            "text": "<p>Qualiance produce our wonderful rainwear which uses a high performance fabric made by Recyclatex from recycled post-consumer plastic bottles and polyester. Finding the right fabric and producer, and working with them to make a technical product that also looked amazing was 10 years in the making, and we were led by our Founders Nick’s philosophy that, “It is not just ‘what’ we make but ‘how’ we make it.”<\/p>",
             "enlarge_text": true
           }
         }
       },
       "block_order": [
-        "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-heading-1",
         "template--14395657715787__3020a1c9-35d5-4ab1-910b-6d09a1112668-text-1"
       ],
       "custom_css": [
@@ -461,7 +437,7 @@
             "image": "shopify:\/\/shop_images\/Qualiance-3.jpg",
             "image_width": 500,
             "title": "Eco-friendly",
-            "text": "<p>Qualiance harvest rainwater at their factory and use solar panels to create part of the energy they use. They are have over 10 certifications to their name!<\/p>",
+            "text": "<p>At their factory, Qualiance harvest rainwater and use solar panels to create part of the energy they use. They are have over 10 certifications to their name!<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -473,7 +449,7 @@
             "image": "shopify:\/\/shop_images\/Qualiance-2.jpg",
             "image_width": 500,
             "title": "High Performance",
-            "text": "<p>Qualiance are at the cutting edge of performance wear. They heat-seal seam so no water can get through and use advanced garment technology to reduce waste when cutting patterns..<\/p>",
+            "text": "<p>Qualiance are at the cutting edge of performance wear. They heat-seal seam so no water can get through and use advanced garment technology to reduce waste when cutting patterns.<\/p>",
             "button_label": "",
             "link": ""
           }
