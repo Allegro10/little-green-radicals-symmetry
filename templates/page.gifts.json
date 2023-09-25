@@ -257,7 +257,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Gift-12.jpg",
-            "image_width": 390,
+            "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "For kids",
@@ -281,7 +281,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/LGR_E-Gift-Card_1.jpg",
-            "image_width": 700,
+            "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gift e-cards",
