@@ -252,16 +252,16 @@
     "b6e0eb92-1386-4362-8827-7692ed7ea939": {
       "type": "multi-column",
       "blocks": {
-        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-0": {
+        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-12.jpg",
+            "image": "shopify:\/\/shop_images\/Gift-17.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
-            "button_label": "For kids",
-            "link": "shopify:\/\/collections\/kids-gifts"
+            "button_label": "Gift e-cards",
+            "link": "shopify:\/\/products\/gift-card"
           }
         },
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-1": {
@@ -276,23 +276,23 @@
             "link": "shopify:\/\/collections\/newborn-baby-clothes-gift-set"
           }
         },
-        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2": {
+        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-0": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-15.jpg",
+            "image": "shopify:\/\/shop_images\/Gift-12.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
-            "button_label": "Gift e-cards",
-            "link": "shopify:\/\/products\/gift-card"
+            "button_label": "For kids",
+            "link": "shopify:\/\/collections\/kids-gifts"
           }
         }
       },
       "block_order": [
-        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-0",
+        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2",
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-1",
-        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-2"
+        "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-0"
       ],
       "settings": {
         "title": "Gift suggestions",
