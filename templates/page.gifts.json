@@ -113,6 +113,45 @@
         "overlay_style": "shadow"
       }
     },
+    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Gift-7.jpg",
+            "image_width": 400,
+            "title": "",
+            "text": "",
+            "button_label": "Gifts under £30",
+            "link": "shopify:\/\/collections\/gifts-under-30"
+          }
+        },
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Gift-8.jpg",
+            "image_width": 400,
+            "title": "",
+            "text": "",
+            "button_label": "Gifts under £50",
+            "link": "shopify:\/\/collections\/gifts-under-50"
+          }
+        }
+      },
+      "block_order": [
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
+        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1"
+      ],
+      "settings": {
+        "title": "Gifts by price",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
     "438eaa54-dc47-451c-88dc-9201f9763419": {
       "type": "multi-column",
       "blocks": {
@@ -164,45 +203,6 @@
       ],
       "settings": {
         "title": "Gifts by occasion",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
-    "f37d9b5e-c32a-4749-9683-5c405d2c4152": {
-      "type": "multi-column",
-      "blocks": {
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-7.jpg",
-            "image_width": 400,
-            "title": "",
-            "text": "",
-            "button_label": "Gifts under £30",
-            "link": "shopify:\/\/collections\/gifts-under-30"
-          }
-        },
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-8.jpg",
-            "image_width": 400,
-            "title": "",
-            "text": "",
-            "button_label": "Gifts under £50",
-            "link": "shopify:\/\/collections\/gifts-under-50"
-          }
-        }
-      },
-      "block_order": [
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-0",
-        "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1"
-      ],
-      "settings": {
-        "title": "Gifts by price",
         "text_alignment": "center",
         "button_style": "primary",
         "use_alt_bg": false
@@ -390,8 +390,8 @@
     "b1205d78-cf74-464d-b01a-3c688f71b754",
     "136af74a-2d44-4f67-994d-ca363bec9e12",
     "4dc3d7bc-85f6-4d0f-9749-46cdd7bd194f",
-    "438eaa54-dc47-451c-88dc-9201f9763419",
     "f37d9b5e-c32a-4749-9683-5c405d2c4152",
+    "438eaa54-dc47-451c-88dc-9201f9763419",
     "b85df174-afba-4615-91f5-e9e7d3756795",
     "7c42fd46-c8e5-4fec-a984-6272364acf27",
     "b6e0eb92-1386-4362-8827-7692ed7ea939",
