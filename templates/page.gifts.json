@@ -88,6 +88,7 @@
     },
     "4dc3d7bc-85f6-4d0f-9749-46cdd7bd194f": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/TMitchell_220209_8072_copy.jpg",
         "height": "fixed",
