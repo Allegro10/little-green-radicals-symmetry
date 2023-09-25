@@ -176,7 +176,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Untitled_design_14.jpg",
-            "image_width": 700,
+            "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gifts under £30",
@@ -188,7 +188,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Untitled_design_17.jpg",
-            "image_width": 700,
+            "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gifts under £50",
