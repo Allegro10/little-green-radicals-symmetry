@@ -10,8 +10,8 @@
     "0ec52567-1590-4317-8772-ad42429e5d2d": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Gifts_Main_Image.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Gifts_Main_Image.jpg",
+        "image": "shopify:\/\/shop_images\/Gift-1.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Gift-1.jpg",
         "height": "fixed",
         "height_desktop": 460,
         "height_mobile": 200,
@@ -120,8 +120,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_7.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Gift-2.jpg",
+            "image_width": 400,
             "title": "",
             "text": "<p>Baby Showers <\/p>",
             "button_label": "",
@@ -132,8 +132,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_6.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Gift-5.jpg",
+            "image_width": 400,
             "title": "",
             "text": "<p>Christenings & Naming Ceremonies<\/p>",
             "button_label": "",
@@ -144,8 +144,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/TY-004-MUL_2_copy.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Gift-4.jpg",
+            "image_width": 500,
             "title": "",
             "text": "<p>Birthdays<\/p>",
             "button_label": "",
