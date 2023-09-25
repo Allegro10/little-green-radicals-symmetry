@@ -213,7 +213,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/AW23-Header-23.jpg",
         "height": "fixed",
-        "height_desktop": 400,
+        "height_desktop": 500,
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
