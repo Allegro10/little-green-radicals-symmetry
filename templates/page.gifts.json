@@ -145,7 +145,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Gift-4.jpg",
-            "image_width": 500,
+            "image_width": 400,
             "title": "",
             "text": "<p>Birthdays<\/p>",
             "button_label": "",
