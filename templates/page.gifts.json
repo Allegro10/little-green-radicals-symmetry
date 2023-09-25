@@ -212,7 +212,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/NA19022_4.jpg",
         "height": "fixed",
-        "height_desktop": 600,
+        "height_desktop": 400,
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
