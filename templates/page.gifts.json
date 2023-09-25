@@ -315,14 +315,14 @@
         "title_size": 50,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Want to make your gift extra special? Choose from our gift box & fabric wrapping selection, or you can include a personal message free of charge.<\/p>",
+        "text": "<p>Want to make your gift extra special?  Choose from our gift box & fabric wrapping selection, or you can include a personal message free of charge.<\/p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
         "button_label_2": "",
         "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
+        "text_alignment": "bottom right",
+        "full_width": false,
         "mobile_overlay_under": false,
         "overlay_style": "shadow"
       }
