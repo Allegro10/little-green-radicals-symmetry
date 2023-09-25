@@ -121,8 +121,8 @@
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_7.jpg",
             "image_width": 700,
             "title": "",
-            "text": "",
-            "button_label": "Baby showers",
+            "text": "<p>Baby Showers <\/p>",
+            "button_label": "",
             "link": "shopify:\/\/collections\/baby-shower-clothing-gifts"
           }
         },
@@ -133,8 +133,8 @@
             "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_6.jpg",
             "image_width": 700,
             "title": "",
-            "text": "",
-            "button_label": "Christenings & naming ceremonies",
+            "text": "<p>Christenings & Naming Ceremonies<\/p>",
+            "button_label": "",
             "link": "shopify:\/\/collections\/naming-ceremony-christening-gifts"
           }
         },
@@ -145,8 +145,8 @@
             "image": "shopify:\/\/shop_images\/TY-004-MUL_2_copy.jpg",
             "image_width": 700,
             "title": "",
-            "text": "",
-            "button_label": "Birthdays",
+            "text": "<p>Birthdays<\/p>",
+            "button_label": "",
             "link": "shopify:\/\/collections\/kids-birthday-gifts"
           }
         }
