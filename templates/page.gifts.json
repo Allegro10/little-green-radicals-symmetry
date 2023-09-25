@@ -211,15 +211,15 @@
     "b85df174-afba-4615-91f5-e9e7d3756795": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/NA19022_4.jpg",
+        "image": "shopify:\/\/shop_images\/AW23-Header-23.jpg",
         "height": "fixed",
         "height_desktop": 400,
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
         "title": "Hello World",
-        "heading_max_width": 800,
-        "title_size": 84,
+        "heading_max_width": 520,
+        "title_size": 60,
         "title_size_mobile": 46,
         "use_h1": false,
         "text": "<p>Beautiful baby gifts<\/p>",
