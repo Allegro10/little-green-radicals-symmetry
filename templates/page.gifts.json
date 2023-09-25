@@ -256,8 +256,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_8.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Gift-12.jpg",
+            "image_width": 390,
             "title": "",
             "text": "",
             "button_label": "For kids",
@@ -268,8 +268,8 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Homepage_-_Collection_Promotion_Rectanlge_9.jpg",
-            "image_width": 700,
+            "image": "shopify:\/\/shop_images\/Gift-14.jpg",
+            "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "For newborns",
