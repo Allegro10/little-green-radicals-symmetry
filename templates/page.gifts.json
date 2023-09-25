@@ -49,7 +49,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a gift e-card if you just can't decide! For a finishing touch, use our gift wrapping service to make your gift extra special.<\/p>",
-            "enlarge_text": false
+            "enlarge_text": true
           }
         }
       },
@@ -80,6 +80,7 @@
     },
     "136af74a-2d44-4f67-994d-ca363bec9e12": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "code": "<div class=\"klaviyo-form-UdstAc\"><\/div>\n<div class=\"klaviyo-form-T8hB6W\"><\/div>"
