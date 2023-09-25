@@ -1079,11 +1079,18 @@
             "settings": {
               "text": "<div class=\"klaviyo-form-Xze64L\"><\/div>\n<div class=\"klaviyo-form-T6SfkD\"><\/div>"
             }
+          },
+          "76512fab-7d4a-4324-85f5-b84794e606cd": {
+            "type": "announcement",
+            "settings": {
+              "text": "<b> 5,000+ reviews I ***** Rated 4.8\/5 <\/b>"
+            }
           }
         },
         "block_order": [
           "1478526632861",
-          "e63de702-7689-4a4a-bc42-b587c4d8d766"
+          "e63de702-7689-4a4a-bc42-b587c4d8d766",
+          "76512fab-7d4a-4324-85f5-b84794e606cd"
         ],
         "custom_css": [
           ".selectors-form__label {font-weight: 700;}",
