@@ -105,7 +105,7 @@
         "collapse_tag_sidebar_by_default": true,
         "collapse_filters_method": "over-12",
         "show_filter_counts": false,
-        "show_disabled_filters": true,
+        "show_disabled_filters": false,
         "ajax_products": true,
         "auto_apply_hide_unavailable": true,
         "enable_sticky_filter": true,
