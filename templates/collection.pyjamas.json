@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "7bde5178-e867-4e73-8c6a-daa8052b3b4d": {
@@ -42,9 +51,7 @@
     },
     "main": {
       "type": "main-collection",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "show_title": false,
         "show_image_behind_heading": false,
@@ -84,12 +91,12 @@
         "template--14322409570379__457462c9-a6a3-40c3-92d9-cf8826aab024-167111967641cee857-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Homepage_-_Header_Image_2_777871db-edd5-4353-b75c-466d5184de5f.jpg",
+            "image": "shopify://shop_images/Homepage_-_Header_Image_2_777871db-edd5-4353-b75c-466d5184de5f.jpg",
             "enlarge_image": true,
             "subheading": "For a comfy nights sleep",
             "title": "Explore our comfy bedding range",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/baby-bedding",
+            "link": "shopify://collections/organic-kids-bedding",
             "text_alignment": "bottom left"
           }
         },
@@ -157,12 +164,11 @@
       "disabled": true,
       "settings": {
         "full_width": true,
-        "code": "<div class=\"klaviyo-form-S87aPB\"><\/div>"
+        "code": "<div class=\"klaviyo-form-S87aPB\"></div>"
       }
     },
     "11ce3850-62e3-474a-90ef-751714f32ade": {
       "type": "custom-row",
-      "disabled": true,
       "blocks": {
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-0": {
           "type": "image",
@@ -173,7 +179,7 @@
             "height_mobile": 500,
             "subheading": "Subheading",
             "title": "Tell your story",
-            "text": "<p>Pair text with an image to tell a story<\/p>",
+            "text": "<p>Pair text with an image to tell a story</p>",
             "enlarge_text": false,
             "button_label": "",
             "image_link": "",
@@ -188,7 +194,7 @@
             "width": "half",
             "subheading": "",
             "title": "Welcome",
-            "text": "<p>Use this text to share information about your store with your customers.<\/p><p>Describe products, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Use this text to share information about your store with your customers.</p><p>Describe products, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
@@ -200,6 +206,7 @@
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-0",
         "template--14322409570379__11ce3850-62e3-474a-90ef-751714f32ade-1676466861073403ec-1"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "middle"
       }
