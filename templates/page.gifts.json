@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,8 +19,8 @@
     "0ec52567-1590-4317-8772-ad42429e5d2d": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Gift-1.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Gift-1.jpg",
+        "image": "shopify://shop_images/Gift-1.jpg",
+        "mobile_image": "shopify://shop_images/Gift-1.jpg",
         "height": "fixed",
         "height_desktop": 460,
         "height_mobile": 200,
@@ -22,7 +31,7 @@
         "title_size": 60,
         "title_size_mobile": 30,
         "use_h1": false,
-        "text": "<p>Beautiful organic cotton gifts for babies, toddlers & kids<\/p>",
+        "text": "<p>Beautiful organic cotton gifts for babies, toddlers & kids</p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
@@ -48,7 +57,7 @@
         "template--14382150811723__f70faeff-ee8e-43d1-961b-f7b8af6749fe-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a gift e-card if you just can't decide! For a finishing touch, use our gift wrapping service to make your gift extra special.<\/p>",
+            "text": "<p>Find organic cotton soft toys, newborn essentials and gift sets, or select a gift e-card if you just can't decide! For a finishing touch, use our gift wrapping service to make your gift extra special.</p>",
             "enlarge_text": true
           }
         }
@@ -70,12 +79,10 @@
     "b1205d78-cf74-464d-b01a-3c688f71b754": {
       "type": "custom-liquid",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
-        "code": "<center><span style=\"font-size:16px\">Find organic cotton soft toys, newborn essentials and gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special. <span style=\"font-size:16px\"><\/span><\/span><\/center>"
+        "code": "<center><span style=\"font-size:16px\">Find organic cotton soft toys, newborn essentials and gift sets, or select a Gift E-Card if you just can't decide! For a finishing touch, use our Gift Wrapping Service to make your gift extra special. <span style=\"font-size:16px\"></span></span></center>"
       }
     },
     "136af74a-2d44-4f67-994d-ca363bec9e12": {
@@ -83,14 +90,14 @@
       "disabled": true,
       "settings": {
         "full_width": true,
-        "code": "<div class=\"klaviyo-form-UdstAc\"><\/div>\n<div class=\"klaviyo-form-T8hB6W\"><\/div>"
+        "code": "<div class=\"klaviyo-form-UdstAc\"></div>\n<div class=\"klaviyo-form-T8hB6W\"></div>"
       }
     },
     "4dc3d7bc-85f6-4d0f-9749-46cdd7bd194f": {
       "type": "image-with-text-overlay",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/TMitchell_220209_8072_copy.jpg",
+        "image": "shopify://shop_images/TMitchell_220209_8072_copy.jpg",
         "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
@@ -104,7 +111,7 @@
         "text": "",
         "enlarge_text": true,
         "button_label_1": "Shop now",
-        "button_url_1": "https:\/\/littlegreenradicals.com\/collections\/gift-sets",
+        "button_url_1": "https://littlegreenradicals.com/collections/gift-sets",
         "button_label_2": "",
         "button_url_2": "",
         "text_alignment": "center center",
@@ -120,24 +127,24 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-7.jpg",
+            "image": "shopify://shop_images/Gift-7.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gifts under £30",
-            "link": "shopify:\/\/collections\/gifts-under-30"
+            "link": "shopify://collections/gifts-under-30"
           }
         },
         "template--14340524408907__f37d9b5e-c32a-4749-9683-5c405d2c4152-1676656052bd7e01c0-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-8.jpg",
+            "image": "shopify://shop_images/Gift-8.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gifts under £50",
-            "link": "shopify:\/\/collections\/gifts-under-50"
+            "link": "shopify://collections/gifts-under-50"
           }
         }
       },
@@ -159,36 +166,36 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-2.jpg",
+            "image": "shopify://shop_images/Gift-2.jpg",
             "image_width": 400,
             "title": "",
-            "text": "<p>Baby Showers <\/p>",
+            "text": "<p>Baby Showers </p>",
             "button_label": "",
-            "link": "shopify:\/\/collections\/baby-shower-clothing-gifts"
+            "link": "shopify://collections/baby-shower-clothing-gifts"
           }
         },
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-5.jpg",
+            "image": "shopify://shop_images/Gift-5.jpg",
             "image_width": 400,
             "title": "",
-            "text": "<p>Christenings & Naming Ceremonies<\/p>",
+            "text": "<p>Christenings & Naming Ceremonies</p>",
             "button_label": "",
-            "link": "shopify:\/\/collections\/naming-ceremony-christening-gifts"
+            "link": "shopify://collections/naming-ceremony-christening-gifts"
           }
         },
         "template--14382150811723__438eaa54-dc47-451c-88dc-9201f9763419-16892522250722a066-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-4.jpg",
+            "image": "shopify://shop_images/Gift-4.jpg",
             "image_width": 400,
             "title": "",
-            "text": "<p>Birthdays<\/p>",
+            "text": "<p>Birthdays</p>",
             "button_label": "",
-            "link": "shopify:\/\/collections\/kids-birthday-gifts"
+            "link": "shopify://collections/kids-birthday-gifts"
           }
         }
       },
@@ -211,7 +218,7 @@
     "b85df174-afba-4615-91f5-e9e7d3756795": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/AW23-Header-23.jpg",
+        "image": "shopify://shop_images/AW23-Header-23.jpg",
         "height": "fixed",
         "height_desktop": 500,
         "height_mobile": 460,
@@ -222,10 +229,10 @@
         "title_size": 60,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Beautiful baby gifts<\/p>",
+        "text": "<p>Beautiful baby gifts</p>",
         "enlarge_text": true,
         "button_label_1": "Shop",
-        "button_url_1": "shopify:\/\/collections\/natural-organic-baby-collection",
+        "button_url_1": "shopify://collections/natural-organic-baby-collection",
         "button_label_2": "",
         "button_url_2": "",
         "text_alignment": "bottom left",
@@ -256,36 +263,36 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-17.jpg",
+            "image": "shopify://shop_images/Gift-17.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "Gift e-cards",
-            "link": "shopify:\/\/products\/gift-card"
+            "link": "shopify://products/gift-card-uk"
           }
         },
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-14.jpg",
+            "image": "shopify://shop_images/Gift-14.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "For newborns",
-            "link": "shopify:\/\/collections\/newborn-baby-clothes-gift-set"
+            "link": "shopify://collections/newborn-baby-clothes-gift-set"
           }
         },
         "template--14382150811723__b6e0eb92-1386-4362-8827-7692ed7ea939-16892522250722a066-0": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Gift-12.jpg",
+            "image": "shopify://shop_images/Gift-12.jpg",
             "image_width": 400,
             "title": "",
             "text": "",
             "button_label": "For kids",
-            "link": "shopify:\/\/collections\/kids-gifts"
+            "link": "shopify://collections/kids-gifts"
           }
         }
       },
@@ -304,7 +311,7 @@
     "0b70e84b-8850-42f9-ad72-dfce0569652d": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_4.jpg",
+        "image": "shopify://shop_images/Untitled_design_4.jpg",
         "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
@@ -315,7 +322,7 @@
         "title_size": 50,
         "title_size_mobile": 46,
         "use_h1": false,
-        "text": "<p>Want to make your gift extra special?  Choose from our gift box & fabric wrapping selection, or you can include a personal message free of charge.<\/p>",
+        "text": "<p>Want to make your gift extra special?  Choose from our gift box & fabric wrapping selection, or you can include a personal message free of charge.</p>",
         "enlarge_text": true,
         "button_label_1": "",
         "button_url_1": "",
